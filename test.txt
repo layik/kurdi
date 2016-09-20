@@ -1,1 +1,2 @@
 hi it is initail commit.
+version controls cosist of manul saving SVN drop box google docs wikipidea Git.
