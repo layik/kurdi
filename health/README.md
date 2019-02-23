@@ -1,25 +1,19 @@
----
-title: "سەنتەرەکانی تەندروستی هەرێم و شوێنەکانیان"
-author: 
-  - "لائق حەمە"
-date: "2019-02-23"
-output: github_document
----
+سەنتەرەکانی تەندروستی هەرێم و شوێنەکانیان
+================
+لائق حەمە
+2019-02-23
 
 بۆ بینینی داتاکە بە زمانی ئاڕ و زانینی هەندێ ژمارە:
 
-
-```r
+``` r
 x = read.csv("data.csv")
 summary(x$type)
 ```
 
-```
-##    branch   centers emergency  hospital      main maternity 
-##       624        73         9        53       259         9
-```
+    ##    branch   centers emergency  hospital      main maternity 
+    ##       624        73         9        53       259         9
 
-```r
+``` r
 coords = c("longitude", "latitude")
 x_sf = sf::st_as_sf(x, coords = coords, crs = 4326)
 geojson = geojsonio::geojson_json(x_sf)
@@ -28,22 +22,19 @@ geojson = geojsonio::geojson_json(x_sf)
 
 ئەنجا بۆ ئەوەی لەم پەڕەیە بیبینین
 
-
-```r
+``` r
 library(htmltools)
 sub = geojsonio::geojson_json(x_sf[, c("type", "arabic_name", "directorate")], 
 factors_as_string = TRUE)
 sub
 ```
 
-```
-## <FeatureCollection> 
-##   type:  FeatureCollection 
-##   no. features:  1027 
-##   features (1st 5):  Point, Point, Point, Point, Point
-```
+    ## <FeatureCollection> 
+    ##   type:  FeatureCollection 
+    ##   no. features:  1027 
+    ##   features (1st 5):  Point, Point, Point, Point, Point
 
-```r
+``` r
 template = paste0('
 <html lang="ku">
 <head>
@@ -120,12 +111,10 @@ includeHTML("view.html")
 <!--html_preserve-->
 <html lang="ku">
 <head>
-<meta charset="UTF-8">
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+<meta charset="UTF-8"> <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
 <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
 </head>
 <body>
-<div id="mapid" style="width: 100%; height: 400px;">
 <script>
     var map = L.map("mapid");
     L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw", {
@@ -184,4 +173,7 @@ includeHTML("view.html")
 <style>
 .info { padding: 6px 8px; font: 14px/16px Arial, Helvetica, sans-serif; background: white; background: rgba(255,255,255,0.8); box-shadow: 0 0 15px rgba(0,0,0,0.2); border-radius: 5px; } .info h4 { margin: 0 0 5px; color: #777; }
 .legend { text-align: left; line-height: 18px; color: #555; } .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.7; }</style>
-</div></body></html><!--/html_preserve-->
+
+</body>
+</html>
+<!--/html_preserve-->

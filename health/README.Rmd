@@ -5,8 +5,9 @@ author:
 date: "`r Sys.Date()`"
 output: github_document
 ---
-
+<div style="direction:rtl">
 بۆ بینینی داتاکە بە زمانی ئاڕ و زانینی هەندێ ژمارە:
+</div>
 
 ```{r init}
 x = read.csv("data.csv")
@@ -17,7 +18,9 @@ geojson = geojsonio::geojson_json(x_sf)
 # write(geojson, "data.geojson")
 ```
 
+<div style="direction:rtl">
 ئەنجا بۆ ئەوەی لەم پەڕەیە بیبینین
+</div>
 
 ```{r map}
 library(htmltools)
