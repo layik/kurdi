@@ -1,0 +1,1028 @@
+_id,arabic_name,description,type,latitude,longitude,directorate,directorate_latitude,directorate_longitude,icon,tags,start_time,end_time,phone_no
+1,"سەنتەرێ ئاكرێ یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Akre 122 Emergency Sub-coordination Center",centers,36.7355,43.8826,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+2,"سەنتەرێ شوشتنا کولجیسکا ل ئاکرێ","Akre Dialysis Center",centers,36.7366,43.8861,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+3,"سەنتەرێ نەخوشیێن تالاسیمیا ل ئاکرێ","Akre Thalassemia Center",centers,36.7366,43.8861,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+4,"سەنتەرێ سه‌رسنگ یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Sarsing 122 Emergency  Sub-coordination Center",centers,37.0458,43.3535,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+5,"سەنتەرێ كانی ماصێ یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Kani Mase 122 Emergency Sub-coordination Center",centers,37.2299,43.4417,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+6,"سەنتەرێ شێلادزێ یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Sheladze 122 Emergency Sub-coordination Center",centers,37.0261,43.8013,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+7,"سەنتەرێ به‌رده‌ره‌ش یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Bardarash 122 Emergency  Sub-coordination Center",centers,36.5044,43.5887,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+8,"سەنتەرێ كه‌له‌ك یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Kalak 122 Emergency Sub-coordination Center",centers,36.2686,43.6367,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+9,"سەنتەرێ روڤیا یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Rovia 122 Emergency Sub-coordination Center",centers,36.62,43.7028,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+10,"سەنتەرێ سه‌ره‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","PHC/Main 122 Emergency Coordination Center",centers,36.8465,43.0103,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+11,"سەنتەرێ لاوه‌كی  نه‌خوشخانا ته‌نگاڤیا دهوك یا فێركرنێ یێ هەماهەنگیا هاوارهاتنا بلەز","Duhok Emergency Teaching Hospital 122 Emergency Sub-coordination Center",centers,36.857,43.007,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+12,"سەنتەرێ شندوخا یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Shindokha 122 Emergency Sub-coordination Center",centers,36.8441,42.9792,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+13,"سەنتەرێ شه‌هید محمد صالح بوتی یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Shahid Mohammad Salih Boti 122 Emergency Sub-coordination Center",centers,36.8756,42.9449,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+14,"سەنتەرێ باگێرا یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Bagera 122 Emergency Sub-coordination Center",centers,36.9632,43.1682,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+15,"رێڤەبەریا پزیشکی یا داد","Forensic Medicine Directorate",centers,36.8503,43.0025,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+16,"كوگه‌ها ئامیرێن نوژداری","Medical Equipment Warehouse",centers,36.8403,43.033,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+17,"كوگه‌ها  سه‌ره‌كی یا ده‌رمان وپێتڤیێن نوژداری","Medicines and Medical Supplies Central PHC/Main Warehouse",centers,36.8615,42.956,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+18,"سەنتەرێ ساخلەمیا دەرونی","Mental Health Center",centers,36.8414,43.0196,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+19,"سه‌نته‌رێ ئازادی یێ نشته‌رگه‌ری و قه‌سته‌را دلی","Azadi Cardiac Catheterization and Surgery Center",centers,36.8496,43.0037,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+20,"سەنتەرێ ئازادی یێ نەخوشیێن کوئەندامێ هەرسکردنێ و نەخوشیێن جگەری","Azadi Gastroenterology and Hepatology Center",centers,36.8496,43.0037,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+21,"سه‌نته‌رێ ئازادی یێ نه‌خوشیێن به‌نجه‌شێرێ","Azadi Oncology Center",centers,36.8496,43.0037,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+22,"سەنتەرێ ئازادی یێ چارەسەریا نەزوکیێ","Azadi Infertility Center",centers,36.8496,43.0037,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+23,"سەنتەرێ دهوك نەخوشیێن کولجیسکا","Duhok Kidney Diseases Center",centers,36.85,43.0047,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+24,"سەنتەرێ نەخوشیێن گەهان و شیاندنا نوژداری","Rheumatology and Medical Rehabilitation Center",centers,36.8486,43.0046,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+25,"سەنتەرێ راوێژکاریا نەخوشیێن سینگی و سێل","Chest Diseases and Tuberculosis Consultation Center",centers,36.8498,43.0039,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+26,"ناڤەندا ڤەدیتنا زوودەم یا زاوکێن پەککەفتی","Early Detection of Childhood Disability Center",centers,36.8478,43.0046,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+27,"سەنتەرێ تایبەتمەندێ یێ نوژداریا ددانا یێ فێرکرنێ","Dental Teaching Polyclinic",centers,36.8492,43.0087,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+28,"سەنتەرێ ژین یێ نەخوشیێن خوینێ و بەنجەشێرا زاروکا","Zhin Pediatric Hematoncology Center",centers,36.8499,43.0038,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+29,"سەنتەرێ نشتەرگەریا زاروکا","Pediatric Surgey Center",centers,36.85,43.0055,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+30,"سه‌نته‌رێ دهوك یێ تایبەتمەند بو پشكنینێن تاقیگه‌هێ","Duhok Diagnostic Laboratory Center",centers,36.4885,43.006,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+31,"سەنتەرێ زانین یێ ساخلەمیا قوتابخانا","Zanin School Health Center",centers,36.8479,43.0045,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+32,"رێڤەبەریا خزمەتێن ڤەگوهاستنا خوینێ","Blood Transfusion Services Directorate",centers,36.8485,43.0068,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+33,"سەنتەرێ دوشیڤان یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Doshivan 122 Emergency Sub-coordination Center",centers,36.569,43.3044,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+34,"سەنتەرێ چره یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Chra 122 Emergency Sub-coordination Center",centers,36.64,43.5242,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+35,"سەنتەرێ قه‌سروك یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Qasrok 122 Emergency Sub-coordination Center",centers,36.6991,43.5973,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+36,"سەنتەرێ سێمێل یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Sumel 122 Emergency Sub-coordination Center",centers,36.8535,42.8347,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+37,"سەنتەرێ شاریا  یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Shariya 122 Emergency Sub-coordination Center",centers,36.7896,42.9712,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+38,"سەنتەرێ خانكێ‌ یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز","Khanke 122 Emergency Sub-coordination Center",centers,36.7774,42.7834,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+39,"سەنتەرێ گه‌لیێ زاخو یێ لاوه‌كی یێ هەماهەنگیا هاوارهاتنا بلەز"," Galiye Zakho 122 Emergency  Sub-coordination Center",centers,37.0847,42.6594,Duhok,36.942876,42.941769,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+40,"بنکەی تەندروستی ئاکری",Akre,main,36.7516,43.8986,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+41,"بنکەی تەندروستی ازادي",Azadi,main,36.7295,43.8647,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+42,"بنکەی تەندروستی دینارتە",Dinarta,main,36.7967,43.9849,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+43,"بنکەی تەندروستی بجێل",Bjel,main,36.7278,44.0128,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+44,"بنکەی تەندروستی کێردسین",Kerdseen,main,36.6548,43.8086,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+45," بنکەی تەندروستی میر حاج","Mer haj",main,36.7545,43.8909,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+46," بنکەی تەندروستی سوسنە",Susna,branch,36.755,43.8211,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+47,"بنکەی تەندروستی سوسناوە",Susnawa,branch,36.7093,44.1373,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+48," بنکەی تەندروستی کۆیلان",Koylan,branch,36.6039,43.9991,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+49,"بنکەی تەندروستی بێخمە",Bexma,branch,36.6629,44.2255,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+50,"بنکەی تەندروستی سێرداریان",Serdarean,branch,36.6236,43.8548,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+51,"بنکەی تەندروستی شارمن",Sharmn,branch,36.7956,43.7276,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+52,"بنکەی تەندروستی ئەستریان",Astryan,branch,36.6117,44.1178,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+53,"بنکەی تەندروستی بامشمش",Bamishmish,branch,36.8592,43.8219,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+54,"بنکەی تەندروستی سەرگەلی",Sargali,branch,36.7838,43.9751,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+55,"بنکەی تەندروستی سەرکەندال",Sarkandal,branch,36.7666,44.0847,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+56,"بنکەی تەندروستی شەهيدان",Shahidan,main,36.7297,43.8645,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+57,"بنکەی تەندروستی خەلانە",Xalana,branch,36.6077,43.9437,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+58,"بنکەی تەندروستی كه‌لاتێ‌",Kalane,branch,36.7262,44.0803,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+59,"بنکەی تەندروستی هه‌رنێ‌",Harne,branch,36.7685,43.9912,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+60,"بنکەی تەندروستی مه‌هه‌تێ",Mahate,main,36.7584,43.8908,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+61,"بنکەی تەندروستی بۆتان",Botan,branch,37.0917,43.4894,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+62,"بنکەی تەندروستی سەرسەنگ",Sarsang,main,37.0492,43.3589,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+63,"بنکەی تەندروستی قه‌دش",Qudish,main,37.0982,43.3888,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+64,"بنکەی تەندروستی دێرەلۆک","Dera lok",main,37.0541,43.651,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+65,"بنکەی تەندروستی شیلادزێ",Sheladze,main,37.0279,43.7947,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+66,"بنکەی تەندروستی سیریێ",Sire,main,37.0156,43.8205,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+67,"بنکەی تەندروستی بامەرنێ",Bamarni,main,37.1138,43.275,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+68,"بنکەی تەندروستی سبیندارێ",Sbendar,branch,37.0044,43.2636,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+69,"بنکەی تەندروستی هه‌سن پێركا","Hasan berka",branch,37.1,43.2335,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+70,"بنکەی تەندروستی  کانی بلاف","Kani blaf",branch,37.1712,43.1624,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+71,"بنکەی تەندروستی سواره‌توكا ",Swartuka,branch,37.0078,43.2275,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+72,"بنکەی تەندروستی  كوانێ",Kwani,branch,37.0852,43.522,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+73,"بنگه‌هێ راڤینا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Rafena,branch,37.2072,43.2796,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+74,"بنگه‌هێ قومریێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Qamri,branch,37.2217,43.2396,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+75,"بنگه‌هێ كێسته‌ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Kista,branch,37.2279,43.1846,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+76,"بنگه‌هێ بیلمه‌ندێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Bilmand,branch,36.8696,43.6177,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+77,"بنگه‌هێ به‌لاڤا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Blava,branch,37.076,43.5969,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+78,"بنگه‌هێ میسكا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Miska,branch,37.1909,43.2643,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+79,"بنگه‌هێ ئه‌دنێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Adni,branch,37.257,43.4206,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+80,"بنگه‌هێ چه‌مانكێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Jamanki,main,37.1085,43.2543,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+81,"بنگه‌هێ بریفكا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Brifka,branch,37.2202,43.2148,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+82,"بنگه‌هێ سكرین یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Skreen,branch,37.0317,43.2961,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+83,"بنگه‌هێ هێتیتێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Hayteat,main,37.0373,43.7294,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+84,"بنگه‌هێ ئه‌ره‌دنا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Ardni,branch,37.1097,43.3178,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+85,"بنگه‌هێ گاره‌ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",gara,main,37.0461,43.3613,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+86,"بنگه‌هێ خاستو ژیری یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","Xastu zhere",branch,37.0124,43.8071,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+87,"بنگه‌هێ به‌رده‌ره‌ش‌ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Bardarash,main,36.5007,43.5872,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+88,"بنگه‌هێ خازر‌ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Xazer,main,36.4979,43.6024,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+89,"بنگه‌هێ ئومه‌رسینا‌ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","awmer sina",main,36.6475,43.685,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+90,"بنگه‌هێ‌ كه‌له‌ك یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",kalak,main,36.26,43.64,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+91,"بنگه‌هێ روڤیا‌ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Rufya,main,36.6197,43.7031,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+92,"بنگه‌هێ‌ داره‌توو یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Daratu,branch,36.4779,43.7251,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+93,"بنگه‌هێ‌ ئه‌سماوا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Asmawa,branch,36.5618,43.5693,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+94,"بنگه‌هێ به‌نینان‌ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Bninan,branch,36.3728,43.771,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+95,"بنگه‌هێ‌ به‌شیریان یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Bsherean,branch,36.3097,43.6792,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+96,"بنگه‌هێ‌ كرده‌بان یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Kerdaban,branch,36.421,43.6417,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+97,"بنگه‌هێ‌ كانیلان یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Kanilan,branch,36.4919,43.5261,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+98,"بنگه‌هێ دوبه‌ردان‌ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Dubardan,branch,36.4672,43.4795,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+99,"بنگه‌هێ توله‌به‌ند‌ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","Tola ban",branch,36.2509,43.5336,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+100,"بنگه‌هێ‌ چه‌مه‌ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Chma,branch,36.5091,43.8358,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+101,"بنگه‌هێ زه‌نگه‌نان‌ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Znganan,branch,36.4974,43.6045,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+102,"بنگه‌هێ مه‌تین یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Matin,main,36.8586,42.9947,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+103,"بنگه‌هێ دهوك یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Duhok,main,36.8635,43.0032,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+104,"بنگه‌هێ سه‌رهلدان یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Sarhaldan,main,36.8511,43.0325,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+105,"بنگه‌هێ بارزان یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Barzan,main,36.8454,43.0078,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+106,"سه‌نته‌رێ شه‌هیدان یێ نوژداریا خێزانی",Shahidan,main,36.846,42.9927,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+107,"بنگه‌هێ خبات یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Xabat,main,36.8578,43.0087,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+108,"بنگه‌هێ مالتا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Malta,main,36.8564,42.936,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+109,"سه‌نته‌رێ قازی محمد یێ نوژداریا خێزانی","Qazi Mahamad",main,36.8546,43.0269,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+110,"بنگه‌هێ بهدینان یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Bahdenan,main,36.8683,42.9877,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+111,"سه‌نته‌رێ ١١ ئادارێ یێ نوژداریا خێزانی","11 Adare",main,36.871,42.9643,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+112,"بنگه‌هێ زانکۆ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Zanko,main,36.866,42.993,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+113,"بنگه‌هێ ئیتوتێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",aytit,branch,36.8458,43.0826,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+114,"سه‌نته‌رێ شندوخا یێ نوژداریا خێزانی",Shanduxa,main,36.8443,42.9792,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+115,"بنگەهێ ساخلەمیا چاکسازیا ئافرەت و سنێلا","Chak sazi Duhok",branch,36.8847,42.9281,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+116,"بنگەهێ ساخلەمیا چاکسازیا مەزنا ل زرکا","sejeni Duhok",main,36.8839,42.9281,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+117,"بنگەهێ ساخلەمیا ئاسایشێ","sejeni Duhok2",branch,36.8475,43.0271,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+118,"بنگه‌هێ ئه‌ڤریكێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Afreke,branch,36.8361,43.1178,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+119,"بنگه‌هێ شه‌هید محمد صالح بوتی یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","Shahid mahamad salih boti",main,36.8766,42.9474,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+120,"بنگه‌هێ نزاركێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Nzarki,branch,36.8458,43.041,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+121,"بنگه‌هێ مانگێش یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Mangish,main,37.0361,43.0986,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+122,"بنگه‌هێ باگێرا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Bakirat,main,36.9633,43.1681,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+123,"بنگه‌هێ كورێت كاڤانا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","Kuret kavana",main,36.9343,43.15,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+124,"بنگه‌هێ زاویته‌ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Zaweta,main,36.9039,43.1408,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+125,"بنگه‌هێ لیناڤا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",linava,branch,36.9357,42.9754,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+126,"بنگه‌هێ حوجاڤا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",hujava,branch,37.0108,43.0473,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+127,"بنگه‌هێ به‌روشكا سه‌عدون یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","Brushke sahdun",branch,37.0674,43.0833,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+128,"بنگه‌هێ دێراگژنیك یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Dirgznik,branch,36.9293,43.1529,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+129,"بنگه‌هێ ناڤشكێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Nafshki,branch,37.057,42.9774,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+130,"بنگه‌هێ ئه‌تروش یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Atrush,main,36.8372,43.3337,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+131,"بنگه‌هێ قه‌سروك یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Qasrok,main,36.6991,43.5974,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+132,"بنگه‌هێ چره‌ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",JrA,main,36.6394,43.5242,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+133,"بنگه‌هێ كه‌له‌كچی یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Klikji,main,36.5815,43.5218,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+134,"بنگه‌هێ باعه‌درێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","Ba adre",branch,36.724,43.2546,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+135,"بنگه‌هێ بلان یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Blan,branch,36.8326,43.4398,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+136,"بنگه‌هێ میرسیدا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Mersida,branch,36.8218,43.5015,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+137,"بنگه‌هێ نوردینیڤا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","Nordina ava",branch,36.8143,43.2796,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+138,"بنگه‌هێ باله‌ته‌ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Balta,branch,36.7896,43.2355,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+139,"بنگه‌هێ خوركێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Xurke,branch,36.7945,43.1858,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+140,"بنگه‌هێ مرێبا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Mriba,branch,36.7615,43.5207,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+141,"بنگه‌هێ یەلدیشا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Yaldisha,branch,36.8246,43.3345,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+142,"بنگه‌هێ لالش یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Lalish,branch,36.7712,43.3047,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+143,"بنگه‌هێ زیناڤا میری یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","Zinava mire",branch,36.6397,43.4768,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+144,"بنگه‌هێ ركاڤا یێ چاڤدێریا ساخله‌میێ بو خێزانێن شه‌هیدا",Rkafa,main,36.8116,43.3531,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+145,"بنگه‌هێ خه‌نس یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Xnes,branch,36.7507,43.3767,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+146,"بنگه‌هێ كانیا باسكا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","Kani yaska",branch,36.9222,43.2317,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+147,"بنگه‌هێ درینێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Drene,branch,36.6888,43.527,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+148,"بنگه‌هێ دوغاتا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Duxata,branch,36.6458,43.1167,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+149,"بنگه‌هێ بوزان یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Buzan,branch,36.7352,43.1301,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+150,"بنگه‌هێ كانی گول یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","Kani gul",branch,36.7461,43.5953,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+151,"بنگه‌هێ گولان یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Gulan,main,36.8604,42.8367,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+152,"بنگه‌هێ شاریا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Sharya,main,36.7898,42.9744,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+153,"بنگه‌هێ ئاشتی یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Ashtii,main,36.8656,42.8369,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+154,"بنگه‌هێ ته‌ناهی یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",tnahi,main,36.8645,42.9038,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+155,"بنگه‌هێ باتێل یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Batil,main,36.9242,42.7636,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+156,"بنگه‌هێ دوبان یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Duban,main,36.8887,42.8122,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+157,"بنگه‌هێ خانكێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Xanke,main,36.8618,42.8037,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+158,"بنگه‌هێ خراب دێم یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","xrap dem",branch,36.9632,42.6452,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+159,"بنگه‌هێ كیلك یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Kilik,branch,37.0206,42.5132,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+160,"بنگه‌هێ ئازادی یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Azadi,branch,36.7328,42.9333,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+161,"بنگه‌هێ باوردێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Bawrde,branch,36.8417,42.9348,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+162,"بنگه‌هێ گرێ گه‌ورێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","gre gawre",branch,36.8552,42.7582,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+163,"بنگه‌هێ موقبلێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Miqbala,branch,36.9239,42.7622,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+164,"بنگه‌هێ باستكێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Bastagi,branch,36.9561,42.7283,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+165,"بنگه‌هێ قه‌سارا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Qasare,branch,36.8417,42.9348,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+166,"بنگه‌هێ مه‌رینا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",marena,branch,36.9712,42.7177,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+167,"بنگه‌هێ كه‌مپا بالقوس یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","Kamb bel qos",branch,36.9692,42.7201,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+168,"سه‌نته‌رێ ئه‌ڤرو ستی یێ نوژداریا خێزانی","Afru city",main,36.8518,42.9137,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+169,"بنگه‌هێ جه‌مبور یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Chambur,branch,36.7883,42.9023,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+170,"بنگه‌هێ وارڤین ستی یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","Warvin city",branch,36.7148,42.9514,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+171,"بنگه‌هێ دومێز یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Dumez,branch,36.8034,42.9184,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+172,"بنگه‌هێ خابور یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Xabur,main,37.1411,42.6885,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+173,"بنگه‌هێ ده‌لال یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Dalal,main,37.1435,42.6756,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+174,"بنگه‌هێ نه‌وروز یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Newroz,main,37.1549,42.685,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+175,"بنگه‌هێ تلكه‌به‌ر یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Tlakber,main,37.1669,42.7197,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+176,"بنگه‌هێ ده‌ركار یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Darkar,main,37.191,42.8546,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+177,"بنگه‌هێ باتیفا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Batifa,main,37.1747,43.0117,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+178,"بنگه‌هێ دیره‌بوون یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Dirywen,main,37.0854,42.4275,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+179,"بنگه‌هێ رزگاری یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Rzgare,main,37.1383,42.5706,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+180,"بنگه‌هێ بێگوڤا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Bekufa,main,37.238,43.1585,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+181,"بنگه‌هێ سه‌عید پێران یێ چاڤدیریا ساخله‌میا ده‌ستپێكی","Sahid Peran",main,37.1431,42.6983,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+182,"بنگه‌هێ ساخله‌میا گومرگا ابراهیم خه‌لیل","gwmrgi braim xalil",main,37.1416,42.5671,Duhok,36.942876,42.941769,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+183,"بنگه‌هێ هیزاوا یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Hizawa,branch,37.1487,42.6874,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+184,"بنگه‌هێ بێرسڤێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Bersve,branch,37.191,42.8547,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+185,"بنگه‌هێ لیڤو یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Lifu,branch,37.1339,42.7914,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+186,"بنگه‌هێ بێزهێ یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Bezhe,branch,37.0593,42.7618,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+187,"بنگه‌هێ فیشخابور یێ چاڤدیریا ساخله‌میا ده‌ستپێكی",Feshxabur,branch,37.0674,42.3771,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+188,"بنگه‌هێ شه‌هێدان یێ چاڤدێریا ساخله‌میێ بو خێزانێن شه‌هیدا ل قه‌زا زاخو",Shahidan,branch,37.1442,42.7005,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+189,"بنگه‌هێ كوبانێ یێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا ئاكرێ یا په‌نابه‌را","kobane-akre camp",branch,36.7352,43.8794,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+190,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا ماملیان یا ئاوارا","mamlyan camp",branch,36.6769,43.7756,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+191,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا داوودیه‌ یا ئاوارا","dawdya camp",branch,37.0903,43.241,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+192,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا گه‌ویلان یا په‌نابه‌را","gawilan camp",branch,36.5113,43.5579,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+193,"بنگه‌هێ ئاراس یێ چاڤدێریا ساخله‌میا ده‌ستپێكێ",aras,branch,36.5932,43.5199,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+194,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا ئیسیان یا ئاوارا","esyan camp",branch,36.719,43.2833,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+195,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا گه‌رماوا یا ئاوارا","garmaw camp",branch,36.6645,43.2423,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+196,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا شێخان یا ئاوارا","shexan camp",branch,36.7134,43.3002,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+197,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا مام ره‌شان یا ئاوارا","rashan camp",branch,36.6452,43.531,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+198,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا خانكێ یا ئاوارا","xanke camp",branch,36.7787,42.7751,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+199,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا ره‌وانگه یا ئاوارا","rawanga camp",branch,37.1069,42.6633,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+200,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا شاریا یا ئاوارا","sharya camp",branch,36.7844,42.963,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+201,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا كه‌به‌رتو -1- یا ئاوارا","kabartw camp1",branch,36.838,42.9103,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+202,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا كه‌به‌رتو -2- یا ئاوارا","kabartw camp2",branch,36.838,42.9103,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+203,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا دومیز -1- یا په‌نابه‌را","domez camp1",branch,36.7797,42.8662,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+204,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا دومیز -2- یا په‌نابه‌را","domez camp2",branch,36.7813,42.8663,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+205,"بنگه‌هێ ئه‌حمدێ خانی یێ چاڤدێریا ساخله‌میا ده‌ستپێكێ","ahmadi xane",branch,37.1399,42.6042,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+206,"مەڵبەندی تەندروستی شێروانە",sherwana,main,34.6169,45.3218,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+207,"مەڵبەندی تەندروستی بابە گورگور"," grgwr",main,34.6368,45.2964,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+208,"مەڵبەندی تەندروستی دادوەری کەلار","dadwari kalar",main,34.623,45.3274,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+209,"مەڵبەندی تەندروستی سەرقەڵا","sar qala",main,34.7427,45.0654,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+210,"مەڵبەندی تەندروستی کفری",kfry,main,34.6827,44.9508,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+211,"مەڵبەندی تەندروستی بەختیاری",bxtyary,main,34.6875,44.9591,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+212,"مەڵبەندی تەندروستی پیپاز",pipaz,main,34.9344,45.5981,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+213,"مەڵبەندی تەندروستی شههید دکتۆر قاسم","shahid dktor qasm",main,34.6621,45.2443,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+214,"مەڵبەندی تەندروستی گەرمیان",garmyan,main,34.6628,45.2222,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+215,"مەڵبەندی تەندروستی شهید دکتۆر هیوا","shahid dktor hiwa",main,34.9221,45.2756,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+216,"مەڵبەندی تەندروستی شەهیدان",Shahidan,main,34.6429,45.3174,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+217,"مەڵبەندی تەندروستی گولالە",gwlala,main,34.6396,45.3354,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+218,"مەڵبەندی تەندروستی بیارە",Beyara,main,35.2294,46.1197,Halabja,35.1655,45.9896,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+219,"مەڵبەندی تەندروستی شەهید نیازی","Shahid Niyazi",main,35.201,46.184,Halabja,35.1655,45.9896,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+220,"مەڵبەندی تەندروستی شەهید ئەمجەدی حاجی خەلیل","Shahid Amjad hji xali",main,35.2472,45.9461,Halabja,35.1655,45.9896,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+221,"مەڵبەندی تەندروستی شەهید فاتح","Shahid Fatih",main,35.187,45.9822,Halabja,35.1655,45.9896,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+222,"مەڵبەندی تەندروستی هەلەابجەی شەهید","Halabjay shahid",main,35.1753,45.9923,Halabja,35.1655,45.9896,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+223,"مەڵبەندی تەندروستی علی شیعە","shahid ali shea",main,35.3008,46.0332,Halabja,35.1655,45.9896,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+224,"بنکەی تەندروستی سەید جەمیل","Sayd Jamil",branch,35.2744,45.98,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+225,"بنکەی تەندروستی زەمەقی",zamaqe,branch,35.196,45.9679,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+226,"بنکەی تەندروستی بامۆک",Bamok,branch,35.162,45.9935,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+227,"بنکەی تەندروستی کۆکۆیی",Kokoy,branch,35.171,45.9841,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+228,"بنکەی تەندروستی مامۆستایان",Mamostayan,branch,35.1847,45.9936,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+229,"بنکەی تەندروستی عەنەب",Anab,branch,35.2101,46.0155,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+230,"بنکەی تەندروستی جەنەراڵ تۆڤۆ","General tovo",branch,35.1355,45.9018,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+231,"بنکەی تەندروستی گوندە",Gunda,branch,35.1479,45.905,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+232,"بنکەی تەندروستی بالخە",Balxa,branch,35.2006,46.1503,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+233,"بنکەی تەندروستی زەردەهال",Zardahal,branch,35.234,46.0772,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+234,"بنکەی تەندروستی بەشارەتی خوارو","Basharate xwaru",branch,35.2617,45.953,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+235,"بنکەی تەندروستی بەشارەتی خوارو سەروو","Basharate Saru",branch,35.2663,45.9737,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+236,"بنکەی تەندروستی ئیمام زامن","Emam Zamn",branch,35.2181,45.9362,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+237,"بنکەی تەندروستی شەهید رێباز","Shahid Rebaz",branch,35.1756,45.984,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+238,"بنکەی تەندروستی احمداوە",Ahmadawa,branch,35.2989,46.0658,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+239,"بنکەی تەندروستی بانی شار","Bani shar",branch,35.3319,46.0181,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+240,"بنکەی تەندروستی کولکنی",Kulkne,branch,35.3008,45.9867,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+241,"بنکەی تەندروستی دێ کۆن","De Kun",branch,35.3187,45.9932,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+242,"بنکەی تەندروستی شیرە مەر","Shera Mar",branch,35.3208,46.0035,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+243,"بنکەی تەندروستی سەرگات",Sargat,branch,35.2896,46.1014,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+244,"بنکەی تەندروستی گردیگۆ",Grdigo,branch,35.3028,45.9697,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+245,"بنکەی تەندروستی خێلی حەمە","Xeli hama",branch,35.2639,46.005,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+246,"بنکەی تەندروستی  عامورە",amura,branch,35.35,46.0167,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+247,"بنکەی تەندروستی شهەهئد دکتۆر رەزا","Shahid d.Raza",branch,35.3481,45.9642,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+248,"بنکەی تەندروستی شهەهئد عەبدولکەریم","Shhid Abdulkarem",branch,35.3964,45.9782,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+249,"بنکەی تەندروستی تاپی سەفا","Tapi Safa",branch,35.2727,45.9854,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+250,"بنکەی تەندروستی زەمەقی خوارو","zamaqi Xwaru",branch,35.1996,45.9644,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+251,"بنکەی تەندروستی شههید محمد شاشکێ","Shahid Mahamad Shashke",branch,35.3377,45.9431,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+252,"بنکەی تەندروستی کانی اسکان","Kani Askan",branch,35.3942,45.9774,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+253,"بنکەی تەندروستی شەهید رەئوف خەلیفە","Shahid Ra2uf Xalifa",branch,35.3374,45.9476,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+254,"بنکەی تەندروستی ناوێ",Nawe,branch,35.4137,45.9615,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+255,"بنکەی تەندروستی ریشیێن",Rishen,branch,35.3591,45.9718,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+256,"بنکەی تەندروستی شەهید حیکمەت","shahid hikamat",branch,35.188,45.9999,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+257,"بنکەی تەندروستی تەپە سارقولە","tapa saraqula",branch,35.3069,45.9532,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+258,"بنکەی تەندروستی بەردە باڵ","barda bal",branch,35.239,45.8088,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+259,"بنکەی تەندروستی گلیجال",glyjal,branch,34.9797,45.7984,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+260,"بنکەی تەندروستی پشتە",pshta,branch,34.9822,45.8488,Halabja,35.1655,45.9896,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+261,"مەڵبەندی تەندروستی شەهید حمید","shahis hamid",main,35.1067,45.687400,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+262,"مەڵبەندی تەندروستی شەهید ئازادی مامە عەلە","shahid azadi mama hala",main,35.1146,45.6786,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+263,"مەڵبەندی تەندروستی خۆپاراستنی دەربەندیخان","xoparastni darbandikhan",main,35.1128,45.6869,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+264,"بنکەی تەندروستی بانی خێلان","bany xelan",branch,35.0756,45.6538,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+265,"بنکەی تەندروستی باوە خۆشین","bawa xoshin",branch,35.1742,45.6126,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+266,"بنکەی تەندروستی چنارە",chnara,branch,35.2531,45.6014,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+267,"بنکەی تەندروستی بیرکا",byrka,branch,35.3126,45.6348,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+268,"بنکەی تەندروستی عازەبان",azaban,branch,35.2046,45.7246,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+269,"بنکەی تەندروستی احمد برندە","ahmad brnda",branch,35.3195,45.678,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+270,"بنکەی تەندروستی سەرشاتە",sarshata,branch,35.0925,45.8687,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+271,"ب.ت بانکی خوێن","Blood bank Erbil",main,36.1886,44.0382,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+272,"ب.ت فرۆکەخانەی نێودەوڵەتی هەولێر","Frokaxanai hawler",main,36.2272,43.9659,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+273,"بەرێوەبەرایەتی تاقیگەی تەندروستی گشتی",labrotary,centers,36.1982,44.0188,Erbil,36.191198,44.00914,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+274,"سەنتەری هەولێری فێرکاری بۆ نەخۆشیەکانی پێست","Hawler center",centers,36.1577,43.9818,Erbil,36.191198,44.00914,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+275,"سەنتەری هێلینا بۆ راهێنان ونەشتەرگەری منداڵانی خاوەن پێداویستی تایبەتمەندی","Helina Center",centers,36.2171,44.0348,Erbil,36.191198,44.00914,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+276,"سەنتەری خانزادی فێرکاری دەم و ددان","Khanzad center",centers,36.1962,44.0171,Erbil,36.191198,44.00914,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+277,"سەنتەری دەرونی گەرمیان","santari darwni",centers,34.6229,45.3267,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+278,"سەنتەری ددان گەرمیان","teeth Center",centers,34.6236,45.3278,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+279,"سەنتەری تیشک گەرمیان","X-ray Tishk",centers,34.6238,45.3282,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+280,"سەنتەری گورچیلە گەرمیان","santari gwrchila",centers,34.6242,45.3276,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+281,"سەنتەری گورچیلەی رانیە","santari gwrchila",centers,36.2565,44.9033,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+282,"س. تيشك","X-ray Tishk",centers,35.5643,45.4427,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+283,"س.راويذكارى على كمال","Ali kamal center",centers,35.5617,45.4471,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+284,"س.هةماهةنطى فرياكةوتنى خيرا 122","122 center",centers,35.581,45.4451,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+285,"سةنتةرى  شةكرةو كويرةطلاندةكان","santari shakra",centers,35.5214,45.4594,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+286,"سةنتةرى  شؤرشى ددانى فيركارى","Shorsh teeth Center",centers,35.5483,45.4513,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+287,"سةنتةرى تاقيطةى نيشينطةى سليمانى",labrotary,centers,35.5642,45.4421,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+288,"سةنتةرى راهينانى منالان ","Child Center",centers,35.5532,45.4291,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+289,"سةنتةرى ثزيشكى خيزانى ابراهيم احمد","braim ahmad center",centers,35.5587,45.4836,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+290,"سةنتةرى راويذكارى روماتيزم وراهينان","romantizm center",centers,35.562,45.4458,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+291,"سةنتةرى رةبؤ وفرةهةستيارى",Center,centers,35.5563,45.4512,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+292,"سةنتةرى سالاسيماو طواستنةوةى خوين","talasimya center",centers,35.5627,45.4434,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+293,"سةنتةرى طورضيلةى دةست كرد","santari gwrchila",centers,35.5206,45.4568,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+294,"سةنتةرى قورط و لوتوطوى","ENT Center",centers,35.5651,45.4431,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+295,"سةنتةرى كؤرد بؤ راهينانةوةى كةم ئةندامان","kurdestan Center",centers,35.5611,45.4466,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+296,"سةنتةرى كؤئةندامى هةرس و جطةر",Center,centers,35.5641,45.4429,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+297,"سةنتةرى نةخؤشيةكانى ثيستى فيركارى",Center,centers,35.5474,45.4483,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+298,"سةنتةرى نةخؤشية دةرونيةكان ",Center,centers,35.5637,45.4413,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+299,"سةنتةرى ثةرةثيدانى تةندروستى ",Center,centers,35.5623,45.4449,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+300,"سةنتةرى ئوديولوجى",Center,centers,35.5816,45.4263,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+301,"سةنتةرى ذيانةوة ى شيرثةنجة بة تيشك ","Zhyanawa Center",centers,35.5221,45.4574,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+302,"سەنتەری شەکرە",Center,centers,36.1711,44.0223,Erbil,36.191198,44.00914,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+303,"سةنتةري راويذكاري نةخؤشيةكاني سنط وهةناسة",Center,centers,35.564,45.443,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+304,"سةنتةري ريَكخستني خيَزاني",Center,centers,35.5611,45.4441,Sulaymaniyah,35.557,45.4359,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+305,"س. تيشك","X-ray Tishk",centers,36.0871,44.6497,Erbil,36.191198,44.00914,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+306,"سةنتةرى   ددان","koye dental center",centers,36.0809,44.6274,Erbil,36.191198,44.00914,center.png,"Specelized center","8:00 AM","1:30 PM",NULL
+307,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا باجێد كه‌ندالا – 1 – یا ئاوارا","bajed camp1",branch,37.0568,42.4415,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+308,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا باجێد كه‌ندالا – 2 – یا ئاوارا","bajed camp2",branch,37.0577,42.4493,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+309,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا بێرسڤێ – 1 – یا ئاوارا","bersve camp1",branch,37.1847,42.8552,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+310,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا بێرسڤێ – 2 – یا ئاوارا","bersve camp2",branch,37.1835,42.8549,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+311,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا چه‌م مشكو یا ئاوارا","cham mshko camp",branch,37.1636,42.6728,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+312,"بنگه‌هێ چاڤدێریا ساخله‌میا ده‌ستپێكێ ل كه‌مپا ده‌ركار یا ئاوارا","darkar camp",branch,37.1847,42.8552,Duhok,36.942876,42.941769,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+313,"نەخۆشخانەی ئافرەتان (ئاکرێ)","Women's Emergency Akre",maternity,36.7497,43.8943,Duhok,36.942876,42.941769,hospital.png,Maternity,"24 H","24 H",NULL
+314,"نەخۆشخانەی گولان(ئاکرێ)","Gulan Hospital",hospital,36.737,43.886,Duhok,36.942876,42.941769,hospital.png,General,"24 H","24 H",NULL
+315,"نەخۆشخانەی ئامێدی(عام)","Amedy Hospital",hospital,37.0919,43.8991,Duhok,36.942876,42.941769,hospital.png,General,"24 H","24 H",NULL
+316,"نەخۆشخانەی ئازادی","Azadi Hospital (Duhok)",hospital,36.8501,43.0036,Duhok,36.942876,42.941769,hospital.png,General,"24 H","24 H",NULL
+317,"نەخۆشخانەی فریاکەوتن","Emergency Hospital(Duhok)",emergency,36.8484,43.0039,Duhok,36.942876,42.941769,emergency.png,Emergency,"24 H","24 H",NULL
+318,"نەخۆشخانەی هێڤی منداڵان","Hevi Hospital for Kids",hospital,36.8496,43.0056,Duhok,36.942876,42.941769,hospital.png,Children,"24 H","24 H",NULL
+319,"نەخۆشخانەی سوتان و جوانکاری","Burns and cosmetic surgery (duhok)",hospital,36.8509,43.0123,Duhok,36.942876,42.941769,hospital.png,Burn,"24 H","24 H",NULL
+320,"نەخۆشخانەی رۆزانە","rozana Hospital(duhok)",hospital,37.2295,43.441,Duhok,36.942876,42.941769,hospital.png,General,"24 H","24 H",NULL
+321,"نەخۆشخانەی چاو","Eye Hospital(duhok)`",hospital,36.8484,43.0039,Duhok,36.942876,42.941769,hospital.png,Eye,"24 H","24 H",NULL
+322,"نەخۆشخانەی ئافرەتان و لە دایک بوون (دهۆک)","Women and Gynecology (Dhok)",maternity,36.8645,42.9865,Duhok,36.942876,42.941769,hospital.png,Maternity,"24 H","24 H",NULL
+323,"نەخۆشخانەی زاخؤ ","Zakho Hospital",hospital,37.1471,42.6805,Duhok,36.942876,42.941769,hospital.png,General,"24 H","24 H",NULL
+324,"نەخۆشخانەی ئافرەتان  (زاخۆ)","Women's Emergency (Zakho)",maternity,37.1476,42.6795,Duhok,36.942876,42.941769,hospital.png,Maternity,"24 H","24 H",NULL
+325,"نەخۆشخانەی منداڵان (زاخۆ)","Emergency and childbirth Zakho",hospital,37.1473,42.6803,Duhok,36.942876,42.941769,hospital.png,Children,"24 H","24 H",NULL
+326,"بنکەی تەندروستی بلێ",Ble,main,36.8638,44.0656,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+327,"بنکەی تەندروستی  بارزان",Barzan,main,36.9302,44.0349,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+328,"بنکەی تەندروستی  شیروان مزن","Sherwan Mazn",main,36.9822,44.2066,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+329,"بنکەی تەندروستی  زوركفان",Zorkvan,main,36.8549,44.0811,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+330,"بنکەی تەندروستی كورەتو",Kuratu,main,36.8617,44.3696,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+331,"بنکەی تەندروستی  پیران",Piran,main,36.9096,44.3549,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+332,"بنکەی تەندروستی همدلي",Hmdla,branch,36.9499,43.9853,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+333,"بنکەی تەندروستی  دورێ",Dore,branch,36.9075,44.1403,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+334,"بنکەی تەندروستی لەيلوك",Layluk,branch,36.7987,44.3878,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+335,"بنکەی تەندروستی  باب سیفه","Bab siva",branch,37.0063,43.8674,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+336,"بنکەی تەندروستی سيلكه",Silke,branch,37.058,44.0774,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+337,"بنکەی تەندروستی شانەدەر",Shanadar,branch,36.7995,44.2465,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+338,"بنکەی تەندروستی بی",Bii,branch,36.9579,44.1479,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+339,"بنکەی تەندروستی بازی",Bazi,branch,36.9651,43.9603,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+340,"بنکەی تەندروستی مەمولە",Mamula,branch,36.9396,44.3586,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+341,"بنکەی تەندروستی شيخان",Shexan,branch,36.7963,44.4363,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+342,"بنکەی تەندروستی بيدود",Bedod,branch,36.9025,44.3079,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+343,"بنکەی تەندروستی الكه",Alka,branch,36.829,44.1389,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+344,"بنکەی تەندروستی حوسنان",Hosnan,branch,36.9291,44.0906,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+345,"بنکەی تەندروستی هاربو",Harboo,branch,36.767,44.2671,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+346,"بنکەی تەندروستی بیرسیاو",Birsyaw,branch,36.9433,44.2874,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+347,"بنکەی تەندروستی ايروان",Erwan,branch,36.8242,44.1801,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+348,"بنکەی تەندروستی بيدارون",Bedaron,branch,36.8853,44.1194,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+349,"بنکەی تەندروستی کولەکە",Kulaka,branch,36.9125,44.4424,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+350,"بنکەی تەندروستی بالند",Balnda,branch,37.0102,43.8613,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+351,"بنکەی تەندروستی جامی",Chami,branch,36.966,44.2279,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+352,"بنکەی تەندروستی حاج ئۆمەران","Haji Omeran",main,36.6743,45.046,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+353,"بنکەی تەندروستی سمێلان",Smelan,main,36.6785,44.7291,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+354,"بنکەی تەندروستی قه‌سرێ ",Qasre,main,36.5587,44.8283,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+355,"بنکەی تەندروستی خوشكان",Xoshkan,branch,36.6089,44.927,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+356,"بنکەی تەندروستی گەلاله‌",Galala,branch,36.6134,44.8225,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+357,"بنکەی تەندروستی بیشه",Bisha,branch,36.688,44.668,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+358,"بنکەی تەندروستی رۆستێ",Ruste,branch,36.7078,44.7706,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+359,"بنکەی تەندروستی دار السالم","Dar u Alsalam",branch,36.6073,44.7568,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+360,"بنکەی تەندروستی بەردە زەرد","Barda Zard",branch,36.684,44.9917,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+361,"بنکەی تەندروستی بیرئۆمەر",Biromar,branch,36.6856,44.7517,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+362,"بنکەی تەندروستی گەزنە",Gazna,branch,36.7072,44.6958,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+363,"بنکەی تەندروستی شيركاوه",sherkawa,branch,36.6342,44.7272,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+364,"بنکەی تەندروستی ناو بەردان",Nawbardan,branch,36.6198,44.8832,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+365,"بنکەی تەندروستی وسەن",Wasan,branch,36.5223,44.8523,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+366,"بنکەی تەندروستی  ماونان",Mawnan,branch,36.5008,44.8953,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+367,"بنکەی تەندروستی بێتواتە",Betwata,main,36.2023,44.0747,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+368,"بنکەی تەندروستی حەسارۆک",Hasarok,main,36.1902,44.0713,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+369,"بنکەی تەندروستی سەروەران",Sarwaran,main,36.1928,44.0598,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+370,"بنکەی تەندروستی بنصلاوه",Bnaslawa,main,36.1551,44.12,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+371,"بنکەی تەندروستی كسنزان",Kasnazan,main,36.2081,44.1455,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+372,"بنکەی تەندروستی دارەتو",Daratu,main,36.1184,44.0651,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+373,"بنکەی تەندروستی شاوێز",Shawes,main,36.2478,44.0889,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+374,"بنکەی تەندروستی ئاشتی",Ashti,main,36.2476,44.0783,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+375,"بنکەی تەندروستی کەلەکین شاويز","Kalakin Shawes",main,36.256,44.0907,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+376,"بنکەی تەندروستی مەلا ئۆمەر","Mala Omer",main,36.2966,44.1348,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+377,"بنکەی تەندروستی شمامك",Shamamik,main,36.0214,43.9171,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+378,"بنکەی تەندروستی خوا كورك",Xwakurk,main,36.1268,44.0429,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+379,"بنکەی تەندروستی قوشتەپه‌",Qushtapa,main,36.0014,44.0345,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+380,"بنکەی تەندروستی تارين",Tarin,main,36.1966,44.137,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+381,"بنکەی تەندروستی سەربەستی",Sarbasti,main,35.9791,44.0409,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+382,"بنکەی تەندروستی دەشتي هەولير","Dashti Hawler",main,36.1525,44.1111,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+383,"بنکەی تەندروستی پیرزین",Pirzin,main,36.2663,44.072,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+384,"بنکەی تەندروستی قەلای نوێ","Qalay New",main,36.1671,44.1353,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+385,"بنکەی تەندروستی لاوان",Lawan,main,36.1899,44.1251,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+386," بنکەی تەندروستی زاگروس",Zagros,branch,36.001,44.1104,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+387,"بنکەی تەندروستی عەلیاوە مەردان","Alyawa Mardan",branch,36.0665,43.9684,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+388,"بنکەی تەندروستی بیستانە",Bistana,branch,36.0437,44.1974,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+389,"بنکەی تەندروستی مورتکە ",Murtka,branch,36.0482,44.0627,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+390,"بنکەی تەندروستی شێراوا",Sherawa,branch,35.7889,44.1142,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+391,"بنکەی تەندروستی سێبیران ماجد اغا","Sebiran Majid Agha",branch,35.9379,43.874,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+392,"بنکەی تەندروستی قۆریتان",Qoritan,branch,36.0797,43.9498,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+393,"بنکەی تەندروستی شيخانان",Shexanan,branch,35.8239,44.0735,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+394,"بنکەی تەندروستی ئازيانه‏",Azyana,branch,35.916,44.1993,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+395,"بنکەی تەندروستی تیمار",Timar,branch,36.1111,43.9775,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+396,"بنکەی تەندروستی گرد عازەبان","Gird Azaban",branch,36.0079,43.8351,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+397,"بنکەی تەندروستی شهيدان",Shahidan,main,36.1818,44.0244,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+398,"بنکەی تەندروستی شهيد نجادی حيدر","Shahid Najdi Haedar",main,36.187,44.0268,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+399,"بنکەی تەندروستی شهيد محمد باجلان","Shahid Mohamad Bajalan",main,36.1717,43.9905,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+400,"بنکەی تەندروستی شهيد نايف اكري","Shahid Nafie Akrayee",main,36.1714,44.0227,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+401,"بنکەی تەندروستی شهيد نازدار بامرني","Shahid Nazdar Bamarni",main,36.2181,44.0262,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+402,"بنکەی تەندروستی كورانی عين كاوه","Kurani Ankawa",main,36.2198,43.9932,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+403,"بنکەی تەندروستی هاوكاری",Hawkari,main,36.1687,44.0258,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+404,"بنکەی تەندروستی تەیراوە",Tairawa,main,36.1973,44.0038,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+405,"بنکەی تەندروستی حبيب مالح","Habib Malh",main,36.2285,43.9944,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+406,"بنکەی تەندروستی ازادي",Azadi,main,36.1638,43.9996,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+407,"بنکەی تەندروستی نەوروز",Nawroz,main,36.1749,43.9783,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+408,"بنکەی تەندروستی كوردستان",Kurdistan,main,36.1557,44.0263,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+409,"بنکەی تەندروستی شادی",Shadi,main,36.1556,43.9774,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+410,"بنکەی تەندروستی زانكو",Zanko,main,36.1517,44.0193,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+411,"بنکەی تەندروستی سەركاريز",Sarkarez,main,36.115,43.9672,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+412,"بنکەی تەندروستی عين كاوه نوێ","Ankaway New",main,36.2369,43.9889,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+413,"بنکەی تەندروستی مەلا افندي","Mala Afandi",main,36.1767,44.0399,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+414,"بنکەی تەندروستی ژيان",Zhyan,main,36.2132,44.0125,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+415,"بنکەی تەندروستی جاك سازي نەوجەوان","Chaksazi Nawjawanan",main,36.2058,44.0433,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+416,"بنکەی تەندروستی توره ق",Turaq,main,36.1681,43.9348,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+417,"بنکەی تەندروستی برایتي",Brayati,main,36.2118,44.0429,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+418,"بنکەی تەندروستی ڕاستی",Rasti,main,36.1385,44.0157,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+419,"بنکەی تەندروستی كەورگوسك",Kawrgosk,main,36.345,43.8011,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+420,"بنکەی تەندروستی تۆبزاوه",Tobzawa,main,36.2726,43.738,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+421,"بنکەی تەندروستی كانی قرژاله‌","Kani Qrzhala",main,36.2084,43.8568,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+422,"بنکەی تەندروستی خبات  الجديدە","Xabat Jdida",main,36.2833,43.6725,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+423,"بنکەی تەندروستی صفية",Safya,main,36.1986,43.5925,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+424,"بنکەی تەندروستی سارێژ",Sarezh,main,36.2691,43.6619,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+425,"بنکەی تەندروستی برانتی",Branti,main,36.3183,44.0396,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+426,"بنکەی تەندروستی شاخولان",Shaxolan,main,36.3829,43.8735,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+427,"بنکەی تەندروستی بەحركه‌",Bahrka,main,36.3096,44.0322,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+428,"بنکەی تەندروستی خەرسۆ گەزنەیی","Xasro Gaznayee",main,36.2824,43.9408,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+429,"بنکەی تەندروستی تەرجان",Tarjan,main,36.1213,43.7565,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+430,"بنکەی تەندروستی خەبات",Xabat,branch,36.2663,43.6797,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+431,"بنکەی تەندروستی زاب الجديد","Jdida Zab",branch,36.2895,43.7838,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+432,"بنکەی تەندروستی جەژنیکان",Jazhnikan,branch,36.3479,44.005,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+433,"بنکەی تەندروستی سێبیران",Sebiran,branch,36.2514,43.9059,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+434,"بنکەی تەندروستی دارەبەن",Daraban,branch,36.3088,43.9033,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+435,"بنکەی تەندروستی أفندي جەژنیکان","Jazhnikan Afandi",branch,36.3537,43.9574,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+436,"بنکەی تەندروستی قەفەر",Qafar,branch,36.3944,43.9676,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+437,"بنکەی تەندروستی قەلا چۆخان","Qala ChoGhan",branch,36.2832,43.8951,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+438,"بنکەی تەندروستی ءاارەب کەند","Arab kand",branch,36.1423,43.9004,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+439,"بنکەی تەندروستی مەمۆندیان",Mamondyan,branch,36.4231,43.8761,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+440,"بنکەی تەندروستی بارهوشتر",Barhushtr,branch,36.3541,43.8894,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+441,"بنکەی تەندروستی زارگازەوی",Zargazawi,branch,36.4331,43.9113,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+442," بنکەی تەندروستی كوداريان",Kudaryan,branch,36.475,44.0641,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+443,"بنکەی تەندروستی باوەخەلان",Bawaxalan,branch,36.5283,44.0378,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+444,"بنکەی تەندروستی چرە",Chra,branch,36.5394,43.9732,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+445,"بنکەی تەندروستی قەرە قاجین",Qaraqajin,branch,36.4093,43.9935,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+446,"بنکەی تەندروستی کارودالان",Karudalalan,branch,36.5133,43.9565,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+447,"بنکەی تەندروستی رشوان نور","Rashwan Nuru",branch,36.5081,44.049,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+448,"بنکەی تەندروستی مام ەلان","Mam Xalan",branch,36.4452,43.962,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+449,"بنکەی تەندروستی به ستوره",Bastora,main,36.3354,44.1594,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+450,"بنکەی تەندروستی كورێ",Kore,main,36.3965,44.2264,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+451,"بنکەی تەندروستی هيران",Hiran,main,36.2776,44.4946,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+452,"بنکەی تەندروستی سەفێن",Safin,main,36.4005,44.3446,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+453,"بنکەی تەندروستی میرسليمان","Mir Sleman",main,36.4963,44.3522,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+454,"بنکەی تەندروستی باتاس",Batas,main,36.5615,44.3352,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+455,"بنکەی تەندروستی شهيد ملازم كريم","Shahid Mlazm Karim",main,36.376,44.2022,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+456,"بنکەی تەندروستی خۆشناوةتي","Qalasnji Xwaru",branch,36.3359,44.3272,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+457,"بنکەی تەندروستی گراو",Graw,branch,36.3248,44.2247,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+458,"بنکەی تەندروستی هەنارە",Hanara,branch,36.2901,44.25,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+459,"بنکەی تەندروستی دارش",Darsh,branch,36.3844,44.5476,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+460,"بنکەی تەندروستی سەری بلند","Sari Blnd",branch,36.3439,44.2547,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+461,"بنکەی تەندروستی زفری",Friz,branch,36.3153,44.5003,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+462,"بنکەی تەندروستی ئزقوبانی خوارو","Aqubani Xuaru",branch,36.2546,44.424,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+463,"بنکەی تەندروستی گۆرەتو",Garota,branch,36.3107,44.4515,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+464,"بنکەی تەندروستی سيساوه",Sisawa,branch,36.4909,44.3951,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+465,"بنکەی تەندروستی سه ركهور",Sarkawr,branch,36.6196,44.176,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+466,"بنکەی تەندروستیبارابەيان",Barabyan,branch,36.6272,44.2116,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+467,"بنکەی تەندروستی امۆکان",Amokan,branch,36.6239,44.2823,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+468,"بنکەی تەندروستی مام جالکە","Mama Jalka",branch,36.4495,44.3816,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+469,"بنکەی تەندروستی ماکردان",Makrdan,branch,36.6057,44.0973,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+470,"بنکەی تەندروستی جامەسور",JamaSur,branch,36.5465,44.2456,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+471,"بنکەی تەندروستی گۆسکە ",Goska,branch,36.5985,44.0063,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+472,"بنکەی تەندروستی سەركند خةيلانى","Sarkand Xaelani",branch,36.4928,44.2332,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+473,"بنکەی تەندروستی زيارات سفين","Zyarat Safin",branch,36.2953,44.3928,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+474,"بنکەی تەندروستی زیارەت مام زيدان","Zyarat Mala zadan",branch,36.4382,44.1539,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+475,"بنکەی تەندروستی سەرسۆل",Sarsol,branch,36.4521,44.0886,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+476,"بنکەی تەندروستی خۆران",Xoran,branch,36.3292,44.3555,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+477,"بنکەی تەندروستی شێرە",Shera,branch,36.4055,44.6017,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+478,"بنکەی تەندروستی بێراوە",Berawa,branch,36.4086,44.5838,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+479,"بنکەی تەندروستی شێخ وەسان","Shex wasan",branch,36.4145,44.5554,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+480,"بنکەی تەندروستی توتمە",Tutma,branch,36.4143,44.5122,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+481,"بنکەی تەندروستی خەتێ",Xate,branch,36.441,44.5142,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+482,"بنکەی تەندروستی هەروتەکەون",Harutakawn,branch,36.4659,44.496,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+483,"بنکەی تەندروستی هندرين",Hndren,main,36.6531,44.5406,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+484,"بنکەی تەندروستی زوزك",Zozk,main,36.6604,44.5489,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+485,"بنکەی تەندروستی دیانا",Dyana,main,36.6647,44.5437,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+486,"بنکەی تەندروستی سیدەکان",Sidakan,main,36.8029,44.6652,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+487,"بنکەی تەندروستی کوراز",Kuraz,main,36.6474,44.5572,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+488,"بنکەی تەندروستی بەختیاری",Baxtyari,main,36.6578,44.5255,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+489,"بنکەی تەندروستی ازادي",Azadi,main,36.6707,44.5301,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+490,"بنکەی تەندروستی هەريم",Harem,main,36.6517,44.5495,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+491,"بنکەی تەندروستی بێخمە",Bexma,branch,36.6827,44.3137,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+492,"بنکەی تەندروستی  خلان بیاو","Xlan Byaw",branch,36.6768,44.3704,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+493,"بنکەی تەندروستی سيرشمه",Sreshma,branch,36.6443,44.4109,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+494,"بنکەی تەندروستی الانە",Alana,branch,36.5375,44.4426,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+495,"بنکەی تەندروستی کەلەکین",Kalakin,branch,36.6208,44.3377,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+496,"بنکەی تەندروستی جۆنارە",Jonara,branch,36.6582,44.3576,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+497," بنکەی تەندروستی شارسینە",Sharsina,branch,36.4884,44.7462,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+498,"بنکەی تەندروستی هاوديان",Hawdyan,branch,36.6954,44.479,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+499,"بنکەی تەندروستی دايلزيان",Delizyan,branch,36.6932,44.5242,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+500,"بنکەی تەندروستی شێوان",Shewan,branch,36.7916,44.6023,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+501,"بنکەی تەندروستی مجازير",Mjesar,branch,36.8006,44.6289,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+502,"بنکەی تەندروستی کەژاک",Kazhak,branch,36.7626,44.6392,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+503,"بنکەی تەندروستی بالەکیان",Balakyan,branch,36.658,44.4982,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+504,"بنکەی تەندروستی حسنان",Hsnan,branch,36.7044,44.6225,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+505,"بنکەی تەندروستی بەرزێوە",Barzewa,branch,36.6248,44.6134,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+506,"بنکەی تەندروستی وەرتێ",Warte,branch,36.5071,44.754,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+507,"بنکەی تەندروستی ئاکۆیان",Akoyan,branch,36.5625,44.5609,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+508,"بنکەی تەندروستی دەرگەلە",Dargala,branch,36.5657,44.6953,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+509,"بنکەی تەندروستی خانەقا",Xanaqa,branch,36.5365,44.7707,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+510,"بنکەی تەندروستی کاروانی خوارو","Karwani Xuaru",branch,36.52,44.5852,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+511,"بنکەی تەندروستی کاولۆکان",Kaulokan,branch,36.6227,44.5358,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+512,"بنکەی تەندروستیماویليان",Mawilian,branch,36.6041,44.6525,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+513,"بنکەی تەندروستی جونديان",Jundyan,branch,36.6284,44.5767,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+514,"بنکەی تەندروستی بێخال",Bexal,branch,36.6095,44.4954,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+515,"بنکەی تەندروستی زاروە",Zarwa,branch,36.6427,44.6639,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+516," بنکەی تەندروستی زیلیە",Zylya,branch,36.847,44.6587,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+517,"بنکەی تەندروستی شيخان",Shexan,branch,36.7188,44.571,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+518," بنکەی تەندروستی نزاری",Nzari,branch,36.87,44.5644,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+519,"بنکەی تەندروستی تارينان",Tarinan,branch,36.4797,44.5499,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+520," بنکەی تەندروستی بلەی خوارو","Blay Xwaru",branch,36.5235,44.4978,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+521," بنکەی تەندروستی مەلەکان",Malakan,branch,36.4576,44.5932,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+522," بنکەی تەندروستی زارگەلی",Zargali,branch,36.47,44.8392,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+523," بنکەی تەندروستی بۆکریسکان",Bokriskan,branch,36.4601,44.793,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+524,"بنکەی تەندروستی بااشتىان",Bashtyan,branch,36.641,44.5148,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+525,"بنکەی تەندروستی سارداو",Sardaw,branch,36.7383,44.4581,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+526,"بنکەی تەندروستی کەونە گوند",Kawnakund,branch,36.7444,44.5252,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+527,"بنکەی تەندروستی شێرکۆیە",Sherokya,branch,36.7694,44.4664,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+528,"نەخۆشخانەی مێرگەسۆر","Mirgah Sur Hospital",hospital,36.8433,44.3009,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+529,"نەخۆشخانەی چۆمان","Choman Hospital",hospital,36.6363,44.8873,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+530,"نەخۆشخانەی رزگاری","Rizgari Hospital",hospital,36.1923,44.0387,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+531,"نەخۆشخانەی هەولێر","Erbil Hospital",hospital,36.1991,44.0196,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+532,"نەخۆشخانەی فریاکەوتنی ناوەراست"," Central Emergency Hospital",emergency,36.1976,44.0182,Erbil,36.191198,44.00914,emergency.png,Emergency,"24 H","24 H",NULL
+533,"نەخۆشخانەی فریاکەوتنی رۆژهەڵات"," East Emergency Hospital",emergency,36.1927,44.0394,Erbil,36.191198,44.00914,emergency.png,Emergency,"24 H","24 H",NULL
+534,"نەخۆشخانەی فریاکەوتنی رۆژئاوا","West Emergency Hospital",emergency,36.191,43.9689,Erbil,36.191198,44.00914,emergency.png,Emergency,"24 H","24 H",NULL
+535,"نەخۆشخانەی ئافرەتان و لە دایک بوون (هەولێر)","Maternity Hospital",maternity,36.2169,44.033,Erbil,36.191198,44.00914,hospital.png,Maternity,"24 H","24 H",NULL
+536,"نەخۆشخانەی راپەرینی منداڵان (هەولێر)","Rapareen   Hospital",hospital,36.2191,44.0354,Erbil,36.191198,44.00914,hospital.png,Children,"24 H","24 H",NULL
+537,"نەخۆشخانەی دەروونی","Psychological  Hospital(darwny)",hospital,36.1995,44.0215,Erbil,36.191198,44.00914,hospital.png,Psychological,"24 H","24 H",NULL
+538,"نەخۆشخانەی نانەکەلی","Nanakaly  Hospital",hospital,36.1644,44.011,Erbil,36.191198,44.00914,hospital.png,Cancer,"24 H","24 H",NULL
+539,"نەخۆشخانەی ايمرجنسي","Emergency Hospital(hawler)",emergency,36.1996,43.9977,Erbil,36.191198,44.00914,emergency.png,Emergency,"24 H","24 H",NULL
+540,"نەخۆشخانەی دڵ و هەناو","Santari Dl",hospital,36.154,44.0173,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+541,"نەخۆشخانەی حرير","Harir Hospital",hospital,36.5468,44.3482,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+542,"نەخۆشخانەی خليفان","Khlaifan  Hospital",hospital,36.6166,44.4101,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+543,"نەخۆشخانەی رواندز","Rawandz  Hospital",hospital,36.6159,44.5309,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+544,"نەخۆشخانەی شەقلاوه","Shaqlawa  Hospital",hospital,36.334,44.3149,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+545,"نەخۆشخانەی ملازم كريم","Mlazm karim  Hospital",hospital,36.376,44.2022,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+546,"نەخۆشخانەی شهيد خالد","Shahid Khalid  Hospital",hospital,36.0989,44.6474,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+547,"نەخۆشخانەی طق طق","Taqtaq  Hospital",hospital,35.8975,44.5922,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+548,"نەخۆشخانەی كلار","Kalar  Hospital",hospital,34.623,45.3274,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+549,"نەخۆشخانەی شەهید شێرەی نەقیب","Shahid Sherai naqib",maternity,34.6323,45.3105,Sulaymaniyah,35.557,45.4359,hospital.png,Maternity,"24 H","24 H",NULL
+550,"نەخۆشخانەی كفري(شهيد خالد كه رميانى)","Kifri  Hospital (Shaheed Khaled warm)",hospital,34.6875,44.9591,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+551,"نەخۆشخانەی پێنچوێن","Penjwen  Hospital",hospital,35.6253,45.9447,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+552,"نەخۆشخانەی شهیدانی نوێ ی قەلادزێ","Shahidany qaladze",hospital,36.1928,45.1321,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+553,"نەخۆشخانەی شهيد عبدالرحيم سنكه سه ر","Shaheed Rahim Sangasar  Hospital",hospital,36.2534,45.0091,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+554,"نەخۆشخانەی رانيه","Raparin  Hospital(ranya)",hospital,36.2579,44.8791,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+555,"نەخۆشخانەی حاجى ياوە","Hajiawa  Hospital",hospital,36.2374,44.7954,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+556,"نەخۆشخانەی لە دایکبوونی رانیە","Maternity Hospital",maternity,36.2579,44.8791,Sulaymaniyah,35.557,45.4359,hospital.png,Maternity,"24 H","24 H",NULL
+557,"نەخۆشخانەی چوارقورنة","chwarqwrna Hospital",hospital,36.2096,44.8263,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+558,"نەخۆشخانەی فریاکەوتنی هەڵەبجە","Emergency Hospital(Halabja)",emergency,35.1945,45.9793,Halabja,35.1655,45.9896,emergency.png,Emergency,"24 H","24 H",NULL
+559,"نەخۆشخانەی شهيد رؤوف بك","Shaheed Rauf book Hospital",hospital,35.3223,45.6884,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+560,"نەخۆشخانەی هەڵەبجەی شەهید","Halabjai shahid Hospital",hospital,35.1945,45.9806,Halabja,35.1655,45.9896,hospital.png,General,"24 H","24 H",NULL
+561,"نەخۆشخانەی شهيد شوكت حاجي مشير","Shaheed Shaukat Hajji Mushir Hospital",hospital,35.3645,45.8449,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+562,"نەخۆشخانەی ئافرەتان و لە دایک بوون (هەڵەبجە)","Children & Birth Hospital",maternity,35.1947,45.982,Halabja,35.1655,45.9896,hospital.png,Maternity,"24 H","24 H",NULL
+563,"نەخۆشخانەی فێرکردن","Education Hospital",hospital,35.5648,45.444,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+564," شهيد  د. اسو(چاو)","Shaheed D.aso Hospital (eyes)",hospital,35.5338,45.4523,Sulaymaniyah,35.557,45.4359,hospital.png,Eye,"24 H","24 H",NULL
+565,"نەخۆشخانەی فریاکەوتنی سلێمانی","Emergency Hospital (slemani)",emergency,35.5639,45.4434,Sulaymaniyah,35.557,45.4359,emergency.png,Emergency,"24 H","24 H",NULL
+566,"نەخۆشخانەی لە دایک بوون (سلێمانی)","Maternity Hospital",maternity,35.5612,45.4453,Sulaymaniyah,35.557,45.4359,hospital.png,Maternity,"24 H","24 H",NULL
+567,"نەخۆشخانەی منداڵان (سلێمانی)","Children Hospital",hospital,35.5621,45.443,Sulaymaniyah,35.557,45.4359,hospital.png,Children,"24 H","24 H",NULL
+568,"نەخۆشخانەی گشتی دکتۆر هێمن","Public Hospital (Shaheed hemnt)",hospital,35.5635,45.443,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+569,"نەخۆشخانەی سۆزى دەروونى تاسلوجە","Sozi darwny taslwja Hospital",hospital,35.6345,45.2228,Sulaymaniyah,35.557,45.4359,hospital.png,Psychological,"24 H","24 H",NULL
+570,"نەخۆشخانەی هيوا","Hiwa Hospital",hospital,35.5422,45.4519,Sulaymaniyah,35.557,45.4359,hospital.png,Cancer,"24 H","24 H",NULL
+571,"نەخۆشخانەی شهيد د. پێشرەو","Shaheed d. Peshraw  Hospital",hospital,35.5313,44.8253,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+572,"نەخۆشخانەی باسره (شورش)","Basara  Hospital(Shorsh)",hospital,35.5101,44.8429,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+573,"نەخۆشخانەی شهيد هوشنك ئازاد","Shahid Hoshang azad  Hospital",hospital,35.5289,44.8457,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+574,"نەخۆشخانەی دوكان(شهيد غريب هلدنى )","Dokan  Hospital (Shaheed Ghraib Heldny)",hospital,35.9289,44.9625,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+575,"نەخۆشخانەی سۆزى شهيد صلاح مهندس","Suzy Shaheed Salah engineer  Hospital",hospital,35.5233,45.4601,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+576,"نەخۆشخانەی پیرەمەگرون","Piramagrwn  Hospital",hospital,35.7323,45.1464,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+577,"نەخۆشخانەی شار","Shar  Hospital",hospital,35.5812,45.4424,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+578,"نەخۆشخانەی سوتان و جوانکاری (سلێمانی)","Burn Wounds beauty  Hospital",hospital,35.5607,45.4438,Sulaymaniyah,35.557,45.4359,hospital.png,Burn,"24 H","24 H",NULL
+579,"نەخۆشخانەی منداڵان و لە دایک بوون (سۆران)","Born & children  Hospital Soran ",maternity,36.6369,44.5593,Erbil,36.191198,44.00914,hospital.png,Maternity,"24 H","24 H",NULL
+580,"نەخۆشخانەی ئاشتى/سوران","ashti/soran  Hospital",hospital,36.6524,44.5321,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+581,"نەخۆشخانەی شەهید شێخ سلیمان/بالیسان","Shahid Shex suliman  Hospital/Balisan",hospital,36.3963,44.5501,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+582,"نەخۆشخانەی بلێ","Ble  Hospital",hospital,36.8809,44.0659,Erbil,36.191198,44.00914,hospital.png,General,"24 H","24 H",NULL
+583,"نەخۆشخانەی فریاکەوتنی کۆیە","Emergrnce  Hospital(Koye)",emergency,36.0809,44.6274,Erbil,36.191198,44.00914,emergency.png,Emergency,"24 H","24 H",NULL
+584,"نەخۆشخانەی دەربەندیخان","Darbandikhan  Hospital",hospital,35.1219,45.6812,Sulaymaniyah,35.557,45.4359,hospital.png,General,"24 H","24 H",NULL
+585,"نەخۆشخانەی فریاکەوتنی شەهید هەژار","Shahid hazhar Emergency",emergency,34.6241,45.3264,Sulaymaniyah,35.557,45.4359,emergency.png,Emergency,"24 H","24 H",NULL
+586,"مەڵبەندی تەندروستی شهيد د.هندرين","Shahid D.Hndren",main,36.0838,44.6177,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+587,"مەڵبەندی تەندروستی حاج قادر","Haji Qadr",main,36.089,44.6273,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+588,"مەڵبەندی تەندروستی باوه جي",Bawaji,main,36.0914,44.6158,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+589,"مەڵبەندی تەندروستی شهيد عبد الله خرباي","Shahid Abdulla Xarabaye",main,35.9147,44.7753,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+590,"مەڵبەندی تەندروستی سكتان",Siktan,main,36.2145,44.6682,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+591,"مەڵبەندی تەندروستی کاموسەک",Kamusak,main,36.2737,44.5428,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+592,"مەڵبەندی تەندروستی سێگردکان",Segrdkan,main,35.9047,44.4244,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+593,"مەڵبەندی تەندروستی شهيد كاوه","Shahid d.Kawa",main,36.0804,44.6274,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+594,"مەڵبەندی تەندروستی شەهیدانی تەق تەق","Shahidani Taqtaq",main,35.8928,44.5852,Erbil,36.191198,44.00914,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+595,"بنکەی تەندروستی شیواشۆک",Shiwashok,branch,36.0118,44.5416,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+596,"بنکەی تەندروستی هەرمۆتە",Harmota,branch,36.0667,44.608,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+597,"بنکەی تەندروستی باخە چنێر",Baxachner,branch,35.9345,44.6322,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+598,"بنکەی تەندروستی بانی ماران","Bani Maran",branch,36.0468,44.379,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+599,"بنکەی تەندروستی سماقولی گەلی","Smaquli Gali",branch,36.1658,44.5841,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+600,"بنکەی تەندروستی سماقولی گرتک","Smaquli Grtk",branch,36.1956,44.5278,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+601,"بنکەی تەندروستی سماقولی سەروچاوە","Smaquli Sarwchawa",branch,36.2339,44.4983,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+602,"بنکەی تەندروستی ئیلینجاخ",Elnjagh,branch,35.9622,44.51,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+603,"بنکەی تەندروستی تیمارۆک",Timarok,branch,36,44.7167,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+604,"بنکەی تەندروستی کلێسە",Klesa,branch,35.8847,44.9108,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+605,"بنکەی تەندروستی قازبێگیان",Qazbegyan,branch,35.9537,44.836,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+606,"بنکەی تەندروستی کاولان",Kawlan,branch,35.9151,44.8203,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+607,"بنکەی تەندروستی کانی بی","Kani Bi",branch,35.8814,44.8344,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+608,"بنکەی تەندروستی گۆپتەپە",Goptapa,branch,36.0714,44.4967,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+609,"بنکەی تەندروستی سناوە",Snawa,branch,36.2148,44.5602,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+610,"بنکەی تەندروستی جەلی",Jali,branch,36.1884,44.5981,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+611,"بنکەی تەندروستی گۆمه‌شین",GomaShin,branch,36.078,44.461,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+612,"بنکەی تەندروستی گۆمەتاڵ",Gomatal,branch,36.1452,44.4277,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+613,"بنکەی تەندروستی ئۆمێگا گومبەت","Omea Gumbat",branch,35.8664,44.4839,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+614,"بنکەی تەندروستی یۆگد",Yogd,branch,35.9047,44.8614,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+615,"بنکەی تەندروستی شاخە پیسکە",ShaxaPiska,branch,36.0562,44.4127,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+616,"بنکەی تەندروستی داربەسەری بچوک","Darbeseri bchuk",branch,35.9943,44.4848,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+617,"بنکەی تەندروستی قـزڵو ",Qzlu,branch,35.8573,44.8028,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+618,"بنکەی تەندروستی کرۆژ",Krwzh,branch,36.1545,44.5614,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+619,"بنکەی تەندروستی شیوەشان",Shiwashan,branch,35.9839,44.8005,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+620,"بنکەی تەندروستی شەوگێر",Shawger,branch,36.0117,44.6545,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+621,"بنکەی تەندروستی ئاوماڵ",Awmal,branch,35.8617,44.3461,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+622,"بنکەی تەندروستی سماقە ",Smaqa,branch,35.9853,44.4339,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+623,"بنکەی تەندروستی زانكۆ",Zanko,branch,36.0958,44.6591,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+624,"بنکەی تەندروستی سێنان",Sinan,branch,36.171,44.5542,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+625,"بنکەی تەندروستی بەردە سپی","Barda Spi",branch,35.8935,44.3296,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+626," بنکەی تەندروستی گرتو خانە",Grtuxana,branch,36.0813,44.6487,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+627,"بنکەی تەندروستی ئاساحش رۆژهەڵات","Asaishi Rozhhalat",branch,36.0829,44.6341,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+628,"بنکەی تەندروستی کودەڵە",Kudala,branch,36.2469,44.6717,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+629,"بنکەی تەندروستی دێگەڵە",Degala,branch,36.1748,44.3844,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+630,"بنکەی تەندروستی ئاوخورە",Awxwra,branch,36.0486,44.3141,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+631,"بنکەی تەندروستی عەلیاوە",Alyawa,branch,36.1939,44.4163,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+632,"بنکەی تەندروستی نازنين",Nazanin,branch,36.1884,44.5981,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+633,"بنکەی تەندروستی كونه فلوسه","Kuna Flusa",branch,36.2997,44.5453,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+634,"بنکەی تەندروستی نێرگین",Nyregin,branch,35.9305,44.3696,Erbil,36.191198,44.00914,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+635,"مەڵبەندی تەندروستی ژاراوە",Zharawa,main,36.2277,45.0634,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+636,"مەڵبەندی تەندروستی ئیڤریا",Eviria,main,36.184,45.1239,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+637,"مەڵبەندی تەندروستی قەڵادزێ",Qaladze,main,36.1936,45.1324,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+638,"مەڵبەندی تەندروستی شهیدان قەڵادزێ",Shahidan,main,36.1743,45.12,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+639,"مەڵبەندی تەندروستی زەڵێ",Zale,main,36.2792,45.2938,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+640,"مەڵبەندی تەندروستی سونێ",Swne,main,36.2912,45.2376,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+641,"مەڵبەندی تەندروستی هەنارۆك",Hanarok,main,36.1762,45.1414,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+642,"مەڵبەندی تەندروستی هەلشۆ",Halsho,main,36.2097,45.2597,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+643,"بنکەی تەندروستی گەناو",Ganaw,branch,36.0483,45.3129,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+644,"بنکەی تەندروستی هێرۆ",Hero,branch,36.1321,45.2864,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+645,"بنکەی تەندروستی باوزێ",Bawze,branch,36.0878,45.3133,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+646,"بنکەی تەندروستی سید احمدان","Said Ahmadan",branch,36.0658,45.2865,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+647,"بنکەی تەندروستی ڕەزگە ",Razga,branch,36.3749,45.1474,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+648,"بنکەی تەندروستی شیوەڕەز","Shiwa Raz",branch,36.26,45.2044,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+649,"بنکەی تەندروستی شەروێت",Sharwet,branch,36.28,45.0867,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+650,"بنکەی تەندروستی شێخ ئاودەلان","Shex awdalan",branch,36.2365,45.2169,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+651,"بنکەی تەندروستی كۆمتان",Komtan,branch,36.4049,44.9663,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+652,"بنکەی تەندروستی سورەدێ","Swra de",branch,36.4119,45.0261,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+653,"بنکەی تەندروستی گرتك",Grtk,branch,36.2839,44.9983,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+654,"بنکەی تەندروستی بەستەستێنی خواروو","Bastasteni xwaru",branch,36.2678,45.0367,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+655,"بنکەی تەندروستی دەروكۆتر",darukotr,branch,36.3017,45.0096,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+656,"بنکەی تەندروستی قرناقەو","Qrna qaw",branch,36.4328,45.0019,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+657,"بنکەی تەندروستی بێشیر",Beshir,branch,36.1436,45.2248,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+658,"بنکەی تەندروستی ئێندزە",Endza,branch,36.4391,44.8993,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+659,"بنکەی تەندروستی دارەشمانە",Darashmana,branch,36.1825,45.243,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+660,"بنکەی تەندروستی ئەشكەنە",Ashkana,branch,36.0706,45.324,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+661,"بنکەی تەندروستی زۆركان",Zorkan,branch,36.2792,45.0294,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+662,"بنکەی تەندروستی لێوژە",Lewzha,branch,36.4479,44.8774,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+663,"بنکەی تەندروستی تۆربە",Torba,branch,36.31,44.9051,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+664,"بنکەی تەندروستی توەسوران","Twa suran",branch,36.0871,45.3135,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+665,"بنکەی تەندروستی قەندۆڵ",Qandoll,branch,36.0766,45.3244,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+666,"بنکەی تەندروستی شارستێن",Sharsten,branch,36.3639,45.0814,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+667,"بنکەی تەندروستی شێنێ",Shene,branch,36.2807,45.2703,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+668,"بنکەی تەندروستی دەشتێوان",Dashtewan,branch,36.3679,45.0851,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+669,"بنکەی تەندروستی دووگۆمان",Dugoman,branch,36.2897,44.9635,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+670,"بنکەی تەندروستی دەشتێو",Dashtew,branch,36.1008,45.2286,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+671,"بنکەی تەندروستی پشدەرە رەقە","Pshdara raqa",branch,36.3106,44.9058,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+672,"مەڵبەندی تەندروستی چوارقورنە",Chwarqurna,main,36.2133,44.8319,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+673,"مەڵبەندی تەندروستی راپەرین/رانیە",Raparin/Ranya,main,36.2299,44.7681,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+674,"مەڵبەندی تەندروستی كێوەرەش","Kewa Rash",main,36.2647,44.8871,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+675,"م.سەركەپكان",Sarkapkan,main,36.2872,44.8215,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+676,"مەڵبەندی تەندروستی شهيد حسيَن بةستةستيَنى","Shahid Husen",main,36.2401,44.7934,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+677,"مەڵبەندی تەندروستی شهيد ملانجم","Shahid mala najm",main,36.2778,44.7225,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+678,"مەڵبەندی تەندروستی شكارتە",Shkarta,main,36.2947,44.7089,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+679,"بنکەی تەندروستی توتمە",Tutma,branch,36.1535,44.7433,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+680,"بنکەی تەندروستی دارەبەن",Dareben,branch,36.3697,44.7594,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+681,"بنکەی تەندروستی كفرەدۆل","Kfra dol",branch,36.2353,44.7769,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+682,"بنکەی تەندروستی ئەستریلان",Asterlan,branch,36.256,44.8091,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+683,"بنکەی تەندروستی دواوە",Dwawa,branch,36.3285,44.7034,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+684,"بنکەی تەندروستی ماكۆك",Makok,branch,36.2429,44.8785,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+685,"بنکەی تەندروستی بۆسكین",Bosken,branch,36.2324,44.9152,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+686,"بنکەی تەندروستی قورەگۆ",Qwrago,branch,36.2272,44.9503,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+687,"بنکەی تەندروستی رزگاری خواروو","Rzgari xwaru",branch,36.2174,44.7972,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+688,"بنکەی تەندروستی قورەبەرازە","Qura baraza",branch,36.1787,44.6566,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+689,"بنکەی تەندروستی هیزۆپی گەورە","Hizopi gawra",branch,36.1743,44.6881,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+690,"بنکەی تەندروستی هیزۆپی بچووك","Hizopi Bchuk",branch,36.1717,44.6553,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+691,"بنکەی تەندروستی ئالیقە",Aliqa,branch,36.2129,44.8333,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+692,"بنکەی تەندروستی باسەرە",Basara,branch,36.1668,44.7054,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+693,"بنکەی تەندروستی كانی ماران","Kani maran",branch,36.1969,44.7461,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+694,"بنکەی تەندروستی قەرەنی ئاغا","Qarani Agha",branch,36.2008,44.7575,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+695,"بنکەی تەندروستی گردجان",Grdjan,branch,36.2086,44.7916,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+696,"بنکەی تەندروستی بێستانە",Bestana,branch,36.1406,44.6901,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+697,"بنکەی تەندروستی بێتواتە",Betwata,branch,36.3435,44.6981,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+698,"بنکەی تەندروستی گوڵان",Gulan,branch,36.3952,44.7127,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+699,"بنکەی تەندروستی پاشكۆتەڵ",Pashkotal,branch,36.3206,44.7977,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+700,"بنکەی تەندروستی بامۆلەكان",Bamolakan,branch,36.3967,44.7828,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+701,"بنکەی تەندروستی سەیداوا",Saidawa,branch,36.2579,44.8986,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+702,"بنکەی تەندروستی كانی توو","Kani tu",branch,36.3422,44.574,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+703,"بنکەی تەندروستی سەرئەشكەوتان",Sarashkawtan,branch,36.3378,44.7075,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+704,"بنکەی تەندروستی چیوەی سەروو","Chiway saru",branch,36.3417,44.5948,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+705,"بنکەی تەندروستی چیوەی خواروو","Chiway xwaru",branch,36.342,44.5759,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+706,"بنکەی تەندروستی زێوە",Zewa,branch,36.3942,44.6416,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+707,"بنکەی تەندروستی مێرگەسەر",Mergasar,branch,36.3714,44.5948,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+708,"بنکەی تەندروستی خواران",Xwaran,branch,36.3612,44.5702,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+709,"بنکەی تەندروستی نێوە",Newa,branch,36.2828,44.6711,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+710,"بنکەی تەندروستی مەمانداوە",Mamandawa,branch,36.2309,44.674,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+711,"بنکەی تەندروستی گەرمكەنداڵ",Garmkandal,branch,36.3244,44.7925,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+712,"بنکەی تەندروستی نوورەدین",Nuradin,branch,36.286,44.6754,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+713,"مەڵبەندی تەندروستی قەرەداخ",Qaradax,main,35.3076,45.3906,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+714,"مەڵبەندی تەندروستی ئاوایی شێخ مصطفی","Away Shex Mstafa",main,35.2683,45.4869,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+715,"بنکەی تەندروستی باخ",Bagh,branch,35.3932,45.3746,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+716,"بنکەی تەندروستی سەدو بیست","Sadu bist",branch,35.4267,45.45,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+717,"بنکەی تەندروستی بارۆی شەهید","Baroye Shahid",branch,35.2738,45.4841,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+718,"بنکەی تەندروستی زرگێز",Zergwez,branch,35.4181,45.458,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+719,"بنکەی تەندروستی سەرجاوەی هۆمەر قەڵا","Sarchaway homar qala",branch,35.145,45.5434,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+720,"بنکەی تەندروستی بالخەی سەرو","Balxay saru",branch,35.1764,45.5133,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+721,"بنکەی تەندروستی قازان قایە","Qazan Qaya",branch,35.4042,45.26,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+722,"بنکەی تەندروستی ئەستێلی سەرو","Astele saru",branch,35.2466,45.403,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+723,"بنکەی تەندروستی عەلیاوەی خوارو","Alyaway Xwaru",branch,35.4572,45.4133,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+724,"بنکەی تەندروستی دارویان",Darwyan,branch,35.2519,45.545,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+725,"بنکەی تەندروستی قامیشانی قەرەداخ","Qamishani Qaradax",branch,35.2667,45.5269,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+726,"بنکەی تەندروستی سۆلە",Sola,branch,35.2175,45.5828,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+727,"بنکەی تەندروستی حسین فەقیرەیی","Husen Faqiray",branch,35.2747,45.5375,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+728,"بنکەی تەندروستی کولەجۆ حەمەجان","Kulajo Hama jan",branch,35.2516,45.5205,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+729,"بنکەی تەندروستی بانی موراد","Bani Mord",branch,35.1821,45.3826,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+730,"بنکەی تەندروستی قەیتول",Qitol,branch,35.2465,44.9319,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+731,"بنکەی تەندروستی شەهید مام بێستون عەسکەر","Shahid Mam Bestun.Askar",branch,35.8286,44.91,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+732,"مەڵبەندی تەندروستی چەرمۆ",Charmo,main,35.5357,44.8338,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+733,"مەڵبەندی تەندروستی سەرگرمە",Sagrma,main,35.5131,44.8491,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+734,"مەڵبەندی تەندروستی شەهید سەید جەوهەر","Shahid Said Jawhar",main,35.5058,44.8513,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+735,"مەڵبەندی تەندروستی حەمە خەفور","Hama Gafur",main,35.7509,44.8978,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+736,"مەڵبەندی تەندروستی شەهید مەلا یاسین","Shahid Mala Yassin",main,35.5193,44.847,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+737,"مەڵبەندی تەندروستی راپەرین",Raparin,main,35.3496,44.7969,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+738,"مەڵبەندی تەندروستی شەهید عەسکەر","Shahid Askar",main,35.2001,44.8929,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+739,"مەڵبەندی تەندروستی شەهیدانی بێکەس","Shahidani Bekas",main,35.4763,44.8832,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+740,"مەڵبەندی تەندروستی قەرەناو",Qaranaw,main,35.4511,44.9204,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+741,"مەڵبەندی تەندروستی تەکیەی جەباری","Takyay Jabari",main,35.3496,44.7969,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+742,"مەڵبەندی تەندروستی تەکیەی کاکەمەند","Takyay Kakamand",main,35.5986,44.9637,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+743,"مەڵبەندی تەندروستی شەهید حەمە رەش","Shahid Hama Rash",main,35.2824,45.1861,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+744,"بنکەی تەندروستی گۆپتەپە",Goptapa,branch,35.8478,44.8328,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+745,"بنکەی تەندروستی کریچنە",Krichna,branch,35.2835,45.2771,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+746,"بنکەی تەندروستی ماسۆی بارگاج","Masoi Bargach",branch,35.2869,45.272,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+747,"بنکەی تەندروستی کیچان",Kichan,branch,35.2397,45.2461,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+748,"بنکەی تەندروستی ژاڵەی دەربەند","Zhalay Darband",branch,35.2437,45.312,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+749,"بنکەی تەندروستی شۆراوە",Shorawa,branch,35.5458,45.0451,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+750,"بنکەی تەندروستی قەسرۆک",Qasrok,branch,35.8672,44.665,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+751,"بنکەی تەندروستی گرد خەبەر","Grd Xabar",branch,35.8722,44.7125,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+752,"بنکەی تەندروستی  ژالە مۆرد","Jala Mord",branch,35.8028,44.6916,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+753,"بنکەی تەندروستی هاکز",Hakz,branch,35.4525,44.9654,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+754,"بنکەی تەندروستی قەرە تامور","Qara Tamor",branch,35.4763,44.9204,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+755,"بنکەی تەندروستی شۆراوە",Shorawa,branch,35.5458,45.0451,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+756,"بنکەی تەندروستی تلیان",Tlyan,branch,35.7247,44.7914,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+757,"بنکەی تەندروستی گەورە دێ","Gawra De",branch,35.5169,44.8099,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+758,"بنکەی تەندروستی شەهید مام بێستون ","Shahid Mam bestun",branch,35.5444,44.8366,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+759,"بنکەی تەندروستی هەزار کانی","Hazar Kani",branch,35.1826,45.3246,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+760,"بنکەی تەندروستی علی زەنگەنە","Ali Zangana",branch,35.509,44.8533,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+761,"بنکەی تەندروستی کالە رەشی","Kala Rashi",branch,35.532,44.8253,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+762,"بنکەی تەندروستی قۆجەلەر",Qojalar,branch,35.7145,44.9506,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+763,"بنکەی تەندروستی فەقێ میرزا","Faqe Mirza",branch,35.7594,45.03,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+764,"بنکەی تەندروستی هاشە زینی","Hasha Zini",branch,35.405,45.1192,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+765,"بنکەی تەندروستی بانی مۆراد","Bani Mord",branch,35.6989,44.7345,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+766,"بنکەی تەندروستی مۆراد خواردەی سەرو","Mord Xwarday Saru",branch,35.7602,44.7316,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+767,"بنکەی تەندروستی موراد خواردەی خوارو","Mord Xwarday Xwaru",branch,35.7611,44.7409,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+768,"بنکەی تەندروستی نورەی سەرو","Nuray Saru",branch,35.4554,44.8785,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+769,"بنکەی تەندروستی کارێزەی دەلۆ","Karezay Dalo",branch,35.1697,45.2061,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+770,"بنکەی تەندروستی کارێزەی خالخالان","Karezay Xalxalan",branch,35.1688,45.2112,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+771,"بنکەی تەندروستی شەهید جەواد بێداری","Shahid jawad Bedari",branch,35.2836,45.277,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+772,"مەڵبەندی تەندروستی شەهید عبدالرحمن حاجیاتی","Shahid Abdurahman Hajyati",main,35.8201,45.1164,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+773,"مەڵبەندی تەندروستی شەهید سەباح خەلەکانی","Shahid Sabah Xalakani",main,36.0172,44.8373,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+774,"مەڵبەندی تەندروستی سورداش",Swrdash,main,35.863,45.1037,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+775,"بنکەی تەندروستی شیلە خان","shila Xan",branch,35.8646,45.0412,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+776,"بنکەی تەندروستی قامیەی دوکان","Qamishay Dukan",branch,35.9647,44.875,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+777,"بنکەی تەندروستی هەلدان",Haladn,branch,35.8457,45.2158,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+778,"بنکەی تەندروستی شادەلە",shadala,branch,35.8398,45.163,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+779,"بنکەی تەندروستی سەرگەڵو",Sargalu,branch,35.8678,45.1619,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+780,"بنکەی تەندروستی قەەرانگوێ",Qarangwe,branch,35.9147,45.1048,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+781,"بنکەی تەندروستی یاخسەمەر",Yaxsamar,branch,35.83,45.2492,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+782,"بنکەی تەندروستی قەمچۆخە",QamChoGha,branch,35.9082,44.979,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+783,"بنکەی تەندروستی باداوان",Badawan,branch,36.1097,44.7471,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+784,"بنکەی تەندروستی کلکە سماقە","Klka Smaq",branch,35.9272,44.9189,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+785,"بنکەی تەندروستی شەهید مەلا خالید","Shahida mala Xalid muxali",branch,35.7845,45.1143,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+786,"بنکەی تەندروستی گوێزەلە",gwezle,branch,35.8532,45.2687,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+787,"بنکەی تەندروستی شاقولە",Shaqule,branch,35.9003,45.1483,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+788,"بنکەی تەندروستی جۆبلاخ",Joblax,branch,35.9463,45.013,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+789,"بنکەی تەندروستی ئارێشە",Aresha,branch,35.9903,44.8836,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+790,"بنکەی تەندروستی قازان",Qazan,branch,35.7027,45.0888,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+791,"مەڵبەندی تەندروستی شەهید حەسەن خاوی","Shahid Hasan Xawi",main,35.5461,45.5553,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+792,"مەڵبەندی تەندروستی شەهید کاک برا بەرزبجی","Shahid kaka bra Barznja",main,35.5444,45.6942,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+793,"مەڵبەندی تەندروستی شەهید عسلهک مصطفی ماواتی","Shahid Usman Mstafa Mawati",main,35.9009,45.4078,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+794,"مەڵبەندی تەندروستی چوارتا",Chwarta,main,35.7195,45.5748,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+795,"مەڵبەندی تەندروستی ئالپارێز",AlpareZ,main,35.5748,45.8534,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+796,"بنکەی تەندروستی خەمزە",Xamze,branch,35.6709,45.4469,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+797,"بنکەی تەندروستی سیتەک",Sitak,branch,35.638,45.5227,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+798,"بنکەی تەندروستی دەشتی",Dashte,branch,35.9903,45.484,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+799,"بنکەی تەندروستی کانارۆ",Kanaroi,branch,35.7904,45.5772,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+800,"بنکەی تەندروستی ماروێ",Marwe,branch,35.9877,45.5507,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+801,"بنکەی تەندروستی ئارزوێر",Aruzer,branch,35.8895,45.5814,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+802,"بنکەی تەندروستی سێرێن",Seren,branch,35.829,45.7158,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+803,"بنکەی تەندروستی مودیرە",Mudera,branch,35.7275,45.6578,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+804,"بنکەی تەندروستی چنگیان",Chngyan,branch,35.6256,45.6224,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+805,"بنکەی تەندروستی ئاو کورتە",Awkurte,branch,35.9587,45.4215,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+806,"بنکەی تەندروستی گاپیلۆن",Gapleon,branch,35.7973,45.3518,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+807,"بنکەی تەندروستی چوخماخ",Chuxmax,branch,35.7891,45.3041,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+808,"بنکەی تەندروستی سەرخوار",Sarxwar,branch,35.6681,45.741,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+809,"بنکەی تەندروستی گۆرانگە",Goranga,branch,35.8105,45.5295,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+810,"بنکەی تەندروستی باراو",Baraw,branch,35.604,45.6542,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+811,"بنکەی تەندروستی سەرا قەلات",Suraqalat,branch,35.7755,45.4546,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+812,"بنکەی تەندروستی پارزان",Parazan,branch,35.6313,45.731,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+813,"بنکەی تەندروستی شێخ ئەلمارین",Shexalmaren,branch,35.7145,45.7863,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+814,"بنکەی تەندروستی بێورێ",Bewre,branch,35.856,45.5945,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+815,"بنکەی تەندروستی هۆندەرێنە",Hondarena,branch,35.5761,45.6771,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+816,"بنکەی تەندروستیشاشۆ",Shasho,branch,35.9273,45.4608,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+817,"بنکەی تەندروستی خمان",xman,branch,35.9319,45.4753,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+818,"بنکەی تەندروستی سەفرە",Safra,branch,35.9484,45.3372,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+819,"بنکەی تەندروستی شەهید بابە رەسول پەمۆ","shahid Babarsul dul pamo",branch,35.6489,45.7121,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+820,"بنکەی تەندروستی سێوانگ",sewang,branch,35.8291,45.6081,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+821,"بنکەی تەندروستی سیرە",Sire,branch,35.9107,45.5801,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+822,"بنکەی تەندروستی سەراوەی ماوەت","Sarawi Mawat",branch,35.8889,45.5089,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+823,"بنکەی تەندروستی شانەخسێ",Shanaxse,branch,35.9789,45.5202,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+824,"بنکەی تەندروستی مامولە",Maluma,branch,35.827,45.2957,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+825,"بنکەی تەندروستی گلێی ماوەت","Gley Mawet",branch,35.9211,45.4204,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+826,"بنکەی تەندروستی کێلێ",kele,branch,35.8009,45.4634,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+827,"بنکەی تەندروستی تاگەران",Tagaran,branch,35.6744,45.5295,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+828,"بنکەی تەندروستی کانی خێل","Kani Xel",branch,35.9826,45.4856,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+829,"بنکەی تەندروستی بازیگر",Bazegyr,branch,35.6811,45.5086,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+830,"بنکەی تەندروستی قامیش/ماوەت",Qamish/mawet,branch,35.8757,45.3615,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+831,"بنکەی تەندروستی واژە",Wazha,branch,35.7461,45.5006,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+832,"بنکەی تەندروستی قاشان",Qashan,branch,35.895,45.4182,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+833,"بنکەی تەندروستی کونە فلوسە","kuna fusi",branch,35.7991,45.4121,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+834,"بنکەی تەندروستی گۆرە دێم","Gora dem",branch,35.7329,45.6331,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+835,"بنکەی تەندروستی شەهید شێرکۆ","Shahid Sherko",branch,35.8385,45.5816,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+836,"بنکەی تەندروستی رازلی",Razle,branch,35.5636,45.7985,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+837,"بنکەی تەندروستی سارگەلو / ماوەت","Sarglu .mawet",branch,35.9598,45.4636,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+838,"بنکەی تەندروستی سیرمێرگ",siremerg,branch,35.6861,45.4848,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+839,"بنکەی تەندروستی هارمن",Harmn,branch,35.6808,45.5804,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+840,"بنکەی تەندروستی خەلاتی حاجی دارا","Xalati Haji dara",branch,35.5755,45.672,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+841,"بنکەی تەندروستی","Kela kawa",branch,35.5331,45.6669,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+842,"مەڵبەندی تەندروستی","Shahid Rafiq Barawi",main,35.5607,45.4663,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+843,"مەڵبەندی تەندروستی","Ibrahim Pasha",main,35.5564,45.4509,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+844,"مەڵبەندی تەندروستی",Chwarbax,main,35.5533,45.4284,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+845,"مەڵبەندی تەندروستی",Zargata,main,35.5796,45.4115,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+846,"مەڵبەندی تەندروستی",Sarwari,main,35.5892,45.4156,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+847,"مەڵبەندی تەندروستی کارێزە ووشک","Kareza Wshk",main,35.5816,45.4256,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+848,"مەڵبەندی تەندروستی شەهید شەمال","Shahid Shamal",main,35.5696,45.4342,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+849,"مەڵبەندی تەندروستی علی ناجی","Ali Naji",main,35.5604,45.4207,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+850,"مەڵبەندی تەندروستی حاجیاوە",Hajyawa,main,35.5375,45.4335,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+851,"مەڵبەندی تەندروستی کوێستان",Kwestan,main,35.5892,45.4003,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+852,"مەڵبەندی تەندروستی راپەرین/سلێمانی",Raparin.Slemani,main,35.5593,45.2966,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+853,"مەڵبەندی تەندروستی سەرچنار",Sarchnar,main,35.5833,45.3814,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+854,"مەڵبەندی تەندروستی ولوبە",Wluba,main,35.5352,45.4304,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+855,"مەڵبەندی تەندروستی شەهید ڕێباز","Shahid Rebaz",main,35.5528,45.3492,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+856,"مەڵبەندی تەندروستی شەهی بەختیار","Shahid Baxtyar",main,35.5749,45.4349,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+857,"مەڵبەندی تەندروستی شهید جەزا","Shahid Jaza",main,35.5899,45.3936,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+858,"مەڵبەندی تەندروستی شەهید سەردار","Shahid Sardar",main,35.5678,45.4627,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+859,"مەڵبەندی تەندروستی زێرینۆک",Zerinok,main,35.5326,45.4284,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+860,"مەڵبەندی تەندروستی شەهید محمد اسماعل","Shahid Mahamad Ismael",main,35.5976,45.417,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+861,"مەڵبەندی تەندروستی فەرمانبەران",Farmanbaran,main,35.5895,45.4057,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+862,"مەڵبەندی تەندروستی شەهید رەفیق حمە جان","Shahid Rafiq Hama Jan",main,35.5465,45.4169,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+863,"مەڵبەندی تەندروستی شەکرەکە",Shakraka,main,35.5667,45.381,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+864,"مەڵبەندی تەندروستی رۆژهەڵات",Rozhhalat,main,35.5489,45.457,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+865,"مەڵبەندی تەندروستی فایەق حاجی علی","Faeq Haji Ali",main,35.5731,45.3807,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+866,"مەڵبەندی تەندروستی شەهید باقی کونجرینی","Shahid Baqi Kunjrini",main,35.595,45.4359,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+867,"مەڵبەندی تەندروستی شەهید حمە سعید سێتەلانی","Shahid Hama Saeed Setalani",main,35.6042,45.4168,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+868,"مەڵبەندی تەندروستی شەهید ابراگیم عباس","Shahid Ibrahim Abas",main,35.5645,45.3988,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+869,"مەڵبەندی تەندروستی بەردە قارەمان",Bardaqaraman,main,35.6474,45.0631,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+870,"مەڵبەندی تەندروستی بازیان",Bazyan,main,35.5997,45.1372,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+871,"مەڵبەندی تەندروستی تاینال",Tainal,main,35.6239,45.0949,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+872,"مەڵبەندی تەندروستی اللای",Allayi,main,35.5818,45.1746,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+873,"مەڵبەندی تەندروستی شەهید ملازم سەید کەریم","Shahid Mlazm said Karim",main,35.5951,45.2266,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+874,"مەڵبەندی تەندروستی سێکتەری راپەرین","Sektari Raparin",main,35.5593,45.2966,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+875,"بنکەی تەندروستی بازیانی کۆن","Bazyani Kon",branch,35.6133,45.091,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+876,"بنکەی تەندروستی گۆپەلە",Gopala,branch,35.6458,45.0284,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+877,"بنکەی تەندروستی سەروچاوەی بازیان","Saruchaway Bazyan",branch,35.6975,45.0185,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+878,"بنکەی تەندروستی کانی شەیتان","Kani Shaitan",branch,35.6544,45.0013,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+879,"بنکەی تەندروستی داری کەلی","Dari kali",branch,35.4683,45.253,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+880,"بنکەی تەندروستی کانی گۆران","Kani Goran",branch,35.6749,45.4018,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+881,"بنکەی تەندروستی کۆستای چەم","Kostay Cham",branch,35.5476,45.3726,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+882,"بنکەی تەندروستی ئاوبار",awbara,branch,35.5532,45.3803,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+883,"بنکەی تەندروستی بابە گورگور",Babagurgur,branch,35.5834,45.3075,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+884,"بنکەی تەندروستی کەلەکان",Kalakan,branch,35.6064,45.4375,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+885,"بنکەی تەندروستی کەمپی سەلام","Kampi Salam",branch,35.5463,45.4335,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+886,"بنکەی تەندروستی قزلەر",Qzlar,branch,35.7664,45.2947,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+887,"بنکەی تەندروستی هاورێ جەبار","Hawre Jabar(kanakaway Eskan)",branch,35.5937,45.2582,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+888,"بنکەی تەندروستی چاقژ",Chaqzh,branch,35.6253,45.2,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+889,"بنکەی تەندروستی کۆلیژی کشتوکال","Koleji Kshtukal",branch,35.5571,45.3499,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+890,"بنکەی تەندروستی قلیاسان",Qlyasan,branch,35.5822,45.3746,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+891,"بنکەی تەندروستی کانی گۆمە","Kani Goma",branch,35.5139,45.3974,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+892,"بنکەی تەندروستی قولە ریسی","Qula Raisi",branch,35.5965,45.3468,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+893,"بنکەی تەندروستی قەرەتۆخان",Qaratogan,branch,35.5172,45.4332,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+894,"بنکەی تەندروستی کانی بە","Kani Ba",branch,35.5327,45.4283,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+895,"بنکەی تەندروستی هەزار مێرد","Hazar Merd",branch,35.5,45.35,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+896,"بنکەی تەندروستی کانا سورە","Kana sura",branch,35.5228,45.3981,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+897,"بنکەی تەندروستی قەیکەند",Qaikand,branch,35.6296,45.1915,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+898,"بنکەی تەندروستی شەهید رەفیق","Shahid Rafiq (Halay Mam Qadr)",branch,35.5303,45.1866,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+899,"بنکەی تەندروستی قەیوان سیتی","Qaiwan City",branch,35.5809,45.3462,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+900,"بنکەی تەندروستی ناوجەی پیشەسازی","Nawchay Pishasazi",branch,35.5622,45.3892,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+901,"بنکەی تەندروستی گرین سیتی","Green city",branch,35.5332,45.445,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+902,"بنکەی تەندروستی کئرد سیتی","Kurd city",branch,35.5396,45.4164,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+903,"بنکەی تەندروستی خەلدان",Xaldan,branch,35.5681,45.1192,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+904,"بنکەی تەندروستی زێوێ",Zewe,branch,35.7489,45.25,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+905,"بنکەی تەندروستی شەهید عبداللە محمد نادر","Shahid Abdulla Mahmad Nadr",branch,35.581,45.2695,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+906,"بنکەی تەندروستی شەهیدانی تانجەرۆ","Shahidani Tanjaro",branch,35.5017,45.4286,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+907,"مەڵبەندی تەندروستی شەهید حەسەن خاوی","Shahid hasan Xawey",main,35.5471,45.4412,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+908,"بنکەی تەندروستی بارۆح شەهید","Baroi Shahid",branch,35.4841,45.288,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+909,"مەڵبەندی تەندروستی شههید دکتۆر هێمن","Shahid dktor Hemn",main,35.5648,45.444,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+910,"بنکەی تەندروستی شههید حیکمەت ","shahid hikmat haji Othman",branch,35.5648,45.444,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+911,"مەڵبەندی تەندروستی ابراهیم احمد","Ibrahim Ahmed",main,35.5586,45.4833,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+912,"مەڵبەندی تەندروستی بەختیاری",Baxtyari,main,35.3991,45.5741,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+913,"مەڵبەندی تەندروستی قەیوان",Qaewan,main,35.5396,45.4786,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+914,"مەڵبەندی تەندروستی هیرۆن سیتی","Hiron City",main,35.5281,45.4804,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+915,"مەڵبەندی تەندروستی برایەتی",Brayati,main,35.4982,45.4409,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+916,"مەڵبەندی تەندروستی عەربەتی سەروو","Arbati Saru",main,35.41,45.5872,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+917,"مەڵبەندی تەندروستی عەربەتی خواروو","Arbati Xwaru",main,35.41,45.5872,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+918,"بنکەی تەندروستی بێستون سور","Bestan Sur",branch,35.3817,45.6458,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+919,"بنکەی تەندروستی رازیانە",Rzyane,branch,35.4899,45.4913,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+920,"بنکەی تەندروستی ژاڵەی سەروو","Zhalay saru",branch,35.4958,45.461,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+921,"بنکەی تەندروستی عەلوەکە",Aluaka,branch,35.5089,45.449,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+922,"بنکەی تەندروستی حاجی سالار احمد شاسوار","Haji Salar Ahmed Shaswar",branch,35.4995,45.4483,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+923,"بنکەی تەندروستی شەهید سەلاح","Shahid Salah",branch,35.5216,45.4592,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+924,"بنکەی تەندروستی مەرگە",Marga,branch,36.0522,45.0914,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+925,"بنکەی تەندروستی گەرمكان",Garmkan,branch,36.1288,45.117,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+926,"مەڵبەندی تەندروستی بنگرد",Bngrd,main,36.0672,45.0444,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+927,"مەڵبەندی تەندروستی خدران",xdran,main,36.1286,44.7786,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+928,"بنکەی تەندروستی قەمتەران",Qamtaran,branch,36.1535,44.7412,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+929,"بنکەی تەندروستی ئاوەژێ",Awazhe,branch,36.0261,45.1581,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+930,"بنکەی تەندروستی كڵاوسوران",Klausuran,branch,36.162,44.7067,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+931,"بنکەی تەندروستی زانكۆ",Zanko,branch,36.2357,44.868,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+932,"بنکەی تەندروستی زرگوێز","zrgwez ",branch,35.4272,45.4248,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+933,"بنکەی تەندروستی جعفران","jafaran ",branch,35.3166,45.334,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+934,"بنکەی تەندروستی دوکارۆ","dwkaro ",branch,35.2521,45.5479,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+935,"بنکەی تەندروستی بەلەکجار","balakjar ",branch,35.1935,45.4677,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+936,"بنکەی تەندروستی گۆرباز",gwrbaz,branch,35.4364,45.2234,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+937,"بنکەی تەندروستی پارازان",Parazan,branch,35.6328,45.7308,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+938,"بنکەی تەندروستی ماروێ",marwe,branch,35.9875,45.5536,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+939,"بنکەی تەندروستی نۆرک","nork ",branch,35.786,45.7544,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+940,"بنکەی تەندروستی گەورە دێ","gawrade ",branch,35.6314,45.5516,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+941,"بنکەی تەندروستی باسنێ","basne ",branch,35.89,45.5844,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+942,"بنکەی تەندروستی مۆریاس","moryas ",branch,35.468,45.7246,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+943,"بنکەی تەندروستی ماشان","mashan ",branch,35.9869,45.5146,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+944,"بنکەی تەندروستی کارێزە",kareza,branch,35.7799,45.4112,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+945,"بنکەی تەندروستی حاجی مامەند","haje mamand ",branch,35.6168,45.7886,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+946,"بنکەی تەندروستی گەڵالە","galala ",branch,35.9336,45.3156,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+947,"بنکەی تەندروستی قاوێلە","qawela ",branch,35.4619,45.7828,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+948,"بنکەی تەندروستی سەراو","saraw ",branch,35.8896,45.5094,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+949,"بنکەی تەندروستی کانی خان","kane xan ",branch,35.7979,45.9106,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+950,"بنکەی تەندروستی ناوشاخان",Nawshaxan,branch,35.6166,45.9539,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+951,"بنکەی تەندروستی دارۆخان","daroxan ",branch,35.7987,46.076,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+952,"بنکەی تەندروستی دارا گورگان","daragwrgan ",branch,35.6654,45.8465,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+953,"بنکەی تەندروستی سیاگوێز",syagwez,branch,35.8067,45.8015,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+954,"بنکەی تەندروستی کانی مانگا","kane manga ",branch,35.5849,45.9241,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+955,"بنکەی تەندروستی سەرسوراو",Sarswraw,branch,35.7759,45.9798,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+956,"بنکەی تەندروستی گولێ","gwle ",branch,35.7767,45.8265,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+957,"بنکەی تەندروستی چوێسە",chwesa,branch,35.766,46.111,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+958,"بنکەی تەندروستی بنەسوتە","bnaswta ",branch,35.5878,46.0099,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+959,"بنکەی تەندروستی کانی سەیف","kane saif ",branch,35.5042,45.9652,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+960,"بنکەی تەندروستی نزارە","nzara ",branch,35.6814,45.96,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+961,"ب.ت.ثةلى هيرؤ","pali hero",branch,35.4639,45.8515,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+962,"ب.ت.تةرةتةوةن",taratawan,branch,35.524,45.8761,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+963,"ب.ت.زةنطى سةر","zangy sar",branch,35.4937,45.8944,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+964,"ب.ت.سةراوى سبحان ئاغا","sarawi swbhan agha",branch,35.375,45.8348,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+965,"ب.ت.شانةدةرى تازة","shanadary taza",branch,35.3895,45.8907,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+966,"ب.ت.شانةدةرى كؤن","shanadary kon",branch,35.4156,45.8934,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+967,"ب.ت. شهيد حمة رةش(طريزة)","shahid hama rash",branch,35.3932,45.7371,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+968,"ب.ت.شهيد ستار","shahid star",branch,35.3827,45.7076,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+969,"ب.ت.شهيد اسعد سليمان بيرةشكةيى","shahid ashad sleman",branch,35.3868,45.7062,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+970,"ب.ت.كةضةلى",kachali,branch,35.3955,45.9804,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+971,"ب.ت.طردةنازى","grda nazi",branch,35.3405,45.929,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+972,"ب.ت.مايندؤل",mayndol,branch,35.466,45.8109,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+973,"ب.ت.موانى كؤن","mwani kon",branch,35.3583,45.7423,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+974,"ب.ت.قوماش",qwmash,branch,35.3625,45.7903,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+975,"م.ت.سيدصادق","said sadq",main,35.3511,45.8774,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+976,"م.ت.شهيد سةرحةد قارةمان","shahid sarhad qaraman",main,35.3775,45.7094,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+977,"م.ت.شهيد دضيا","shahid yahya",main,34.5394,45.0421,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+978,"م.ت.عمرى حاجى على","omari haji ali",main,34.4664,45.1667,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+979,"م.ت.شهيد سردار مهندس","shahid sardar mwhandis",main,35.0236,45.1012,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+980,"م.ت.زمناكؤ",zmnako,main,34.9796,44.7668,Sulaymaniyah,35.557,45.4359,facility_main.png,Main,"8:00 AM","1:30 PM",NULL
+981,"ب.ت.بةمؤ",bamo,branch,35.2677,45.6111,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+982,"ب.ت.دسكةرة",daskara,branch,34.5401,45.3338,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+983,"ب.ت.شةهيد شةمال ","shahid shamal",branch,34.8206,45.0771,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+984,"ب.ت.شهيد حمة سعيد طةلالى","shahid hama sahid galali",branch,34.6921,44.9504,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+985,"ب.ت.زةلةرةش","zalara rash",branch,34.748,45.1295,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+986,"ب.ت.كانى هةنجير",kanihanjir,branch,35.2128,45.7001,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+987,"بنکەی تەندروستی صالحان",salhan,branch,34.5542,45.3848,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+988,"بنکەی تەندروستی علی خلف","ali xelef",branch,34.7434,45.4798,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+989,"بنکەی تەندروستی شەهید نەجم","shahid najm",branch,34.5401,45.3338,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+990,"بنکەی تەندروستی بەمۆ",Bamo,branch,34.9797,45.7983,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+991,"بنکەی تەندروستی زینانە",zinana,branch,34.8799,44.85,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+992,"بنکەی تەندروستی هۆرین",horin,branch,34.9441,45.709,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+993,"بنکەی تەندروستی سەرتەک",sartk,branch,34.8147,45.6331,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+994,"بنکەی تەندروستی قورەتوو",qwratw,branch,34.6075,45.4952,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+995,"بنکەی تەندروستی پیرۆز خان","peroz xan",branch,34.56,45.5877,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+996,"بنکەی تەندروستی حاجی لەر","haji lar",branch,34.8048,45.647,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+997,"بنکەی تەندروستی بیلولە",bilula,branch,34.8669,45.7567,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+998,"بنکەی تەندروستی پەلکانە",palkana,branch,34.464,45.3506,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+999,"بنکەی تەندروستی گرتوخانە",grtwxana,branch,34.6212,45.3133,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1000,"بنکەی تەندروستی زەماوەنگە",zamawanga,branch,34.7714,45.4222,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1001,"بنکەی تەندروستی شێخ لەنگەر","shex langar",branch,34.5515,45.2485,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1002,"بنکەی تەندروستی شێخ تویل","shex twyl",branch,35.0202,45.4595,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1003,"بنکەی تەندروستی گردەکۆزینە","grda kozina",branch,34.7447,45.3018,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1004,"بنکەی تەندروستی عیسایی",esayii,branch,34.7688,45.4663,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1005,"بنکەی تەندروستی کویرەک",kwerak,branch,34.7532,45.2604,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1006,"بنکەی تەندروستی توب عەسکەر","twb askar",branch,34.7122,45.4169,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1007,"بنکەی تەندروستی چەرچەقەلا",charchaqala,branch,35.0734,45.3448,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1008,"بنکەی تەندروستی حسن محە","hasan maha",branch,34.7108,45.4015,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1009,"بنکەی تەندروستی قەلا تۆپزان","qala topzan",branch,34.967,45.4615,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1010,"بنکەی تەندروستی منصور الکان","manswr alkan",branch,34.5394,45.0421,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1011,"بنکەی تەندروستی کوبان",kwban,branch,34.6921,44.9504,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1012,"بنکەی تەندروستی دوانزە ئیمام","swanza emam",branch,34.6386,45.013,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1013,"بنکەی تەندروستی عزیز قادر","aziz qadr",branch,34.8849,45.016,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1014,"بنکەی تەندروستی کەلەجوزەنگبات","kala jwzangbat",branch,34.4664,45.1667,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1015,"بنکەی تەندروستی خانی سەروو","xany sarw",branch,35.0236,45.1012,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1016,"بنکەی تەندروستی قیرتاج",qirtaj,branch,34.5279,45.2052,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1017,"بنکەی تەندروستی شهید کامەران","shahid kamaran",branch,34.8206,45.0771,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1018,"بنکەی تەندروستی گەرمەک",garmak,branch,34.862,45.3474,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1019,"بنکەی تەندروستی زەردی حەمە","zardi hama",branch,34.8245,45.2289,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1020,"بنکەی تەندروستی حەسیرە",hasira,branch,34.748,45.1295,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1021,"بنکەی تەندروستی مام سلێمان","mam sleman",branch,34.9126,45.1007,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1022,"بنکەی تەندروستی پیازە جار","pyaza jar",branch,34.8273,45.1807,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1023,"بنکەی تەندروستی شەهید شەهاب","shahid shahab",branch,34.9796,44.7668,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1024,"بنکەی تەندروستی قازی محمد","qazi mohamad",branch,35.081,45.6772,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1025,"بنکەی تەندروستی مەلا شکر","mala shkr",branch,34.5019,45.4932,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1026,"بنکەی تەندروستی کارێزە",kareza,branch,35.0269,45.5533,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
+1027,"بنکەی تەندروستی شەهید مەحمود","shahis mahmwd",branch,34.4913,45.3422,Sulaymaniyah,35.557,45.4359,facility_branch.png,branch,"8:00 AM","1:30 PM",NULL
