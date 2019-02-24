@@ -31,15 +31,6 @@ geojson = geojsonio::geojson_json(x_sf)
 library(htmltools)
 sub = geojsonio::geojson_json(x_sf[, c("type", "arabic_name", "directorate")], 
 factors_as_string = TRUE)
-sub
-```
-
-    ## <FeatureCollection> 
-    ##   type:  FeatureCollection 
-    ##   no. features:  1027 
-    ##   features (1st 5):  Point, Point, Point, Point, Point
-
-``` r
 template = paste0('
 <html lang="ku">
 <head>

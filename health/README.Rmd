@@ -26,8 +26,6 @@ geojson = geojsonio::geojson_json(x_sf)
 library(htmltools)
 sub = geojsonio::geojson_json(x_sf[, c("type", "arabic_name", "directorate")], 
 factors_as_string = TRUE)
-sub
-
 template = paste0('
 <html lang="ku">
 <head>
