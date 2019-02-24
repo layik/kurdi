@@ -1,9 +1,13 @@
 سەنتەرەکانی تەندروستی هەرێم و شوێنەکانیان
 ================
+<div style="direction:rtl">
 لائق حەمە
+</div>
 2019-02-23
 
+<div style="direction:rtl">
 بۆ بینینی داتاکە بە زمانی ئاڕ و زانینی هەندێ ژمارە:
+</div>
 
 ``` r
 x = read.csv("data.csv")
@@ -19,8 +23,9 @@ x_sf = sf::st_as_sf(x, coords = coords, crs = 4326)
 geojson = geojsonio::geojson_json(x_sf)
 # write(geojson, "data.geojson")
 ```
-
+<div style="direction:rtl">
 ئەنجا بۆ ئەوەی لەم پەڕەیە بیبینین
+</div>
 
 ``` r
 library(htmltools)
