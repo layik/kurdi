@@ -1,3 +1,10 @@
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+</style>
 <div dir="rtl">
 نوسین بە کوردی
 
