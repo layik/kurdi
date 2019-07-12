@@ -22,7 +22,7 @@ geojson = geojsonio::geojson_json(x_sf)
 ئەنجا بۆ ئەوەی لەم پەڕەیە بیبینین
 </div>
 
-```{r map}
+```{r map, results='hide'}
 library(htmltools)
 sub = geojsonio::geojson_json(x_sf[, c("type", "arabic_name", "directorate")], 
 factors_as_string = TRUE)
