@@ -9,20 +9,15 @@ There are some hopefully useful files/scripts/chunks etc to share with Kurdi dev
 Now that we have some good unique nad cleaned up wordlist. We can do some statistics on them (in R for now):
 
 ```r
-ku = readLines("~/code/kurdi/corpus/kurdi_words.txt")
-ku_alphabet = "ئبپتجچحخدرڕزژسشعغفڤقکگلڵمنهاەوۆوویێ"
-ku_v = c()
-for (i in 1:nchar(ku_alphabet)) {
-  ku_v = c(ku_v, substring(ku_alphabet, i, i))
-}
-# writeLines(ku_v, "/corpus/letters_lines.txt") 35 might not be accurate
+ku = readLines("corpus/kurdi_words.txt")
+ku_v = readLines("corpus/letters_lines.txt")
 letters_used = sapply(ku_v, function(x){
   length(grep(x, ku))
 })
-plot(letters_used, xaxt="n")
-axis(1,at=1:35,labels=names(letters_used))
+library(ggplot2)
+ggplot() + geom_bar(aes(x=names(letters_used),y=letters_used), stat='identity') + xlab('x') + ylab('y')
 ```
 
-The answer would be و:
+The answer would be:
 
-<img src="https://user-images.githubusercontent.com/408568/61164188-2249dc80-a50b-11e9-8d12-7cb7821cec9f.png" width="100%">
+<img src="https://user-images.githubusercontent.com/408568/61165158-8e7d0e00-a514-11e9-8e1a-919b24a016bb.png" width="100%">
