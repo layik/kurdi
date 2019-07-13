@@ -9,12 +9,13 @@ There are some hopefully useful files/scripts/chunks etc to share with Kurdi dev
 Now that we have some good unique nad cleaned up wordlist. We can do some statistics on them (in R for now):
 
 ```r
+ku = readLines("~/code/kurdi/corpus/kurdi_words.txt")
 ku_alphabet = "ئبپتجچحخدرڕزژسشعغفڤقکگلڵمنهاەوۆوویێ"
 ku_v = c()
 for (i in 1:nchar(ku_alphabet)) {
   ku_v = c(ku_v, substring(ku_alphabet, i, i))
 }
-# writeLines(ku_v, "/corpus/letters_lines.txt")
+# writeLines(ku_v, "/corpus/letters_lines.txt") 35 might not be accurate
 letters_used = sapply(ku_v, function(x){
   length(grep(x, ku))
 })
