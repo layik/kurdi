@@ -17,9 +17,12 @@ letters_used = sapply(ku_v, function(x){
 # change h to doucheshme
 names(letters_used)[names(letters_used) == 'ه'] = "ھ"
 library(ggplot2)
-ggplot() + geom_bar(aes(x=names(letters_used),y=letters_used), stat='identity') + xlab('x') + ylab('y')
+ggplot() + geom_bar(aes(x=names(letters_used),y=letters_used), stat='identity') 
++ xlab('Alphabet') 
++ ylab('Frequency') 
++ theme(axis.text.x = element_text(face = "bold", size = 18))
 ```
 
 The answer would be:
 
-<img src="https://user-images.githubusercontent.com/408568/61165158-8e7d0e00-a514-11e9-8e1a-919b24a016bb.png" width="100%">
+<img src="https://user-images.githubusercontent.com/408568/61165317-bd947f00-a516-11e9-9250-7238ae9661f6.png" width="100%">
