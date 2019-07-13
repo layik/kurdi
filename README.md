@@ -14,6 +14,8 @@ ku_v = readLines("corpus/letters_lines.txt")
 letters_used = sapply(ku_v, function(x){
   length(grep(x, ku))
 })
+# change h to doucheshme
+names(letters_used)[names(letters_used) == 'ه'] = "ھ"
 library(ggplot2)
 ggplot() + geom_bar(aes(x=names(letters_used),y=letters_used), stat='identity') + xlab('x') + ylab('y')
 ```
