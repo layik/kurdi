@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2016-09-06 15:51+0000\n"
-"PO-Revision-Date: 2019-07-13 21:31+0300\n"
+"PO-Revision-Date: 2019-07-16 12:15+0300\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -49,7 +49,7 @@ msgstr ""
 
 #: modules/overlay/overlay-child.js; misc/vertical-tabs.js
 msgid "(active tab)"
-msgstr ""
+msgstr "(تابی چالاک)"
 
 #: misc/tabledrag.js
 msgid "Re-order rows by numerical weight instead of dragging."
@@ -57,7 +57,7 @@ msgstr ""
 
 #: misc/tabledrag.js
 msgid "Show row weights"
-msgstr ""
+msgstr "ڕیزی کێش پیشانبدە"
 
 #: misc/tabledrag.js
 msgid "Hide row weights"
@@ -183,11 +183,11 @@ msgstr ""
 
 #: /?q=admin/config/regional/language&render=overlay
 msgid "Web services"
-msgstr ""
+msgstr "ڕاژەی وێب"
 
 #: /?q=admin/config/regional/language&render=overlay
 msgid "Tools related to web services."
-msgstr ""
+msgstr "ئامڕازی پەیوەندیداری ڕاژەی وێب"
 
 #: /?q=admin/config/regional/language&render=overlay
 msgid "Content workflow, editorial workflow tools."
@@ -195,11 +195,11 @@ msgstr ""
 
 #: /?q=admin/config/regional/language&render=overlay
 msgid "Administer content and comments."
-msgstr ""
+msgstr "ئاگاداری و ناوەرۆکی بەڕێوەبردن."
 
 #: /?q=admin/config/regional/language&render=overlay
 msgid "View and customize your dashboard."
-msgstr ""
+msgstr "چاکردن و بینینی داشبۆردەکەت."
 
 #: /?q=admin/config/regional/language&render=overlay
 msgid "Reference for usage, configuration, and modules."
@@ -36837,7 +36837,7 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul> <li>بزانە ئیملای نوسینەکەت تەواوە.</li> <li>کەوانەی دەوری زیاد لەوشەیەک لابە بۆ ئەوەی گەڕان بۆ هەریەک لەوشەکان بکرێت. <em>قەزای هەڵەبجە</em> ئەنجامی زیاتر نیشان ئەدا وەک لە  <em>&quot;قەزای هەڵەبجە&quot;</em>.</li> <li>بزانە ئەتوانی "
-"وشەی <em>OR</em> بەکار بهێنی لەبەینی وشەکانتا بۆ نمنوە . <em>قەزا OR هەڵەبجە</em> ئەنجامی زۆرتر نیشان ئەدا تا  <em>قەزا هەڵەبجە</em>.</li> </ul>\r\n"
+"وشەی <em>OR</em> بەکار بهێنی لەبەینی وشەکانتا بۆ نمنوە . <em>قەزا OR هەڵەبجە</em> ئەنجامی زۆرتر نیشان ئەدا تا  <em>قەزا هەڵەبجە</em>.</li> </ul>\r"
 
 #: /?q=user/register
 msgid "What code is in the image?"
