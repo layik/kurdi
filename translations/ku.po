@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2016-09-06 15:51+0000\n"
-"PO-Revision-Date: 2019-07-16 12:15+0300\n"
+"PO-Revision-Date: 2019-07-23 00:10+0300\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -29866,71 +29866,71 @@ msgstr ""
 
 #: /node/1/edit?render=overlay
 msgid "Microsoft Office document icon"
-msgstr ""
+msgstr "وێنۆچکەی بەڵگەنامەی مایکرۆسۆفت ئۆفیس"
 
 #: /node/1/edit?render=overlay
 msgid "Office spreadsheet icon"
-msgstr ""
+msgstr "وێنۆچکەی خشتەی ئۆفیس"
 
 #: /node/1/edit?render=overlay
 msgid "Office presentation icon"
-msgstr ""
+msgstr "وێنۆچکەی پێشکەشکاری ئۆفیس"
 
 #: /node/1/edit?render=overlay
 msgid "PDF icon"
-msgstr ""
+msgstr "وێنۆچکەی PDF"
 
 #: /node/1/edit?render=overlay
 msgid "Movie icon"
-msgstr ""
+msgstr "وێنۆچکەی فلیم"
 
 #: /node/1/edit?render=overlay
 msgid "Audio icon"
-msgstr ""
+msgstr "وێنۆچکەی دەنگ"
 
 #: /node/1/edit?render=overlay
 msgid "Image icon"
-msgstr ""
+msgstr "وێنۆچکەی وێنە"
 
 #: /node/1/edit?render=overlay
 msgid "Package icon"
-msgstr ""
+msgstr "وێنۆچکەی گورزە"
 
 #: /node/1/edit?render=overlay
 msgid "HTML icon"
-msgstr ""
+msgstr "HTML وێنۆچکەی"
 
 #: /node/1/edit?render=overlay
 msgid "Plain text icon"
-msgstr ""
+msgstr "وێنۆچکەی نووسینی سادە"
 
 #: /node/1/edit?render=overlay
 msgid "Binary Data"
-msgstr ""
+msgstr "دراوەی دوویی(Binary)"
 
 #: /user/1/edit?pass-reset-token=MUS-MvBIEeoWhP_2YJlThHAkPgQoC1faVTYdc86KbY0
 msgid "Asia/Barnaul"
-msgstr ""
+msgstr "ئاسیا/Barnaul"
 
 #: /user/1/edit?pass-reset-token=MUS-MvBIEeoWhP_2YJlThHAkPgQoC1faVTYdc86KbY0
 msgid "Asia/Tomsk"
-msgstr ""
+msgstr "ئاسیا/تۆمسک"
 
 #: /user/1/edit?pass-reset-token=MUS-MvBIEeoWhP_2YJlThHAkPgQoC1faVTYdc86KbY0
 msgid "Europe/Astrakhan"
-msgstr ""
+msgstr "ئەوروپا/ئەستراخان"
 
 #: /user/1/edit?pass-reset-token=MUS-MvBIEeoWhP_2YJlThHAkPgQoC1faVTYdc86KbY0
 msgid "Europe/Kirov"
-msgstr ""
+msgstr "ئەوروپا/کیرۆڤ"
 
 #: /user/1/edit?pass-reset-token=MUS-MvBIEeoWhP_2YJlThHAkPgQoC1faVTYdc86KbY0
 msgid "Europe/Ulyanovsk"
-msgstr ""
+msgstr "ئەوروپا/یولۆنۆڤسکا"
 
 #: /admin/config/regional/language/edit/ku
 msgid "Path prefix language code"
-msgstr ""
+msgstr "پێشگری ڕێڕەوی کۆدی زمان"
 
 #: /admin/config/regional/language/edit/ku
 msgid ""
