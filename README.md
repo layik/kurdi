@@ -17,21 +17,35 @@ There are some hopefully useful files/scripts/chunks etc to share with Kurdi dev
 
 Now that we have some good unique nad cleaned up wordlist. We can do some statistics on them (in R for now):
 
-```r
-ku = readLines("corpus/kurdi_words.txt")
-ku_v = readLines("corpus/letters_lines.txt")
+``` r
+w = readLines("https://raw.githubusercontent.com/layik/kurdi/master/corpus/kurdi_words.txt")
+#> Warning in readLines("https://raw.githubusercontent.com/layik/kurdi/
+#> master/corpus/kurdi_words.txt"): incomplete final line found on 'https://
+#> raw.githubusercontent.com/layik/kurdi/master/corpus/kurdi_words.txt'
+length(unique(w))
+#> [1] 2087905
+length(grep("ئا", w))
+#> [1] 61626
+
+ku_v = readLines("https://raw.githubusercontent.com/layik/kurdi/master/corpus/letters_lines.txt")
 letters_used = sapply(ku_v, function(x){
-  length(grep(x, ku))
+  length(grep(x, w))
 })
 # change h to doucheshme
 names(letters_used)[names(letters_used) == 'ه'] = "ھ"
+letters_used = sort(letters_used, decreasing = TRUE)
+
 library(ggplot2)
-ggplot() + geom_bar(aes(x=names(letters_used),y=letters_used), stat='identity')
-+ xlab('Alphabet')
-+ ylab('Frequency')
-+ theme(axis.text.x = element_text(face = "bold", size = 18))
+ggplot() + geom_bar(aes(x=names(letters_used),y=letters_used), stat='identity') + xlab('Alphabet') + ylab('Frequency') + theme(axis.text.x = element_text(face = "bold", size = 18)) + scale_y_continuous(labels = scales::comma) + 
+  scale_x_discrete(limits=names(letters_used))
 ```
 
-The answer would be:
+![](https://i.imgur.com/Ba0gJk8.png)
 
-<img src="https://user-images.githubusercontent.com/408568/61165317-bd947f00-a516-11e9-9250-7238ae9661f6.png" width="100%">
+``` r
+letters_used['ە']
+#>       ە 
+#> 1538232
+```
+
+<sup>Above snipped was created on 2019-12-22 by the [reprex package](https://reprex.tidyverse.org) (v0.3.0)</sup>
