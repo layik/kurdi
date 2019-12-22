@@ -1,7 +1,16 @@
 # kurdi
-There are some hopefully useful files/scripts/chunks etc to share with Kurdi developers. 
 
-1. kurdi_words.txt: a list of Kurdish words (currently 29014), unique and alphabetically ordered (thanks to @dolanskurd).
+There are some hopefully useful files/scripts/chunks etc to share with Kurdi developers.
+
+1. kurdi_words.txt: a list of Kurdish words (currently 2,087,905), unique and alphabetically ordered (thanks to @dolanskurd).
+   Here are the main sources of the parsed words:
+
+- https://github.com/dolanskurd/kurdish_news
+- https://github.com/dolanskurd/kurdish_quran
+- https://github.com/dolanskurd/kurdish_bible
+
+  Note: Please note that there are lots of typos which originally typed in wrong ways. It has been tried to fix them as much as possible for now. Updated version will be released also.
+
 2. unicode_list.txt: list of unicode values for Kurdish alphabet (Arabic script) standard accepted and published on http://unicode.ekrg.org/ku_unicodes.html
 3. [gettext](https://en.wikipedia.org/wiki/Gettext) translations, includes ku.po for Drupal. Most of the translations come from https://localize.drupal.org/translate/languages/ku (now almost dead
 4. KRG health institutions data (lat/lng and names) throughout KRG (see health)
@@ -17,9 +26,9 @@ letters_used = sapply(ku_v, function(x){
 # change h to doucheshme
 names(letters_used)[names(letters_used) == 'ه'] = "ھ"
 library(ggplot2)
-ggplot() + geom_bar(aes(x=names(letters_used),y=letters_used), stat='identity') 
-+ xlab('Alphabet') 
-+ ylab('Frequency') 
+ggplot() + geom_bar(aes(x=names(letters_used),y=letters_used), stat='identity')
++ xlab('Alphabet')
++ ylab('Frequency')
 + theme(axis.text.x = element_text(face = "bold", size = 18))
 ```
 
