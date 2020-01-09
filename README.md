@@ -1,15 +1,12 @@
 # kurdi
 
-There are some hopefully useful files/scripts/chunks etc to share with Kurdi developers.
+There are some hopefully useful files/scripts/chunks etc. to share with Kurdi developers.
 
-1. kurdi_words.txt: a list of Kurdish words (currently 2,087,905), unique and alphabetically ordered (thanks to @dolanskurd).
-   Here are the main sources of the parsed words:
+1. kurdi_words.txt: a list of Kurdish words (currently 1,668,692), unique and alphabetically ordered (thanks to @dolanskurd).
 
-- https://github.com/dolanskurd/kurdish_news
-- https://github.com/dolanskurd/kurdish_quran
-- https://github.com/dolanskurd/kurdish_bible
+![Kurdish Alphabet, Frequency Bar Chart](corpus/kurdi_words.png)
 
-  Note: Please note that there are lots of typos which originally typed in wrong ways. It has been tried to fix them as much as possible for now. Updated version will be released also.
+Note that in the bar chart, each of (و) and (ی) counted as both vowel and conconant. 
 
 2. unicode_list.txt: list of unicode values for Kurdish alphabet (Arabic script) standard accepted and published on http://unicode.ekrg.org/ku_unicodes.html
 3. [gettext](https://en.wikipedia.org/wiki/Gettext) translations, includes ku.po for Drupal. Most of the translations come from https://localize.drupal.org/translate/languages/ku (now almost dead
