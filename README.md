@@ -1,33 +1,71 @@
+Various Kurdi related work done by Kurdish developers.
+================
+
 # kurdi
 
-There are some hopefully useful files/scripts/chunks etc. to share with Kurdi developers.
+There are some hopefully useful files/scripts/chunks etc. to share with
+Kurdi developers.
 
-1. kurdi_words.txt: a list of Kurdish words (currently 1,668,692), unique and alphabetically ordered (thanks to @dolanskurd).
+1.  kurdi\_words.txt: a list of Kurdish words (currently 1,668,692),
+    unique and alphabetically ordered (thanks to @dolanskurd). Note that
+    in the bar chart below, each of (و) and (ی) counted as both vowel
+    and consonant.
 
-![Kurdish Alphabet, Frequency Bar Chart](corpus/kurdi_words.png)
+2.  unicode\_list.txt: list of unicode values for Kurdish alphabet
+    (Arabic script) standard accepted and published on
+    <http://unicode.ekrg.org/ku_unicodes.html>
 
-Note that in the bar chart, each of (و) and (ی) counted as both vowel and conconant. 
+3.  [gettext](https://en.wikipedia.org/wiki/Gettext) translations,
+    includes ku.po for Drupal. Most of the translations come from
+    <https://localize.drupal.org/translate/languages/ku> (now almost
+    dead
 
-2. unicode_list.txt: list of unicode values for Kurdish alphabet (Arabic script) standard accepted and published on http://unicode.ekrg.org/ku_unicodes.html
-3. [gettext](https://en.wikipedia.org/wiki/Gettext) translations, includes ku.po for Drupal. Most of the translations come from https://localize.drupal.org/translate/languages/ku (now almost dead
-4. KRG health institutions data (lat/lng and names) throughout KRG (see health)
+4.  KRG health institutions data (lat/lng and names) throughout KRG (see
+    health)
 
-Now that we have some good unique nad cleaned up wordlist. We can do some statistics on them (in R for now):
+Now that we have some good unique nad cleaned up wordlist. We can do
+some statistics on them (in R for now):
 
 ``` r
 w = readLines("https://raw.githubusercontent.com/layik/kurdi/master/corpus/kurdi_words.txt")
-#> Warning in readLines("https://raw.githubusercontent.com/layik/kurdi/
-#> master/corpus/kurdi_words.txt"): incomplete final line found on 'https://
-#> raw.githubusercontent.com/layik/kurdi/master/corpus/kurdi_words.txt'
-length(unique(w))
-#> [1] 2087905
-length(grep("ئا", w))
-#> [1] 61626
+```
 
+    ## Warning in readLines("https://raw.githubusercontent.com/layik/kurdi/
+    ## master/corpus/kurdi_words.txt"): incomplete final line found on 'https://
+    ## raw.githubusercontent.com/layik/kurdi/master/corpus/kurdi_words.txt'
+
+``` r
+length(unique(w)) == length(w)
+```
+
+    ## [1] TRUE
+
+``` r
+length(w)
+```
+
+    ## [1] 1668692
+
+``` r
+# sample of those including ئا
+length(grep("ئا", w))
+```
+
+    ## [1] 49401
+
+``` r
+# read in list of Kurdi chars
 ku_v = readLines("https://raw.githubusercontent.com/layik/kurdi/master/corpus/letters_lines.txt")
+message("Kurdish alphabet: ",  length(ku_v), " letters.")
+```
+
+    ## Kurdish alphabet: 34 letters.
+
+``` r
 letters_used = sapply(ku_v, function(x){
   length(grep(x, w))
 })
+
 # change h to doucheshme
 names(letters_used)[names(letters_used) == 'ه'] = "ھ"
 letters_used = sort(letters_used, decreasing = TRUE)
@@ -37,12 +75,11 @@ ggplot() + geom_bar(aes(x=names(letters_used),y=letters_used), stat='identity') 
   scale_x_discrete(limits=names(letters_used))
 ```
 
-![](https://i.imgur.com/Ba0gJk8.png)
+![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
 ``` r
 letters_used['ە']
-#>       ە 
-#> 1538232
 ```
 
-<sup>Above snipped was created on 2019-12-22 by the [reprex package](https://reprex.tidyverse.org) (v0.3.0)</sup>
+    ##       ە 
+    ## 1255122
