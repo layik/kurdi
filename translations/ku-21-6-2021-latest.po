@@ -1,0 +1,1877 @@
+# Kurdish translation of Translate Kurdi
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2021-06-22 11:39+0100\n"
+"PO-Revision-Date: 2021-07-12 21:08+0100\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: ku\n"
+"X-Generator: Poedit 3.0\n"
+
+msgid "User account menu"
+msgstr "پێڕستی هەژماری بەکارهێنەر"
+
+msgid "Site branding"
+msgstr "براندینگی ماڵپەڕ"
+
+msgid "Breadcrumbs"
+msgstr "برێدکرامەکان"
+
+msgid "Footer menu"
+msgstr "پێڕستی بەشی خوارەوە"
+
+msgid "Primary admin actions"
+msgstr "کردارەکانی بەڕێوەبەری سەرەتایی"
+
+msgid "Tabs"
+msgstr "تابەکان"
+
+msgid "Main navigation"
+msgstr "ڕێدۆزینەوەی سەرەکی"
+
+msgid "Status messages"
+msgstr "نامەکانی ڕەوش"
+
+msgid "Primary tabs"
+msgstr "تابە سەرەتایییەکان"
+
+msgid "Secondary tabs"
+msgstr "تابە دووەمەکان"
+
+msgid "Basic block"
+msgstr "بلۆکی سادە"
+
+msgid "A basic block contains a title and a body."
+msgstr "بلۆکی سادە ناونیشان و ناوەڕۆک لەخۆ دەگرێت."
+
+msgid "Default comments"
+msgstr "بۆچوونە بنەڕەتییەکان"
+
+msgid "Allows commenting on content"
+msgstr "ڕێگە بە نووسینی بۆچوون دەدات لەسەر ناوەڕۆک"
+
+msgid "Website feedback"
+msgstr "پاشخواردی ماڵپەڕ"
+
+msgid "On"
+msgstr "کارا"
+
+msgid "Off"
+msgstr "ناکارا"
+
+msgid ""
+"Enter a comma-separated list. For example: Amsterdam, Mexico City, "
+"\"Cleveland, Ohio\""
+msgstr ""
+"داخڵکردنی لیستێکی بە کاماجیاکراو. بۆ نموونە: ئەمێستێردام، مەکزیکۆستی، "
+"\"کلێڤێرلاند، ئۆهایۆ\""
+
+msgid "Your virtual face or picture."
+msgstr "ڕوخسار یان وێنەی گریمانەکیت."
+
+msgid "Basic HTML"
+msgstr "ئەیچ‌تی‌ئێم‌ئێڵی بنەڕەتی"
+
+msgid "Full HTML"
+msgstr "ئەیچ‌تی‌ئێم‌ئێڵی پڕاوپڕ"
+
+msgid "Restricted HTML"
+msgstr "ئەیچ‌تی‌ئێم‌ئێڵی سنووردار"
+
+msgid "Use tags to group articles on similar topics into categories."
+msgstr ""
+"بەکارهێنانی تاگ بۆ گرووپبەندیکردنی وتارەکان لە بابەتە هاوشێوەکانی "
+"پۆلەکاندا."
+
+msgid "Administrator"
+msgstr "بەڕێوەبەر"
+
+msgid "Authenticated user"
+msgstr "بەکارهێنەری باوەڕپێکراو"
+
+msgid "Full"
+msgstr "پڕاوپڕ"
+
+msgid "Plain text"
+msgstr "دەقی سادە"
+
+msgid "Large (480×480)"
+msgstr "گەورە (480 بە 480)"
+
+msgid "Medium (220×220)"
+msgstr "مامناوەند (200 بە 220)"
+
+msgid "Thumbnail (100×100)"
+msgstr "بچووک (100 بە 100)"
+
+msgid "Wide (1090)"
+msgstr "پانی (1090)"
+
+msgid "Not specified"
+msgstr "دیارینەکراو"
+
+msgid "Not applicable"
+msgstr "گونجاو نییە"
+
+msgid "Search result highlighting input"
+msgstr "جێنوسی بەرچاوکردنی ئەنجامەکانی گەڕان"
+
+msgid "Teaser"
+msgstr "تیزەر"
+
+msgid "Delete content"
+msgstr "سڕینەوەی ناوەڕۆک"
+
+msgid "Make content sticky"
+msgstr "جێگیرکردنی ناوەڕۆک"
+
+msgid "Make content unsticky"
+msgstr "ناجێگیرکردنی ناوەڕۆک"
+
+msgid "Promote content to front page"
+msgstr "ناوەڕۆک لە پەڕەی سەرەتادا بڵاو کراوەتەوە"
+
+msgid "Fallback date format"
+msgstr "فۆرماتی ڕێکەوتی جێگرەوە"
+
+msgid "HTML Date"
+msgstr "ڕێکەوتی ئەیچ‌تی‌ئێم‌ئێڵ"
+
+msgid "HTML Datetime"
+msgstr "ڕێکەوت/کاتی ئەیچ‌تی‌ئێم‌ئێڵ"
+
+msgid "HTML Month"
+msgstr "مانگی ئەیچ‌تی‌ئێم‌ئێڵ"
+
+msgid "HTML Time"
+msgstr "کاتی ئەیچ‌تی‌ئێم‌ئێڵ"
+
+msgid "HTML Week"
+msgstr "هەفتەی ئەیچ‌تی‌ئێم‌ئێڵ"
+
+msgid "HTML Year"
+msgstr "ساڵی ئەیچ‌تی‌ئێم‌ئێڵ"
+
+msgid "HTML Yearless date"
+msgstr "ڕێکەوتی بێ ساڵی ئەیچ‌تی‌ئێم‌ئێڵ"
+
+msgid "Default long date"
+msgstr "ڕێکەوتی درێژی بنەڕەتی"
+
+msgctxt "PHP date format"
+msgid "l, F j, Y - H:i"
+msgstr "فۆرماتی ڕێکەوتی PHP l, F j, Y - H:i"
+
+msgid "Default medium date"
+msgstr "ڕێکەوتی مامناوەندی بنەڕەتی"
+
+msgctxt "PHP date format"
+msgid "D, m/d/Y - H:i"
+msgstr "فۆرماتی ڕێکەوتی PHP D, m/d/Y - H:i"
+
+msgid "Default short date"
+msgstr "ڕێکەوتی کورتی بنەڕەتی"
+
+msgctxt "PHP date format"
+msgid "m/d/Y - H:i"
+msgstr "فۆرماتی ڕێکەوتی PHP m/d/Y - H:i"
+
+msgid "Links related to the active user account"
+msgstr "بەستەرە هاوپێوەندەکان بە هەژماری بەکارهێنەرە کاراکانەوە"
+
+msgid "Administrative task links"
+msgstr "بەستەرەکانی ئەرکی بەڕێوەبەرایەتی"
+
+msgid "Site information links"
+msgstr "بەستەرەکانی زانیاریی ماڵپەڕ"
+
+msgid "Site section links"
+msgstr "بەستەرەکانی دانیشتنی ماڵپەڕ"
+
+msgid "User tool links, often added by modules"
+msgstr ""
+"بەستەرەکانی ئامرازی بەکارهێنەر، زۆر جار لە لایەن مۆدیوڵەکانەوە زیاد دەکرێن"
+
+msgid "Publish taxonomy term"
+msgstr "بڵاوکردنەوەی واژەی پۆلێن"
+
+msgid "Unpublish taxonomy term"
+msgstr "بڵاونەکردنەوەی واژەی پۆلێن"
+
+msgid "Compact"
+msgstr "پەستێنراو"
+
+msgid "Block the selected user(s)"
+msgstr "بلۆککردنی بەکارهێنەرە دەسنیشانکراوەکان"
+
+msgid "Cancel the selected user account(s)"
+msgstr "هەڵوەشاندنەوەی هەژمارە بەکارهێنەرییە دەسنیشانکراوەکان"
+
+msgid "Unblock the selected user(s)"
+msgstr "ئانبلۆککردنی بەکارهێنەرە دەسنیشانکراوەکان"
+
+msgid ""
+"[user:display-name],\n"
+"\n"
+"A request to cancel your account has been made at [site:name].\n"
+"\n"
+"You may now cancel your account on [site:url-brief] by clicking this link "
+"or copying and pasting it into your browser:\n"
+"\n"
+"[user:cancel-url]\n"
+"\n"
+"NOTE: The cancellation of your account is not reversible.\n"
+"\n"
+"This link expires in one day and nothing will happen if it is not used.\n"
+"\n"
+"--  [site:name] team"
+msgstr ""
+"[user:display-name],\n"
+"داواکارییەک بۆ هەڵوەشاندنەوەی هەژمارەکەت ئەنجام دراوە لە [site:name].\n"
+"تۆ ئێستا دەتوانی هەژمارەکەت هەڵبوەشێنیتەوە لە [site:url-brief] بە "
+"کرتەکردنە سەر ئەم لینکە یاخود کاپی و پەیستکردنی لەناو وێبگەڕەکەتدا [user:"
+"cancel-url]\n"
+"ئاگاداری: هەڵوەشاندنەوەی هەژمار بەیەکجارییە و گەڕاندنەوەی بۆ نییە\n"
+"ئەم لینکە دوای یەک ڕۆژ ماوەی بەسەر دەچێت و هیچ ڕوو نادات گەرە بەکار "
+"نەهێندرێت\n"
+"--  [site:name] تیمی"
+
+msgid "Account cancellation request for [user:display-name] at [site:name]"
+msgstr "داواکاریی هەڵوەشاندنەوەی هەژمار بۆ [user:display-name]لە [site:name]"
+
+msgid ""
+"[user:display-name],\n"
+"\n"
+"A request to reset the password for your account has been made at [site:"
+"name].\n"
+"\n"
+"You may now log in by clicking this link or copying and pasting it into "
+"your browser:\n"
+"\n"
+"[user:one-time-login-url]\n"
+"\n"
+"This link can only be used once to log in and will lead you to a page "
+"where you can set your password. It expires after one day and nothing will "
+"happen if it's not used.\n"
+"\n"
+"--  [site:name] team"
+msgstr ""
+"[user:display-name],\n"
+"\n"
+"داواکارییەک بۆ گەڕاندنەوەی وشەی تێپەڕبوونی هەژمارەکەت جێبەجێ کرا لە [site:"
+"name].\n"
+"\n"
+"تۆ لەوانەیە ئێستا بە کرتە کردنەسەر ئەم بەستەرە یاخود کاپی و پەیستکردنی "
+"بۆناو وێبگەڕەکەت، بچیتە ژوورەوە:\n"
+"\n"
+"[user:one-time-login-url]\n"
+"\n"
+"ئەم بەستەرە تەنها یەک جار دەتباتە ژوورەووە و دواتر دەتباتە ناو پەڕەیەک "
+"کەوا بتوانی وشەی تێپەڕبوونێکی نوێ دروست بکە.  ماوەکەی دوای یەک ڕۆژ بەسەر "
+"دەچێت و گەریش بەکار نەبرێ هیچ ڕوو نادات.\n"
+"\n"
+"تیمی[site:name]"
+
+msgid "Replacement login information for [user:display-name] at [site:name]"
+msgstr ""
+"زانیاریی چوونەژوورەوەی جێگرەوەیی بۆ [user:display-name] لە [site:name]"
+
+msgid ""
+"[user:display-name],\n"
+"\n"
+"A site administrator at [site:name] has created an account for you. You "
+"may now log in by clicking this link or copying and pasting it into your "
+"browser:\n"
+"\n"
+"[user:one-time-login-url]\n"
+"\n"
+"This link can only be used once to log in and will lead you to a page "
+"where you can set your password.\n"
+"\n"
+"After setting your password, you will be able to log in at [site:login-"
+"url] in the future using:\n"
+"\n"
+"username: [user:name]\n"
+"password: Your password\n"
+"\n"
+"--  [site:name] team"
+msgstr ""
+"[user:display-name],\n"
+"\n"
+"بەڕێوەبەری ماڵپەڕ لە [site:name] هەژمارێکی بۆ دروست کردوی. ئێستا دەتوانی "
+"بە کرتە کردنەسەری ئەم بەستەرە یان کاپی و پەیستکردنی لەناو وێبگەڕەکەتدا "
+"بچیتە ژوورەوە:\n"
+"[user:one-time-login-url]\n"
+"\n"
+"ئەم بەستەرە تەنها یەک جار بۆ چوونەژوورەوە بەکار دێت و ئەتباتە ناو پەڕەیەک "
+"کەوا بتوانی وشەی تێپەڕبوونی خۆت دروست بکەیت.\n"
+"\n"
+"پاش دروستکردنی وشەی تێپەڕبوونەکەت، لە بەکارهێنانەکانی داهاتووتدا دەتوانی "
+"بچیتە ژوورەوە لە [ماڵپەڕ:یووئاڕئێڵی چوونەژوورەوە]:\n"
+"\n"
+"ناوی بەکارهێنەر: [user:name]\n"
+"وشەی تێپەڕبوون: وشەی تێپەڕبوونەکەت\n"
+"\n"
+"تیمی [site:name]"
+
+msgid "An administrator created an account for you at [site:name]"
+msgstr "بەڕێوەبەر هەژمارێکی بۆ دروست کردوی لە [site:name]"
+
+msgid ""
+"[user:display-name],\n"
+"\n"
+"Thank you for registering at [site:name]. You may now log in by clicking "
+"this link or copying and pasting it into your browser:\n"
+"\n"
+"[user:one-time-login-url]\n"
+"\n"
+"This link can only be used once to log in and will lead you to a page "
+"where you can set your password.\n"
+"\n"
+"After setting your password, you will be able to log in at [site:login-"
+"url] in the future using:\n"
+"\n"
+"username: [user:name]\n"
+"password: Your password\n"
+"\n"
+"--  [site:name] team"
+msgstr ""
+"[user:display-name],\n"
+"سپاس بۆ خۆتۆمارکردن لە [site:name]. ئێستا دەتوانی بە کرتە کردنەسەری ئەم "
+"بەستەرە یان کاپی و پەیستکردنی لەناو وێبگەڕەکەتدا بچیتە ژوورەوە:\n"
+"[user:one-time-login-url]\n"
+"\n"
+"ئەم بەستەرە تەنها یەک جار بۆ چوونەژوورەوە بەکار دێت و ئەتباتە ناو پەڕەیەک "
+"کەوا بتوانی وشەی تێپەڕبوونی خۆت دروست بکەیت.\n"
+"پاش دروستکردنی وشەی تێپەڕبوونەکەت، لە بەکارهێنانەکانی داهاتووتدا دەتوانی "
+"بچیتە ژوورەوە لە [site:login-url]:\n"
+"\n"
+"ناوی بەکارهێنەر: [user:name]\n"
+"وشەی تێپەڕبوون: وشەی تێپەڕبوونەکەت\n"
+"\n"
+"تیمی [site:name]"
+
+msgid "Account details for [user:display-name] at [site:name]"
+msgstr "وردەکارییەکانی هەژمار بۆ [user:display-name] لە [site:name]"
+
+msgid ""
+"[user:display-name],\n"
+"\n"
+"Thank you for registering at [site:name]. Your application for an account "
+"is currently pending approval. Once it has been approved, you will receive "
+"another email containing information about how to log in, set your "
+"password, and other details.\n"
+"\n"
+"--  [site:name] team"
+msgstr ""
+"[user:display-name],\n"
+"\n"
+"سپاس بۆ خۆتۆمارکردنت لە [site:name]. داواکارییەکت بۆ هەژمارێک لە ئێستادا "
+"چاوەڕوانی پەسندکرانە. کە جارێک پەسند بکرێت، ئیمەیلێک بە دەستت دەگات کەوا "
+"لەخۆگری هەندێ زانیارییە لەسەر چۆنیەتیی چوونەژوورەوە، دروستکردنی وشەی "
+"تێپەڕبوونی خۆت و وردەکارییەکانی دیکە\n"
+"\n"
+"تیمی [site:name]"
+
+msgid ""
+"Account details for [user:display-name] at [site:name] (pending admin "
+"approval)"
+msgstr ""
+"وردەکارییەکانی هەژمار بۆ [user:display-name] لە [site:name] (چاوەڕێی "
+"پەسندکردنی بەڕێوەبەرە)"
+
+msgid ""
+"[user:display-name] has applied for an account.\n"
+"\n"
+"[user:edit-url]"
+msgstr ""
+"[user:display-name] داوای هەژمارێکی کردووە\n"
+"[user:edit-url]"
+
+msgid ""
+"[user:display-name],\n"
+"\n"
+"Your account at [site:name] has been activated.\n"
+"\n"
+"You may now log in by clicking this link or copying and pasting it into "
+"your browser:\n"
+"\n"
+"[user:one-time-login-url]\n"
+"\n"
+"This link can only be used once to log in and will lead you to a page "
+"where you can set your password.\n"
+"\n"
+"After setting your password, you will be able to log in at [site:login-"
+"url] in the future using:\n"
+"\n"
+"username: [user:account-name]\n"
+"password: Your password\n"
+"\n"
+"--  [site:name] team"
+msgstr ""
+"[user:display-name],\n"
+"\n"
+"هەژمارەکەت لە [ناوی ماڵپەڕ] کارا کراوەتەوە\n"
+"\n"
+"ئێستا دەتوانی بە کرتە کردنەسەری ئەم بەستەرە یان کاپی و پەیستکردنی لەناو "
+"وێبگەڕەکەتدا بچیتە ژوورەوە:\n"
+"[user:one-time-login-url]\n"
+"\n"
+"ئەم بەستەرە تەنها یەک جار بۆ چوونەژوورەوە بەکار دێت و ئەتباتە ناو پەڕەیەک "
+"کەوا بتوانی وشەی تێپەڕبوونی خۆت دروست بکەیت.\n"
+"پاش دروستکردنی وشەی تێپەڕبوونەکەت، لە بەکارهێنانەکانی داهاتووتدا دەتوانی "
+"بچیتە ژوورەوە لە [site:login-url]:\n"
+"\n"
+"ناوی بەکارهێنەر: [user:account-name]\n"
+"وشەی تێپەڕبوون: وشەی تێپەڕبوونەکەت\n"
+"\n"
+"تیمی [site:name]"
+
+msgid "Account details for [user:display-name] at [site:name] (approved)"
+msgstr ""
+"وردەکارییەکانی هەژمار بۆ [user:display-name] لە [site:name] (پەسند کراوە)"
+
+msgid ""
+"[user:display-name],\n"
+"\n"
+"Your account on [site:name] has been blocked.\n"
+"\n"
+"--  [site:name] team"
+msgstr ""
+"[user:display-name],\n"
+"هەژمارەکەت لەسەر [site:name] بلۆک کراوە\n"
+"--  [site:name] تیم"
+
+msgid "Account details for [user:display-name] at [site:name] (blocked)"
+msgstr ""
+"وردەکارییەکانی هەژمار بۆ [user:display-name] لە [site:name] (بلۆک کراوە)"
+
+msgid ""
+"[user:display-name],\n"
+"\n"
+"Your account on [site:name] has been canceled.\n"
+"\n"
+"--  [site:name] team"
+msgstr ""
+"[user:display-name],\n"
+"هەژمارەکەت لەسەر [site:name] هەڵوەشینراوەتەوە \n"
+"--  [site:name] تیمی"
+
+msgid "Account details for [user:display-name] at [site:name] (canceled)"
+msgstr ""
+"وردەکارییەکانی هەژمار بۆ [user:display-name] لە [site:name] (هەڵوەشێنراو)"
+
+msgid "Block Layout Page"
+msgstr "پەڕەی گەڵاڵەبەندیی بلۆک"
+
+msgid "Block Layout"
+msgstr "گەڵاڵەبەندیی بلۆک"
+
+msgid ""
+"Blocks are boxes of content rendered into an area, or region, of a web "
+"page that can be displayed in regions (such as footer or sidebar) on your "
+"page."
+msgstr ""
+"بلۆکەکان بۆکسگەلێک لە ناوەڕۆکن کەوا ڕۆ نراونەتە ڕووبەر یان ناوچەیەک لە "
+"پەڕەیەکی وێب کەوا دەکرێ لە هەندێ ناوچەی پەڕەکەتدا پیشان بدرێن (وەک بەشی "
+"خوارەوە یان لاپارچە)"
+
+msgid "Place Blocks"
+msgstr "دانانی بلۆکەکان"
+
+msgid ""
+"Any custom or contributed block can be added to a particular region by "
+"clicking on a button Place block. A new block can also be created by "
+"clicking on Place Block"
+msgstr ""
+"هەر جۆرە بلۆکێکی بەشداربوو یان ڕسپێراو زیاد دەکرێتە ناوچەیەکی تایبەت بە "
+"کرتەکردن لەسەر دوگمەی \"دانانی بلۆک\". بلۆکێکی نوێش دەکرێ هەر بە کرتەکردن "
+"لەسەر \"دانانی بلۆک\" دروست بکرێ"
+
+msgid "Block Region"
+msgstr "ناوچەی بلۆک"
+
+msgid ""
+"Assign or change the region of a block by clicking here. A dropdown list "
+"with all the regions will appear.You can place one block in multiple "
+"regions."
+msgstr ""
+"تەرخانکردن و گۆڕینی ناوچەی بلۆک بە کرتەکردنی ئێرە. لیستێکی ڕوو لە خوار لە "
+"هەموو ناوچەکان لێرە دەردەکەوێت. دەتوانی بلۆکێک لە چەندین ناوچە دابنێی."
+
+msgid "Configure Block"
+msgstr "ڕێکخستنی بلۆک"
+
+msgid ""
+"By Clicking on \"Configure\" you can go ahead and edit the contents of the "
+"block, deal with the visibility settings and even change the placement of "
+"where it is on your theme."
+msgstr ""
+"بە کرتەکردن لەسەر \"ڕێکخستن\" دەتوانی بچیتە پێشەوە و ناوەڕۆکەکانی بلۆک "
+"دەسکاری بکەی، لەگەڵ ڕێکخستنەکانی بینایی هەڵسوکەوت بکەی و تەنانەت شوێنی "
+"ئەوەی لە کوێ بێت لەسەر ڕووکارەکەت، بگۆڕی."
+
+msgid "Custom Block Library"
+msgstr "کتێبخانەی بلۆکی ڕاسپێراو"
+
+msgid ""
+"The block management screen also has an another tab on the top which is "
+"used to add Custom blocks. The name of the tab is \"Custom block library"
+"\". This tab ultimately provides a link to add custom blocks."
+msgstr ""
+"شاشەی بەڕێوەبەرایەتیی بلۆک تابێکی تریشی لەسەرەوە هەیە کەوا بۆ زیادکردنی "
+"بلۆکە ڕاسپێراوەکان بەکار دێت. ناوی تابەکە \"کتێبخانەی بلۆکی ڕاسپێراو\"ە. "
+"ئەم تابە لە ئەنجامدا بەستەرێک بۆ زیادکردنی بلۆکە ڕاسپێراوەکان بەردەست "
+"دەخات."
+
+msgid "Custom block library"
+msgstr "کتێبخانەی بلۆکی ڕاسپێراوە"
+
+msgid "Find and manage custom blocks."
+msgstr "دۆزینەوە و بەڕێوەبردنی بلۆکە ڕاسپێراوەکان."
+
+msgid "Master"
+msgstr "سەردار"
+
+msgid "Apply"
+msgstr "داواکردن"
+
+msgid "Sort by"
+msgstr "ڕیزکردن بەپێی"
+
+msgid "Asc"
+msgstr "ڕوو لە سەر"
+
+msgid "Desc"
+msgstr "ڕوو لە خوار"
+
+msgid "‹ Previous"
+msgstr "پێشتر"
+
+msgid "Next ›"
+msgstr "دواتر"
+
+msgid "Items per page"
+msgstr "دانە لە پەڕەیەکدا"
+
+msgid "- All -"
+msgstr "- هەموو -"
+
+msgid "Offset"
+msgstr "ئۆفسێت"
+
+msgid ", "
+msgstr ","
+
+msgid "Block type"
+msgstr "جۆری بلۆک"
+
+msgid "There are no custom blocks available."
+msgstr "هیچ بلۆکێکی تایبەت بەردەست نییە."
+
+msgid "Find and manage comments."
+msgstr "دۆزینەوە و بەڕێوەبردنی  بۆچوونەکان."
+
+msgid "Author name"
+msgstr "ناوی نووسەر"
+
+msgid "Comments published"
+msgstr "بۆچوونەکان بڵاوکرانەوە"
+
+msgid "The approved comments listing."
+msgstr "لیستی بۆچوونە پەسندکراوەکان."
+
+msgid "Comments unapproved"
+msgstr "بۆچوونەکان پەسند نەکران"
+
+msgid "The unapproved comments listing."
+msgstr "لیستی بۆچوونە پەسندنەکراوەکان."
+
+msgid "Author Name"
+msgstr "ناوی نووسەر"
+
+msgid "Recent comments."
+msgstr "دوایین بۆچوونەکان."
+
+msgid "Lists (Views)"
+msgstr "لیستەکان (نیشاندانەکان)"
+
+msgid "Watchdog"
+msgstr "پاسەوان/چاودێر"
+
+msgid "‹‹"
+msgstr "‹‹"
+
+msgid "››"
+msgstr "››"
+
+msgid "Icon"
+msgstr "وێنۆچکە"
+
+msgid "WID"
+msgstr "WID"
+
+msgid "{{ message }}"
+msgstr "{{ message }}"
+
+msgid "Find and manage files."
+msgstr "دۆزینەوە و ڕێکخستنی پەڕگەکان."
+
+msgid "Fid"
+msgstr "Fid"
+
+msgid "MIME type"
+msgstr "جۆری MIME"
+
+msgid "Temporary"
+msgstr "کاتی"
+
+msgid "Permanent"
+msgstr "هەمیشەیی"
+
+msgid "Upload date"
+msgstr "بارکردنی ڕێکەوت"
+
+msgid "Changed date"
+msgstr "ڕێکەوتی گۆڕاو"
+
+msgid "1 place"
+msgid_plural "@count places"
+msgstr[0] "1 شوێن"
+msgstr[1] "شوێنەکان"
+
+msgid "No files available."
+msgstr "هیچ پەڕگەیەک نییە."
+
+msgid "Files overview"
+msgstr "پیشاندانی گشتیی پەڕگەکان"
+
+msgid "File usage"
+msgstr "بەکارهێنانی پەڕگە"
+
+msgid "Entity"
+msgstr "یەکە"
+
+msgid "Entity type"
+msgstr "جۆری یەکە"
+
+msgid "Registering module"
+msgstr "تۆمارکردنی مۆدیوڵ"
+
+msgid "Use count"
+msgstr "ژماردنی بەکارهێنان"
+
+msgid "1"
+msgid_plural "@count"
+msgstr[0] "1"
+msgstr[1] "زیاتر لە 1"
+
+msgid "File usage information for {{ arguments.fid }}"
+msgstr "زانیاریی بەکارهێنانی پەڕگە بۆ {{ arguments.fid }}"
+
+msgid "Adding languages"
+msgstr "زیادکردنی زمان"
+
+msgid ""
+"<p>This page provides the ability to add common languages to your site.</"
+"p><p>If the desired language is not available, you can add a custom "
+"language.</p>"
+msgstr ""
+"<p>ئەم پەڕەیە تایبەتمەندیی زیادکردنی زمانە باوەکان بۆ ماڵپەڕەکەت دابین "
+"دەکات.</p><p> گەر ئەو زمانەی بەدوای دەگەڕێی بەردەست نییە، دەتوانی زمانێکی "
+"ڕاسپێراو زیاد بکەیت.<p>"
+
+msgid ""
+"<p>Choose a language from the list, or choose \"Custom language...\" at "
+"the end of the list.</p><p>Click the \"Add language\" button when you are "
+"done choosing your language.</p><p>When adding a custom language, you will "
+"get an additional form where you can provide the name, code, and direction "
+"of the language.</p>"
+msgstr ""
+"<p>زمانێک لە لیستەکە هەڵبژێرە یان \"زمانێکی ڕاسپێراو...\" لە کۆتاییی "
+"لیستەکە هەڵبژێرە.</p><p> کاتێک هەڵبژاردنی زمانەکەی کۆتاییی هات لەسەر "
+"دوگمەی \"زیادکردنی زمان\" کرتە بکە. </p><p> کاتێک زمانێکی ڕاسپێراو زیاد "
+"دەکەیت، فۆرمێکی زیادەش وەردەگریت کەوا دەتوانی تێیدا ناو، کۆد و ئاراستەی "
+"زمانەکە دابین بکەیت.</p>"
+
+msgid "Continuing on"
+msgstr "بەردەوامبوون لەسەر"
+
+msgid ""
+"<p>Now that you have an overview of the \"Add languages\" feature, you can "
+"continue by:<ul><li>Adding a language</li><li>Adding a custom language</"
+"li><li><a href=\"[site:url]admin/config/regional/language\">Viewing "
+"configured languages</a></li></ul></p>"
+msgstr ""
+"<p>ئێستا کەوا ڕوانینێکی گشتیت لەسەر تایبەتمەندیی \"زیادکردنی زمانەکان\" "
+"هەیە، دەتوانی بەردەوام بی بە::<ul><li>زیادکردنی زمان</li><li>زیادکردنی "
+"زمانی ڕاسپیراو</li><li><a href=\"[site:url]admin/config/regional/language"
+"\"> نیشاندانی زمانە ڕێکخراوەکان</a></li></ul></p>"
+
+msgid "Editing languages"
+msgstr "دەسکاریکردنی زمان"
+
+msgid ""
+"<p>This page provides the ability to edit a language on your site, "
+"including custom languages.</p>"
+msgstr ""
+"<p>ئەم پەڕەیە توانستی دەسکاریکردنی زمانێک(بە زمانە ڕاسپێراوەکانیشەوە) "
+"لەسەر ماڵپەڕەکەت دابین دەکات.</p>"
+
+msgid ""
+"<p>You cannot change the code of a language on the site, since it is used "
+"by the system to keep track of the language.</p>"
+msgstr ""
+"<p>تۆ ناتوانی کۆدی زمانێک لەسەر ماڵپەڕەکەت بگۆڕی، چونکە سیستەم بۆ "
+"بەدواداچوونی زمانەکە بەکاری دەهێنێت. </p>"
+
+msgid ""
+"<p>The language name is used throughout the site for all users and is "
+"written in English. Names of built-in languages can be translated using "
+"the Interface Translation module, and names of both built-in and custom "
+"languages can be translated using the Configuration Translation module.</p>"
+msgstr ""
+"<p>ناوی زمان لە سەرانسەری ماڵپەڕدا بۆ هەموو بەکارهێنەران بەکار دەبرێ و بە "
+"ئینگلیزیش دەنووسرێت. ناوەکانی زمانە ناوەکییەکان دەکرێ بە بەکارهێنانی "
+"مۆدیوڵی وەرگێڕانی ڕووکار وەربگێڕدرێنەوە، و ناوەکانی هەردوو زمانە ناوەکی و "
+"ڕاسپێراوەکان دەکرێ بە بەکارهێنانی مۆدیوڵی وەرگێڕانی شێوەپێدان "
+"وەربگێڕدرێنەوە.</p>"
+
+msgid "Language direction"
+msgstr "ئاراستەی زمان"
+
+msgid ""
+"<p>Choose if the language is a \"Left to right\" or \"Right to left\" "
+"language.</p><p>Note that not all themes support \"Right to left\" "
+"layouts, so test your theme if you are using \"Right to left\".</p>"
+msgstr ""
+"<p>هەڵبژاردنی ئەوەی ئایا زمانەکە \"ڕاست بۆ چەپ\"  بێت یان \"چەپ بۆ ڕاست\"</"
+"p><p>دەبێ بزانرێ هەموو ڕووکارەکان لە گەڵاڵەبەندیی \"ڕاست بۆ چەپ\" پشتیوانی "
+"ناکەن، کەوایە گەر \"ڕاست بۆ چەپ\" بەکار دەهێنی ڕووکارەکەت تاقی بکەرەوە.</p>"
+
+msgid ""
+"<p>Now that you have an overview of the \"Edit language\" feature, you can "
+"continue by:<ul><li>Editing a language</li><li><a href=\"[site:url]admin/"
+"config/regional/language\">Viewing configured languages</a></li></ul></p>"
+msgstr ""
+"<p>ئێستا کەوا ڕوانینێکی گشتیت لەسەر تایبەتمەندیی \"دەسکاریکردنی زمان\" "
+"هەیە دوتوانی بەردەوام بی بە<ul><li>دەسکاریکردنی زمانێک</li><li><a href="
+"\"[site:url]admin/config/regional/language\">بینینی زمانی ڕێکخراو</a></"
+"li></ul></p>"
+
+msgid ""
+"<p>The \"Languages\" page allows you to add, edit, delete, and reorder "
+"languages for the site.</p>"
+msgstr ""
+"<p>پەڕەی \"زمانەکان\" دەهێڵن زامانەکانی ماڵپەڕەکە زیاد بکەی، دەسکاری بکەی، "
+"بسڕیتەوە و دووبارەی ڕیزیان بکەیتەوە.</p>"
+
+msgid ""
+"<p>To add more languages to your site, click the \"Add language\" button.</"
+"p><p>Added languages will be displayed in the language list and can then "
+"be edited or deleted.</p>"
+msgstr ""
+"<p>بۆ زیادکردنی زمانی زۆرتر بۆناو ماڵپەڕەکەت، کرتە بکە لەسەر دوگمەی "
+"\"زیادکردنی زمان\".</p><p>زمانە زیادکراوەکان لە لیستی زماندا پیشان دەدرێت "
+"و دواتر دەکرێ دەسکاری بکرێن یان بسڕێنەوە.</p>"
+
+msgid "Reordering languages"
+msgstr "دووبارە ڕیزکردنەوەی زمان"
+
+msgid ""
+"<p>To reorder the languages on your site, use the drag icons next to each "
+"language.</p><p>The order shown here is the display order for language "
+"lists on the site such as in the language switcher blocks provided by the "
+"Interface Translation and Content Translation modules.</p><p>When you are "
+"done with reordering the languages, click the \"Save configuration\" "
+"button for the changes to take effect.</p>"
+msgstr ""
+"<p>بۆ دووبارە ڕیزکردنەوەی زمانەکە لەسەر ماڵپەڕەکەت، وێنۆچکەی پەلکێش بەکار "
+"بێنە کەوا لەتەنیشت هەر زمانێکەوەیە.</p><p>ئەو ڕیزکردنەی لێرە دەبینرێت "
+"ڕیزکردنی پیشاندانە بۆ لیستەکانی زمان لەسەر ماڵپەڕ وەکوو بلۆکەکانی بگۆڕی "
+"زمان کەوا لە لایەن مۆدیوڵەکانی وەرگێڕانی ناوەڕۆک و وەرگێڕانی ڕووکار دابین "
+"کراون.</p><p>کاتێک ڕیزکردنەوەی زمانەکان کۆتاییی هات، لەسەر دوگمەی "
+"\"پاشەکەوتکردنی شێوەپێدان\" کرتە بکە بۆ ئەوەی گۆڕانکارییەکان جێگیر ببێن.</"
+"p>"
+
+msgid "Set a language as default"
+msgstr "دیاریکردنی زمانێک وەک زمانی بنەڕەتی"
+
+msgid ""
+"<p>You can change the default language of the site by choosing one of your "
+"configured languages as default. The site will use the default language in "
+"situations where no choice is made but a language should be set, for "
+"example as the language of the displayed interface.</p>"
+msgstr ""
+"<p>تۆ دەتوانی زمانی بنەڕەتیی ماڵپەڕەکە بگۆڕیت گەر یەکێک لە زمانە "
+"شێوەپیدراوەکان وەک زمانی بنەڕەت هەڵبژێریت. ماڵپەڕەکە لە هەندێ بارودۆخدا "
+"زامانی بنەڕەت بەکار دەهێنێت کەوا هیچێک هەڵنەبژێراوە بەڵام زمانێک دەبێ "
+"هەڵبژێردرێت، بۆ نموونە وەک زمانی ڕووکاری پیشاندراو.   </p>"
+
+msgid "Modifying languages"
+msgstr "گۆڕانکاریی زمانەکان"
+
+msgid ""
+"<p>Operations are provided for editing and deleting your languages.</"
+"p><p>You can edit the name and the direction of the language.</"
+"p><p>Deleted languages can be added back at a later time. Deleting a "
+"language will remove all interface translations associated with it, and "
+"content in this language will be set to be language neutral. Note that you "
+"cannot delete the default language of the site.</p>"
+msgstr ""
+"<p>کۆکارەکان بۆ سڕینەوە و دەسکاریکردنی زمانەکانت دابین کراون.</"
+"p><p>دەتوانی ناو و ئاراستەی زمانەکە بگۆڕیت</p><p>زمانە سڕدراوەکان دەتوانری "
+"سەرلەنوێ زیاد بکرێنەوە دواتر. سڕینەوەی زمانێک هەموو وەرگێڕانە ڕووکارە "
+"هاوپێوەندەکانیشی دەسڕێتەوە و ناوەڕۆکی ناو ئەم زمانە دەبێ بە زمانی بۆش. "
+"ئاگادار بە کەوا ناتوانی زمانی بنەڕەتی ئەم ماڵپەڕە بسڕیتەوە. </p>"
+
+msgid ""
+"<p>Now that you have an overview of the \"Languages\" page, you can "
+"continue by:<ul><li><a href=\"[site:url]admin/config/regional/language/add"
+"\">Adding a language</a></li><li>Reordering languages</li><li>Editing a "
+"language</li><li>Deleting a language</li></ul></p>"
+msgstr ""
+"<p>ئێستاکە کەوا ڕوانینێکی گشتیت هەیە لەسەر پەڕەی \"زمانەکان\"، دەتوانی "
+"بەردەوام بی بە <ul><li><a href=\"[site:url]admin/config/regional/language/"
+"add\">زیادکردنی زمانێک</a></li><li>دووبارە ڕیزکردنەوەی زمانەکان</"
+"li><li>دەسکاریکردنی زمانێک</li><li>سڕینەوەی زمانێک</li></ul></p>"
+
+msgid "Translation"
+msgstr "وەرگێڕان"
+
+msgid "User interface translation"
+msgstr "وەرگێڕانی ڕووکاری بەکارهێنەر"
+
+msgid ""
+"This page allows you to translate the user interface or modify existing "
+"translations. If you have installed your site initially in English, you "
+"must first add another language on the <a href=\"[site:url]admin/config/"
+"regional/language\">Languages page</a>, in order to use this page."
+msgstr ""
+"ئەم پەڕەیە ڕێگەت پێ دەدات ڕووکاری بەکارهێنەر وەربگێڕیتەوە یان وەرگێڕانە "
+"هەبووەکان بگۆڕیت. گەر ماڵپەڕەکەت لە دەسپێکدا بە ئینگلیزی دامەزراندووە دەبێ "
+"سەرەتا زمانێکی تر زیاد بکەی لە <a href=\"[site:url]admin/config/regional/"
+"language\">پەڕەکانی زمان</a>, بە مەبەستی بەکارهێنانی ئەم پەڕەیە."
+
+msgid "Translation language"
+msgstr "زمانی وەرگێڕان"
+
+msgid "Choose the language you want to translate."
+msgstr "هەڵبژاردنی ئەو زمانەی کە دەتەوێ وەری بگێڕیتەوە."
+
+msgid ""
+"Enter the specific word or sentence you want to translate, you can also "
+"write just a part of a word."
+msgstr ""
+"داخڵکردنی ئەو وشە و ڕستە دیاریکراوەی کە دەتەوێ وەری بگێڕیتەوە . دەتوانی "
+"تەنها بەشێک لە وشەکە بنووسی."
+
+msgid "Filter the search"
+msgstr "پاڵاوتنی گەڕان"
+
+msgid ""
+"You can search for untranslated strings if you want to translate something "
+"that isn't translated yet. If you want to modify an existing translation, "
+"you might want to search only for translated strings."
+msgstr ""
+"دەتوانی بگەڕێی بۆ ڕیزبەندە وەرنەگێڕاوەکان ئەگەر دەتەوێ ئەو شتانە "
+"وەربگێڕیتەوە کەوا هێشتا وەرنەگێڕدراونەتەوە. گەر دەتەوێ وەرگێڕانێکی هەبوو "
+"بگۆڕی، لەوانەیە بتەوێ تەنها بۆ ڕیزبەندە وەرگێڕدراوەکان بگەڕێی."
+
+msgid "Apply your search criteria"
+msgstr "جێگیرکردنی پێوەری گەڕانت"
+
+msgid "To apply your search criteria, click on the <em>Filter</em> button."
+msgstr "بۆ جێگیرکردنی پێوەری گەڕانت، کرتە لەسەر دوگمەی <em>پاڵیو</em> بکە."
+
+msgid ""
+"You can write your own translation in the text fields of the right column. "
+"Try to figure out in which context the text will be used in order to "
+"translate it in the appropriate way."
+msgstr ""
+"دەتوانی وەرگێڕانەکانی خۆت لە خانەکانی دەقی ئەستوونی ڕاستدا بنووسیت. هەوڵ "
+"بدە بزانیت لە کام کانتێکستدا، دەقەکە بۆ ئەوە بەکار دەبرێت بە باشترین شێوە "
+"وەری بگێڕێتەوە."
+
+msgid "Validate the translation"
+msgstr "ڕەواییبەخشین بە وەرگێڕان"
+
+msgid ""
+"When you have finished your translations, click on the <em>Save "
+"translations</em> button. You must save your translations, each time "
+"before changing the page or making a new search."
+msgstr ""
+"کاتێ وەرگێڕانەکەت کۆتاییی هات، کرتە بکە لەسەر دوگمەی  <em>پاشەکەوتکردنی "
+"وەرگێڕانەکان</em>  هەر جارێک لە پێش گۆڕینی پەڕە یان ئەنجامدانی گەڕانێکی "
+"نوێ دەبێ وەرگێڕانەکانت پاشەکەوت بکەیت.."
+
+msgid ""
+"The translations you have made here will be used on your site's user "
+"interface. If you want to use them on another site or modify them on an "
+"external translation editor, you can <a href=\"[site:url]admin/config/"
+"regional/translate/export\">export them</a> to a .po file and <a href="
+"\"[site:url]admin/config/regional/translate/import\">import them</a> later."
+msgstr ""
+"ئەو وەرگێڕانانەی کردووتن لێرە لە \"ڕووکاری بەکارهێنەری\"ی ماڵپەڕەکەت بەکار "
+"دەبرێت. گەر دەتەوێ لەسەر ماڵپەڕێکی تر بەکاریان بێنی یاخود لەسەر "
+"دەسکاریکەری وەرگێڕانی دەرەکی بییانگۆڕی، دەتوانی <a href=\"[site:url]admin/"
+"config/regional/translate/export\">هەناردەیان بکە</a> بۆ پەڕگەیەکی .po و "
+"<a href=\"[site:url]admin/config/regional/translate/import\">هاوردەیان "
+"بکە</a> دواتر."
+
+msgid "Archive"
+msgstr "ئارشیڤ"
+
+msgid "All content, by month."
+msgstr "هەموو ناوەڕۆکەکان، بەپێی مانگ."
+
+msgid "{{ arguments.created_year_month }}"
+msgstr "{{ arguments.created_year_month }}"
+
+msgid "« First"
+msgstr "« سەرەتا"
+
+msgid "Last »"
+msgstr "کۆتا »"
+
+msgid "Unpublished"
+msgstr "بڵاونەکراوە"
+
+msgid "Published status"
+msgstr "ڕەوشی بڵاوکراوە"
+
+msgid "Find and manage content"
+msgstr "ناوەڕۆک بدۆزەرەوە و ڕێکی بخە"
+
+msgid "Recent content."
+msgstr "دوایین ناوەڕۆکەکان."
+
+msgid "All content promoted to the front page."
+msgstr "هەموو ناوەڕۆکەکان لە پەڕەی سەرەتادا بڵاو کراونەتەوە."
+
+msgid ""
+"No front page content has been created yet.<br/>Follow the <a target="
+"\"_blank\" href=\"https://www.drupal.org/docs/user_guide/en/index.html"
+"\">User Guide</a> to start building your site."
+msgstr ""
+"هیچ ناوەڕۆکێکی پەڕەی سەرەتا هێشتا دروست نەکراوە.<br/> شوێنی ئەمە بکەوە <a "
+"target=\"_blank\" href=\"https://www.drupal.org/docs/user_guide/en/index."
+"html\"> بەشی یارمەتیی بەکارهێنەران</a> بۆ ئەوەی دەس بە بونیاتنانی سایتەکەت "
+"بکەیت."
+
+msgid "Welcome to [site:name]"
+msgstr "بەخێر بێن بۆ [site:name]"
+
+msgid "Feed"
+msgstr "ڕاگەیەنەر"
+
+msgid "Glossary"
+msgstr "فەرهەنگۆک"
+
+msgid "All content, by letter."
+msgstr "هەموو ناوەڕۆکەکان، بەپێی پیت."
+
+msgid "Content belonging to a certain taxonomy term."
+msgstr "ناوەڕۆکێک کەوا هی واژەی پۆلێنێکی دیاریکراوە."
+
+msgid "{{ arguments.tid }}"
+msgstr "{{ arguments.tid }}"
+
+msgid "Find and manage people interacting with your site."
+msgstr "دۆزینەوە و ڕێکخستنی ئەو کەسانەی لەگەڵ ماڵپەڕەکەتدا لە پێوەندیدان."
+
+msgid "Bulk update"
+msgstr "نوێبوونەوەی گشتی"
+
+msgid "Last access"
+msgstr "دوا دەستڕاگەیشتن"
+
+msgid "Name or email contains"
+msgstr "ناو و ئیمەیل لەخۆگری"
+
+msgid "Shows a list of the newest user accounts on the site."
+msgstr "لیستی نوێترین هەژمارە بەکارهێنەرییەکانی سەر ماڵپەڕەکە پیشان دەدات."
+
+msgid "A list of new users"
+msgstr "لیستێک لە بەکارهێنەرە تازەکان"
+
+msgid "Who's online block"
+msgstr "کێ بلۆککراوی سەرهێڵە"
+
+msgid ""
+"Shows the user names of the most recently active users, and the total "
+"number of active users."
+msgstr ""
+"ناوی بەکارهێنەرانێک کەوا بەم تازەیییانە زیاتر کارا بوون و هەروەها کۆی "
+"ژمارەی بەکارهێنەرە کاراکان پیشان دەدات."
+
+msgid ""
+"A user is considered online for this long after they have last viewed a "
+"page."
+msgstr ""
+"پاش دوایین سەردانی بەکارهێنەر لە پەڕەکە، وەکوو کەسێکی سەرهێڵ لە بەرچاو "
+"دەگیرێت."
+
+msgid "There are currently @total users online."
+msgstr "لە ئێستادا @total بەکارهێنەری سەرهێڵ هەیە."
+
+msgid "There are currently 0 users online."
+msgstr "لە ئێستەدا 0 بەکارهێنەری سەرهێڵ هەیە."
+
+msgid "A list of users that are currently logged in."
+msgstr "لیستێک لەو بەکارهێنەرانەی کەوا لە ئێستەدا هاتوونەتە ژوورەوە."
+
+msgid "View edit page"
+msgstr "نیشاندانی پەڕەی دەسکاریکردن"
+
+msgid "Manage view settings"
+msgstr "بەڕێوەبردنی سازکارییەکانی نیشاندان"
+
+msgid "View or edit the configuration."
+msgstr "نیشاندان یان دەسکاریکردنی شێوەپێدان."
+
+msgid "Displays in this view"
+msgstr "وێنەکان لەم نیشاندانەدا"
+
+msgid ""
+"A display is a way of outputting the results, e.g., as a page or a block. "
+"A view can contain multiple displays, which are listed here. The active "
+"display is highlighted."
+msgstr ""
+"وێنە ڕێگایەکە بۆ دەرخستنی ئەنجامەکان، وەک لاپەڕە یان بلۆک. نیشاندان "
+"دەتوانێت چەند وێنە لەخۆ بگرێ، کە لێرە لیست کراوە. وێنەی چالاک بەرجەستە "
+"کراوە."
+
+msgid "View administration"
+msgstr "بەڕێوەبردنی نیشاندان"
+
+msgid ""
+"Perform administrative tasks, including adding a description and creating "
+"a clone. Click the drop-down button to view the available options."
+msgstr ""
+"ئەنجامدانی ئەرکە کارگێڕیەکان, وەک زیادکردنی دەربارە و دروستکردنی وێکچوو. "
+"کرتە بکە لەسەر دوگمەی دراپ‌داون بۆ نیشاندانی بژاردە بەردەستەکان."
+
+msgid "Output format"
+msgstr "فۆرماتی دەرخستە"
+
+msgid ""
+"Choose how to output results. E.g., choose <em>Content</em> to output each "
+"item completely, using your configured display settings. Or choose "
+"<em>Fields</em>, which allows you to output only specific fields for each "
+"result. Additional formats can be added by installing modules to "
+"<em>extend</em> Drupal's base functionality."
+msgstr ""
+"هەڵبژاردنی چۆنیەتیی دەرخستنی ئەنجامەکان. بۆ نموونە هەڵبژاردنی "
+"<em>ناوەڕۆکی</em> بۆ بەتەواوەتی دەرخستنی هەر بڕگەیەک، ڕێکخستنەکانی "
+"پیشاندانی شێوەپێدراو بەکار بێنە. یان هەڵبژێرە<em>بڕگەی</em>، کەوا ڕێگەت پێ "
+"دەدات تەنها بڕگە دیاریکراوەکان لە هەر ئەنجامێکدا دەربخەی. فۆرماتە زیادەکان "
+"دەکرێ زیاد بکرێن بە ڕێگەی دامەزراندنی مۆدیوڵەکان بۆ <em>درێژکردنەوە</em>  "
+"کرداری بنەڕەتیی دروپاڵ."
+
+msgid "Fields"
+msgstr "خانەکان"
+
+msgid ""
+"If this view uses fields, they are listed here. You can click on a field "
+"to configure it."
+msgstr ""
+"ئەگەر ئەم نیشاندانە، خانە بەکار بێنێت، لێرە لیست دەکرێن. دەتوانی کرتە "
+"لەسەر خانە بکەی بۆ ڕێکخستنی."
+
+msgid "Filter your view"
+msgstr "پاڵاوتنی نیشاندانەکانت"
+
+msgid ""
+"Add filters to limit the results in the output. E.g., to only show content "
+"that is <em>published</em>, you would add a filter for <em>Published</em> "
+"and select <em>Yes</em>."
+msgstr ""
+"زیادکردنی پاڵێوەکان بۆ سنووردارکردنی ئەنجامەکان لە دەرخستەدا. بۆ ئەوەی "
+"تەنها ئەو ناوەڕۆکانەی پیشان بدرێن کەوا  <em>بڵاوکراو</em>, پاڵێوێک زیاد "
+"بکە بۆ  <em>بڵاوکراو</em> و هەڵبژێرە <em>بەڵێ</em>."
+
+msgid "Filter actions"
+msgstr "کردارەکانی پاڵێو"
+
+msgid "Add, rearrange or remove filters."
+msgstr "زیادکردن، سەرلەنوێ ڕێکخستنەوە یان سڕینەوەی پاڵێوەکان."
+
+msgid "Sort Criteria"
+msgstr "پێوەری ڕیزکردن"
+
+msgid ""
+"Control the order in which the results are output. Click on an active sort "
+"rule to configure it."
+msgstr ""
+"کۆنترۆڵکردنی ڕێزێک کەوا ئەنجامەکان دەرکێشەن. کرتە لەسەر یاسای ڕیزکردنی "
+"کارا بکە بۆ ڕێکخستنی."
+
+msgid "Sort actions"
+msgstr "کردارەکانی ڕیزکردن"
+
+msgid "Add, rearrange or remove sorting rules."
+msgstr "زیادکردن، سەرلەنوێ ڕێکخستنەوە یان سڕینەوەی یاسا ڕیزکەرەکان."
+
+msgid "Show a preview of the view output."
+msgstr "پیشاندانی پێشبینییەک لە دەرخستەی نیشاندان ."
+
+msgid "Interface translation"
+msgstr "وەرگێڕانی ڕووکار"
+
+msgid "Set @title as default"
+msgstr "ڕێکخستنی @title وەک بنەڕەت"
+
+msgid "not applicable"
+msgstr "گونجاو نییە"
+
+msgid "@translated/@total (@ratio%)"
+msgstr "@translated/@total (@ratio%)"
+
+msgid "(version @version available)"
+msgstr "(وەشان @version بەردەستە)"
+
+msgid "Not secure!"
+msgstr "پارێزراو نییە!"
+
+msgid ""
+"There is a security update available for your version of Drupal. To ensure "
+"the security of your server, you should update immediately!"
+msgstr ""
+"بۆ وەشانی دروپاڵەکەت، نوێبوونەوەیەکی ئەولەکاری بەردەستە. بۆ دڵنیابوون لە "
+"پارێزراوبوونی سێرڤێرەکەت، دەبێ دەسبەجێ نوێی بکەیتەوە!"
+
+msgid ""
+"See the <a href=\":available_updates\">available updates</a> page for more "
+"information and to install your missing updates."
+msgstr ""
+"بینینی <a href=\":available_updates\"> نوێبوونەوە بەردەستەکان</a> لاپەڕە "
+"بۆ زانیاریی زیاتر و دامەزراندنی نوێبوونەوە لەدەستچووەکان."
+
+msgid ""
+"This page also provides an overview of how much of the site's interface "
+"has been translated for each configured language."
+msgstr ""
+"ئەم پەڕەیە بەگشتی پیشان دەدات کەوا چەند لە ڕووکاری سایتەکە بۆ هەر زمانێکی "
+"شێوەپێدراو، وەرگێڕاوەتەوە."
+
+msgid "Block layout"
+msgstr "گەڵاڵەبەندیی بلۆک"
+
+msgid "Comment types"
+msgstr "جۆرەکانی بۆچوون"
+
+msgid "Contact forms"
+msgstr "فۆرمەکانی پەیوەندی"
+
+msgid "View modes"
+msgstr "دۆخی نیشاندان"
+
+msgid "Form modes"
+msgstr "دۆخی فۆرم"
+
+msgid "Display modes"
+msgstr "دۆخی وێنە"
+
+msgid "Views"
+msgstr "نیشاندانەکان"
+
+msgid "Extend"
+msgstr "درێژکردنەوە"
+
+msgid "Configuration synchronization"
+msgstr "هاودەمکردنی شێوەپێدان"
+
+msgid "Logging and errors"
+msgstr "چوونەژوورەوە و هەڵەکان"
+
+msgid "Date and time formats"
+msgstr "فۆرماتەکانی ڕێکەوت و کات"
+
+msgid "Configuration translation"
+msgstr "وەرگێڕانی شێوەپێدان"
+
+msgid "Content language and translation"
+msgstr "زمانی ناوەڕۆک و وەرگێڕان"
+
+msgid "Search pages"
+msgstr "پەڕەکانی گەڕان"
+
+msgid "Basic site settings"
+msgstr "ڕێکخستنە بنەڕەتییەکانی ماڵپەڕ"
+
+msgid "Text formats and editors"
+msgstr "فۆرماتەکانی دەق و دەسکاریکەرەکان"
+
+msgid "Top 'page not found' errors"
+msgstr "زۆرترین هەڵەکانی \"پەڕە نەدۆزرایەوە\""
+
+msgid "Top 'access denied' errors"
+msgstr "زۆرترین هەڵەکانی \"پیشاندان قەدەغەیە\""
+
+msgid "Views plugins"
+msgstr "پێوەکراوەکانی نیشاندان"
+
+msgid "Top search phrases"
+msgstr "زۆرترین دەستەواژە بۆگەڕاوەکان"
+
+msgid "Available translation updates"
+msgstr "نوێبوونەوەکانی وەرگێڕانە بەردەستەکان"
+
+msgid "List and edit site comments and the comment approval queue."
+msgstr ""
+"لیستکردن و دەسکاریکردنی بۆچوونەکانی ماڵپەڕ و سەرەی قبووڵکردنی بۆچوونەکان."
+
+msgid ""
+"Configure what block content appears in your site's sidebars and other "
+"regions."
+msgstr ""
+"ئەوەی لە ناوەڕۆکی بلۆک لە لاپارچەکانی ماڵپەڕەکەت و ناوچەکانی تردا "
+"دەردەکەوێت، شێوەبەندی بکە."
+
+msgid "Manage form and displays settings of comments."
+msgstr "بەڕێوەبردنی فۆرم و شێوازەکانی سازکارییەکانی بۆچوونەکان."
+
+msgid "Create and manage contact forms."
+msgstr "دروستکردن و بەڕێوەبردنی فۆرمەکانی پەیوەندی."
+
+msgid "Manage custom form modes."
+msgstr "بەڕێوەبردنی دۆخی فۆرمی ڕاسپێراو."
+
+msgid "Manage custom view modes."
+msgstr "بەڕێوەبردنی دۆخی نیشاندانی ڕاسپێراو."
+
+msgid "Configure what displays are available for your content and forms."
+msgstr "شێوەپێدانی ئەو وێنەیانەی بۆ ناوەڕۆک و فۆرمەکانت بەردەستن."
+
+msgid "Manage customized lists of content."
+msgstr ".بەڕێوەبردنی لیستە ڕاسپێراوەکانی ناوەڕۆک."
+
+msgid ""
+"Create and manage fields, forms, and display settings for your content."
+msgstr ""
+"دروستکردن و بەڕێوەبردنی خانەکان، فۆرمەکان و ڕێکخستنەکانی وێنە بۆ "
+"ناوەڕۆکەکەت."
+
+msgid "Manage menus and menu links."
+msgstr "بەڕێوەبردنی پێڕەستەکان و بەستەرەکانی پێڕست."
+
+msgid "Select and configure themes."
+msgstr "هەڵبژاردن و شێوەپێدانی ڕووکارەکان."
+
+msgid "Add and enable modules to extend site functionality."
+msgstr "زیادکردن و کاراکردنی مۆدیوڵەکان بۆ زیاترکردنی کردارمەندیی ماڵپەڕ."
+
+msgid ""
+"Configure default user account settings, including fields, registration "
+"requirements, and email messages."
+msgstr ""
+"شێوەپێدانی ڕێکخستنە بنەڕەتییەکانی هەژماری بەکارهێنەران وەک خانەکان، "
+"پێداویستییەکانی تۆمارکردن و هەروەها نامەکانی ئیمەیل."
+
+msgid ""
+"Change site name, email address, slogan, default front page, and error "
+"pages."
+msgstr ""
+"گۆڕینی ناوی ماڵپەڕ، ناونیشانی ئیمەیل، پەڕەی سەرەکیی بنەڕەتی و پەڕە "
+"هەڵەدارەکان."
+
+msgid "Manage automatic site maintenance tasks."
+msgstr "بەڕێوەبردنی ئەرکە خۆکارەکانی چاودێریی ماڵپەڕ."
+
+msgid "Configure basic site settings, actions, and cron."
+msgstr "شێوەپێدانی کارگێڕ و کردار و ڕێکخستنە سەرەکییەکانی ماڵپەڕ."
+
+msgid ""
+"Select and configure text editors, and how content is filtered when "
+"displayed."
+msgstr ""
+"هەڵبژاردن و شێوەپێدانی دەسکاریکەرەکانی دەق و ئەوەی چۆن ناوەڕۆکەکان لە کاتی "
+"پیشانداندا دەپاڵێورێن."
+
+msgid "Configure content formatting and authoring."
+msgstr "شێوەپێدانی فۆرماتبەندی و نووسینی ناوەڕۆک."
+
+msgid "Configure the administrative user interface."
+msgstr "\"شێوەپێدانی ڕووکاری بەکارهێنەر\"ی بەڕێوەبەرایەتی."
+
+msgid "Configure caching and bandwidth optimization."
+msgstr "شێوەپێدانی حەشارگە و باشترکردنی باندبەرین."
+
+msgid "Configure the display of error messages and database logging."
+msgstr "شێوەپێدانی شێوازی نامە هەڵەکان و تۆماری بنکەدراوە."
+
+msgid "Take the site offline for updates and other maintenance tasks."
+msgstr "ژێرهێڵکردنی ماڵپەڕ بۆ نوێکردنەوە و ئەرکە چاودێرییەکانی دیکە."
+
+msgid "Import and export your configuration."
+msgstr "هاوردە و هەناردەکردنی شێوەپێدانەکەت."
+
+msgid "Configure and use development tools."
+msgstr "شێوەپێدان و بەکارهێنانی ئامرازەکانی گەشەپێدان."
+
+msgid "Configure the location of uploaded files and how they are accessed."
+msgstr "شێوەپێدانی شوێنی پەڕگە بارکراوەکان و چۆنێتیی دەستپێگەیشتنیان."
+
+msgid ""
+"Configure styles that can be used for resizing or adjusting images on "
+"display."
+msgstr ""
+"شێوەپێدانی ئەو شێوازانە کەوا بۆ گۆڕینی قەبارە و ڕێکخستنی وێنەکانی سەر شاشە "
+"بەکار دەبرێن."
+
+msgid ""
+"Choose which image toolkit to use if you have installed optional toolkits."
+msgstr ""
+"گەر بۆکس‌ئامرازێکی ئارەزوومەندانەت دامەزراندووە، هەڵبژێرا کام بۆکس‌ئامرازی "
+"وێنە بەکار بێنی."
+
+msgid "Configure search pages and search indexing options."
+msgstr "شێوەپێدانی پەڕەکانی گەڕان و بژاردەکانی پێڕستی گەڕان."
+
+msgid "Add custom URLs to existing paths."
+msgstr "زیادکردنی یووئاڕئیڵگەلی ڕاسپێراو بۆ ڕێڕەوە هەبووەکان."
+
+msgid "Configure site search, metadata, and search engine optimization."
+msgstr ""
+"شێوەپێدانی باشترکردنی مەکینەکانی گەڕان (سێئۆ)، مێتادەیتا و گەڕانی ماڵپەڕ."
+
+msgid "Configure the locale and timezone settings."
+msgstr "شێوەپێدانی ڕێکخستنەکانی کات-ناوچە و شوێن."
+
+msgid "Configure how dates and times are displayed."
+msgstr "شێوەپێدانی چۆنێتیی پیشاندانی ڕێکەوتەکان و کاتەکان."
+
+msgid "Configure languages for content, interface, and configuration."
+msgstr "شێوەپێدانی زمانەکان بۆ ناوەڕۆک و ڕووکار و ڕێکخستن."
+
+msgid "Configure language and translation support for content."
+msgstr "شێوەپێدانی زمان و پشتیوانی لە وەرگێڕان بۆ ناوەڕۆک."
+
+msgid ""
+"Configure the import of translation files, and add or customize interface "
+"translations."
+msgstr ""
+"شێوەپێدانی هاوردەکردنی پەڕگەکانی وەرگێڕان و زیادکردن و کڕیارخوازکردنی "
+"وەرگێڕانەکانی ڕووکار."
+
+msgid "Translate the configuration."
+msgstr "وەرگێڕانی شێوەپێدان."
+
+msgid "Configure regional settings, localization, and translation."
+msgstr "شێوەپێدانی ڕێکخستنە ناوچەیییەکان، خۆجێییکردن و وەرگێڕان."
+
+msgid ""
+"Configure the site description, the number of items per feed, and whether "
+"feeds should be titles/teasers/full-text."
+msgstr ""
+"شێوەپێدانی دەربارەی ماڵپەڕ و ژمارەی بەشەکان بەپێی هەر ڕاگەیەنەرێک و ئەوەی "
+"کە ئایا ڕاگەیەنەر دەبێ ناونیشان/تیزر/دەقی تەواو بێ."
+
+msgid "Manage the content workflow."
+msgstr "بەڕێوەبردنی ڕێرەوی کاری ناوەڕۆک ."
+
+msgid ""
+"Get a status report about available updates for your installed modules and "
+"themes."
+msgstr ""
+"وەرگرتنی ڕاپۆرتی ڕەوش لەسەر نوێبوونەوە بەردەستەکان بۆ مۆدیوڵ و ڕووکارە "
+"دامەزراوەکانت."
+
+msgid "View events that have recently been logged."
+msgstr "نیشاندانی ئەو ڕووداوانە ببینە کەوا بەم تازەیییانە هاتوونەتە ژوورەوە."
+
+msgid ""
+"Get a status report about available interface translations for your "
+"installed modules and themes."
+msgstr ""
+"وەرگرتنی ڕاپۆرتی ڕەوش لەسەر وەرگێڕانەکانی ڕووکاری بەردەست بۆ مۆدیوڵ و "
+"ڕووکارە دامەزراوەکانت."
+
+msgid "View 'access denied' errors (403s)."
+msgstr "نیشاندانی هەڵەکانی \"پیشاندان قەدەغەیە\"(403کان)"
+
+msgid "View 'page not found' errors (404s)."
+msgstr "نیشاندانی هەڵەکانی \"پەڕە نەدۆزرایەوە\"(403کان)"
+
+msgid "View most popular search phrases."
+msgstr "نیشاندانی باوترین دەستەواژەکان بۆ گەڕان."
+
+msgid "Overview of plugins used in all views."
+msgstr ""
+"سەیرکردنی گشتیی پێوەکراوەکان کەوا لە هەموو نیشاندانەکاندا بەکار هێنراون."
+
+msgid "Overview of fields on all entity types."
+msgstr "پیشاندانی گشتیی خانەکان لەسەر هەموو جۆرە یەکەکان."
+
+msgid "Get a status report about your site's operation."
+msgstr "وەرگرتنی ڕاپۆرتی ڕەوش لەبارەی کۆکارەکانی سایتەکەتەوە."
+
+msgid "Toolbar items"
+msgstr "بڕگەکانی تووڵامراز"
+
+msgid "Return to site content"
+msgstr "گەڕانەوە بۆ ناوەڕۆکی ماڵپەڕ"
+
+msgid "Back to site"
+msgstr "گەڕانەوە بۆ ماڵپەڕ"
+
+msgid "Admin menu"
+msgstr "پێڕستی بەڕێوەبەر"
+
+msgid "Manage"
+msgstr "بەڕێوەبردن"
+
+msgid "Tour"
+msgstr "گەشت"
+
+msgid "Site administration toolbar"
+msgstr "تووڵامرازی بەڕێوەبردنی ماڵپەڕ"
+
+msgid "Administration menu"
+msgstr "پێڕستی بەڕێوەبەرایەتی"
+
+msgid "User-defined shortcuts"
+msgstr "قەدبڕە پێناسەکراوەکان لەلایەن بەکارهێنەرەوە"
+
+msgid "User account actions"
+msgstr "کردارەکانی هەژماری بەکارهێنەر"
+
+msgid "Shortcut set"
+msgstr "کۆمەڵەی قەدبڕ"
+
+msgid "Add to %shortcut_set shortcuts"
+msgstr "زیادکردن بە  %shortcut_set قەدبڕەکان"
+
+msgid "Form mode"
+msgstr "دۆخی فۆرم"
+
+msgid "View mode"
+msgstr "دۆخی پیشاندان"
+
+msgid "Primary tabs display toggle"
+msgstr "تابە سەرەکییەکان، شاردنەوە پیشان دەدەن"
+
+msgid "@local-task-title@active"
+msgstr "@local-task-title@active"
+
+msgid "Breadcrumb"
+msgstr "برێدکرام"
+
+msgid ""
+"Reorder the configured languages to set their order in the language "
+"switcher block and, when editing content, in the list of selectable "
+"languages. This ordering does not impact <a href=\":detection\">detection "
+"and selection</a>."
+msgstr ""
+"دووبارە ڕێکخستنەوەی زمانە شێوەبەندییەکان بۆ دانانی ڕیزبەندیی خۆیان لە "
+"بلۆکی بگۆڕی زمان و، کاتێک گۆڕانکاریی ناوەڕۆک دەکەن، لە لیستی زمانە "
+"دەسنیشانکراوەکاندا. ئەم ڕێکخستنە کاریگەریی نییە لەسەر دۆزینەوە و "
+"هەڵبژاردنی <a href=\":detection\">."
+
+msgid ""
+"The site default language can also be set. It is not recommended to change "
+"the default language on a working site. <a href=\":language-detection"
+"\">Configure the Selected language</a> setting on the detection and "
+"selection page to change the fallback language for language selection."
+msgstr ""
+"زمانی بنەڕەتیی سایتەکە هەروەها دەکرێت دابنرێ. پێشنیار نەکراوە بۆ گۆڕینی "
+"زمانی بنەڕەتی لە سایتێکی کاریدا. شێوەپێدانی <a href=\":language-detection"
+"\">زمانە دەسنیشانکراوەکە ڕێک بخە</a> دیاریکراو لەسەر لاپەڕەی دۆزینەوە و "
+"هەڵبژاردن بۆ گۆڕینی زمانی هەڵگەڕانەوە بۆ هەڵبژاردنی زمان."
+
+msgid ""
+"Interface translations are automatically imported when a language is "
+"added, or when new modules or themes are enabled. The report <a href=\":"
+"update\">Available translation updates</a> shows the status. Interface "
+"text can be customized in the <a href=\":translate\">user interface "
+"translation</a> page."
+msgstr ""
+"وەرگێڕانەکانی ڕووکار بە شێوەیەکی ئۆتۆماتیکی هاوردە دەکرێن کاتێک زمانێک "
+"زیاد دەکرێت، یان کاتێک مۆدیولە نوێکان یان ڕووکارەکان چالاک دەکرێن. ڕاپۆرتی "
+"<a href=\":update\"> نوێکردنەوەکانی وەرگێڕانە بەردەستەکان</a> ڕەوش پیشان "
+"دەدات. دەقی ڕووکار دەتوانرێت تایبەتمەند بکرێت لە لاپەڕەی <a href=\":"
+"translate\">وەرگێڕانی ڕووکاری بەکارهێنەر.</a> ."
+
+msgid "End tour"
+msgstr "کۆتاییی گەشت"
+
+msgid "@tour_item of @total"
+msgstr "@گەشت_بڕگە لە @هەموو"
+
+msgid "Edit user account"
+msgstr "دەسکاریکردنی هەژماری بەکارهێنەر"
+
+msgid "View profile"
+msgstr "بینینی پرۆفایل"
+
+msgid "Edit profile"
+msgstr "پرۆفایل"
+
+msgid "Media library"
+msgstr "کتێبخانەی ڕەنگاڵە"
+
+msgid "Media Library thumbnail (220×220)"
+msgstr "وێنۆچکەی کتێبخانەی ڕەنگاڵە (220 لە 220)"
+
+msgid "Find and manage media."
+msgstr "دۆزینەوە و ڕێکخستنی ڕەنگاڵە."
+
+msgid "Apply filters"
+msgstr "جێگیرکردنی پاڵێو"
+
+msgid "Publishing status"
+msgstr "بڵاوکردنەوەی ڕەوش"
+
+msgid "Media type"
+msgstr "جۆری ڕەنگاڵە"
+
+msgid "Newest first"
+msgstr "سەرەتا تازەترینەکان"
+
+msgid "Name (A-Z)"
+msgstr "ناو (لە سەرەوە بەرەو خوار)"
+
+msgid "Name (Z-A)"
+msgstr "ناو (لە خوارەوە بەرەو سەر)"
+
+msgid "No media available."
+msgstr "هیچ ڕەنگاڵەیەک نییە."
+
+msgid "Edit {{ name }}"
+msgstr "دەسکاریکردنی {{ ناو }}"
+
+msgid "Delete {{ name }}"
+msgstr "سڕینەوەی {{ ناو }}"
+
+msgid "Widget"
+msgstr "ویجێت"
+
+msgid "Grid"
+msgstr "تۆڕاوی"
+
+msgid "Widget (table)"
+msgstr "ویجێت (خشتە)"
+
+msgid "Thumbnail"
+msgstr "وێنۆچکە"
+
+msgid "Audio file"
+msgstr "پەڕگەی دەنگی"
+
+msgid "Document"
+msgstr "بەڵگە"
+
+msgid "Video URL"
+msgstr "یووئاڕئێڵی ڤیدیۆیی"
+
+msgid "Video file"
+msgstr "پەڕگەی ڤیدیۆیی"
+
+msgid "Max 1300x1300"
+msgstr "لانیزۆر 1300x1300"
+
+msgid "Max 2600x2600"
+msgstr "لانیزۆر 2600x2600"
+
+msgid "Max 325x325"
+msgstr "لانیزۆر 325x325"
+
+msgid "Max 650x650"
+msgstr "لانیزۆر 650x650"
+
+msgid "Audio"
+msgstr "دەنگ"
+
+msgid "A locally hosted audio file."
+msgstr "پەڕگەیەکی دەنگیی خانەخوێی خۆجێیی."
+
+msgid "An uploaded file or document, such as a PDF."
+msgstr "پەڕگە یان بەڵگەیەکی بارکراو، وەکوو پی‌دی‌ئێف."
+
+msgid "Use local images for reusable media."
+msgstr ""
+"وێنە خۆجێیییەکان بۆ ئەو ڕەنگاڵەیانە بەکار بێنن کەوا دەکرێ دووبارە بەکار "
+"بهێنرێنەوە."
+
+msgid "Remote video"
+msgstr "ڤیدیۆیەک لە ڕێی دوورەوە"
+
+msgid "A remotely hosted video from YouTube or Vimeo."
+msgstr "ڤیدیۆیەکی دوورخانەخوێ لە یووتووب و ڤێمیۆ."
+
+msgid "Video"
+msgstr "ڤیدیۆ"
+
+msgid "A locally hosted video file."
+msgstr "پەڕگەیەکی ڤیدیۆییی خانەخوێی خۆجێیی."
+
+msgid "Narrow"
+msgstr "باریک"
+
+msgid "Wide"
+msgstr "پان"
+
+msgid "Aggregator RSS feed"
+msgstr "ڕاگەیەنەری ئاڕئێس‌ئێسی کۆکەرەوە"
+
+msgid "Item ID"
+msgstr "ئای‌دیی بڕگە"
+
+msgid "Aggregator sources"
+msgstr "سەرچاوەکانی کۆکردنەوە"
+
+msgid "Delete media"
+msgstr "سڕینەوەی ڕەنگاڵە"
+
+msgid "Publish media"
+msgstr "بڵاوکردنەوەی ڕەنگاڵە"
+
+msgid "Save media"
+msgstr "پاشەکەوتکردنی ڕەنگاڵە"
+
+msgid "Unpublish media"
+msgstr "بڵاونەکردنەوەی ڕەنگاڵە"
+
+msgid "Media name"
+msgstr "ناوی ڕەنگاڵە"
+
+msgid "True"
+msgstr "ڕاست"
+
+msgid "Comment_forum"
+msgstr "سەکۆکانی بۆچوون"
+
+msgid "Default comment field"
+msgstr "خانەی بۆچوونی بنەڕەتی"
+
+msgid "Container"
+msgstr "کۆگا"
+
+msgid "An AJAX HTTP error occurred."
+msgstr "هەڵەیەکی AJAX HTTP ڕووی دا."
+
+msgid "HTTP Result Code: !status"
+msgstr "کۆدی ئەنجامی ئەیچ‌تی‌ئێم‌ئێڵ: !ڕەوش"
+
+msgid "An AJAX HTTP request terminated abnormally."
+msgstr "داواکارییەکی AJAX HTTP بە شێوازێکی نائاسایی کۆتایی هات."
+
+msgid "Debugging information follows."
+msgstr "زانیاریی هەڵدۆزین بەم شێوەیەیە."
+
+msgid "Path: !uri"
+msgstr "ڕێڕەو: !uri"
+
+msgid "StatusText: !statusText"
+msgstr "دەق‌ڕەوش: !دەق‌ڕەوش"
+
+msgid "ResponseText: !responseText"
+msgstr "دەق‌وەڵام: !دەق‌وەڵام"
+
+msgid "ReadyState: !readyState"
+msgstr "دۆخی ئامادە: !دۆخی ئامادە"
+
+msgid "CustomMessage: !customMessage"
+msgstr "نامەی ڕاسپێراو: !نامەی ڕاسپێراو"
+
+msgid "The response failed verification so will not be processed."
+msgstr "پەسندی وەڵام ناسەرکەوتوو بوو، بۆیە ڕێک ناخرێت."
+
+msgid "The callback URL is not local and not trusted: !url"
+msgstr "یووئاڕئێڵی پێوەندیکردنەوە خۆجێیی و جێمتمانە نییە: !یووئاڕئێڵ"
+
+msgid "Changed"
+msgstr "گۆڕاو"
+
+msgid "Close"
+msgstr "داخستن"
+
+msgid "@action @title configuration options"
+msgstr "@action @title بژاردەکانی شێوەپێدان"
+
+msgid "Collapse"
+msgstr "شاردنەوە"
+
+msgid "@label"
+msgstr "@label"
+
+msgid "Horizontal orientation"
+msgstr "ئاراستەی ئاسۆیی"
+
+msgid "Vertical orientation"
+msgstr "ئاراستەی ئەستوونی"
+
+msgid ""
+"The toolbar cannot be set to a horizontal orientation when it is locked."
+msgstr "تووڵامراز بە ئاراستەی ئاسۆییدا جێگیر ناکرێ کاتێک کلیل دراوە."
+
+msgid "Tray orientation changed to @orientation."
+msgstr "ئاراستەی سینی گۆڕا بۆ @orientation."
+
+msgid "opened"
+msgstr "کراوە"
+
+msgid "Tray \"@tray\" @action."
+msgstr "سینی \"@tray\" @action."
+
+msgid "Tray @action."
+msgstr "سینی @action."
+
+msgid "!tour_item of !total"
+msgstr "!tour_item لە !total"
+
+msgid "Tabbing is no longer constrained by the Contextual module."
+msgstr "تەبینگ چیتر لە لایەن مۆدیوڵە کانتێکشچواڵەکانەوە سنووردار ناکرێت."
+
+msgid ""
+"Tabbing is constrained to a set of @contextualsCount and the edit mode "
+"toggle."
+msgstr ""
+"تابینگ سووردار کراوە بە کۆمەڵەیەک لە @contextualsCount و شاردنەوەی دۆخی "
+"دەسکاریکردن."
+
+msgid "Press the esc key to exit."
+msgstr "پەنجە بنێ بە دوگمەی escدا بۆ چوونەدەرەوە."
+
+msgid "@count contextual link"
+msgid_plural "@count contextual links"
+msgstr[0] "@count بەستەری کنتێکسچواڵ"
+msgstr[1] "@count بەستەرە کنتێکسچواڵەکان"
+
+msgid "Editing"
+msgstr "دەسکاریکردن"
+
+msgid "Exited edit mode."
+msgstr "دۆخی دەسکاریکردنی دەرچوو."
+
+msgid ""
+"<em>Books</em> have a built-in hierarchical navigation. Use for handbooks "
+"or tutorials."
+msgstr ""
+"<em>Books</em> ڕێدۆزییەکی هیرارشییان هەیە. لە کتێبە یاریدەدەری و "
+"فێرکارییەکاندا بەکار دەبرێن."
+
+msgid "Show all columns"
+msgstr "پیشاندانی هەموو ئەستوونەکان"
+
+msgid "Hide lower priority columns"
+msgstr "شاردنەوەی ئەو ئەستوونانەی بە لەپێشێتیی کەمترەوە"
+
+msgid ""
+"Show table cells that were hidden to make the table fit within a small "
+"screen."
+msgstr ""
+"پیشاندانی خانەکانی خشتە کە شاراوەن بۆ ئەوەی خشتەکە لە ناو شاشەی بچووکدا "
+"بگونجێت."
+
+msgid "!modules modules are available in the modified list."
+msgstr "مۆدیوڵەکان لە لیستی گۆڕدراواندا بەردەستن."
+
+msgid "Editorial"
+msgstr "سەروتاری"
+
+msgctxt "Workflow state label"
+msgid "Archived"
+msgstr "ئارشیڤکراو"
+
+msgctxt "Workflow state label"
+msgid "Draft"
+msgstr "ڕەشنووس"
+
+msgctxt "Workflow state label"
+msgid "Published"
+msgstr "بڵاوکراو"
+
+msgctxt "Workflow transition label"
+msgid "Archive"
+msgstr "ئارشیڤ"
+
+msgctxt "Workflow transition label"
+msgid "Restore to Draft"
+msgstr "گەڕاندنەوە بۆ دۆخی ڕەشنووس"
+
+msgctxt "Workflow transition label"
+msgid "Restore"
+msgstr "گەڕاندنەوە"
+
+msgctxt "Workflow transition label"
+msgid "Create New Draft"
+msgstr "ڕەشنووسێکی نوێ دروست بکە"
+
+msgctxt "Workflow transition label"
+msgid "Publish"
+msgstr "بڵاوکردنەوە"
+
+msgid "Find and moderate content."
+msgstr "دۆزینەوە و مامناوەندکردنی ناوەڕۆک."
+
+msgid "Moderation state"
+msgstr "دۆخی مامناوەند"
+
+msgid ""
+"No moderated content available. Only pending versions of content, such as "
+"drafts, are listed here."
+msgstr ""
+"هیچ ناوەڕۆکێکی مامناوەند بەردەست نییە. تەنها وەشانە هەڵپەسێراوەکانی "
+"ناوەڕۆک، وەک ڕەشنووسەکان، لێرە لیست کراون."
+
+msgid "Quick edit"
+msgstr "دەسکاریکردنی خێرا"
+
+msgid ""
+"Could not load the form for <q>@field-label</q>, either due to a website "
+"problem or a network connection problem.<br>Please try again."
+msgstr ""
+"ناتوانرێ فۆرم بۆ <q>@field-label</q> بار بکرێ، یان لەبەر کێشەی ماڵپەڕە یان "
+"کێشەی پەیوەندییەکانی تۆڕە.\n"
+"تکایە سەرەنوێ هەوڵ بدەرەوە."
+
+msgid "Network problem!"
+msgstr "کێشەی ڕایەڵە!"
+
+msgid ""
+"Your changes to <q>@entity-title</q> could not be saved, either due to a "
+"website problem or a network connection problem.<br>Please try again."
+msgstr ""
+"گۆڕانکارییەکانت بۆ <q>@entity-title</q> ناتوانرێ پاشەکەوت بکرێ. یان لەبەر "
+"کێشەی ماڵپەڕە یان کێشەی پەیوەندییەکانی ڕایەڵەیە. تکایە سەرلەنوێ هەوڵ "
+"بدەرەوە."
+
+msgid "You have unsaved changes"
+msgstr "تۆ گۆڕانکاریی پاشەکەوتنەکراوت هەیە"
+
+msgid "Discard changes?"
+msgstr "وەلانانی گۆڕانکارییەکان?"
+
+msgid "Discard changes"
+msgstr "لابردنی گۆڕانکارییەکان"
+
+msgid "Saving"
+msgstr "لە پاشەکەوتکردندایە"
+
+msgid "You have unsaved changes."
+msgstr "تۆ گۆڕانکاریی پاشەکەوتنەکراوت هەیە."
+
+msgid "Hide row weights"
+msgstr "شاردنەوەی سەنگە ڕیزەکان"
+
+msgid "List additional actions"
+msgstr "لیستکردنی کردارە زیادەکان"
+
+msgid "Hide description"
+msgstr "شاردنەوەی دەربارە"
+
+msgid "Show description"
+msgstr "پیشاندانی دەربارە"
+
+msgid ""
+"Changes made in this table will not be saved until the form is submitted."
+msgstr ""
+"تاوەکوو فۆرمەکە نەنێردرێ، گۆڕانکارییەکان لەم خشتەیەدا پاشەکەوت ناکرێن."
