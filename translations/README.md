@@ -1,4 +1,5 @@
-<div style="direction:rtl">
+<div dir=rtl>
+ تاقیکردنەوە
 
 ## وێردپرێس ٤.٧
 سەرەتای دانانی .po لێرە
