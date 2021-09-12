@@ -45,3 +45,11 @@ ggplot() +
 
 letters_used['ە']
 ```
+
+The dataset could give us the wrong information. Just because we do not know the curation and also authors of the entries picked up from the World WILD Web. What can we do? How about looking at the CKB Wikipedia? At least the titles of the articles would have gone through some good revisions.
+
+OK, let us go for it:
+
+```{r}
+source("ckb-kurdi.R")
+```
